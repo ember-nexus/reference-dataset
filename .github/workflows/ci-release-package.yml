@@ -1,0 +1,108 @@
+name: Release package
+on:
+  workflow_dispatch:
+    inputs:
+      release-type:
+        description: 'Release type (one of): patch, minor, major'
+        required: true
+permissions:
+  contents: write
+jobs:
+  release-package:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # see also https://github.com/Nautilus-Cyberneering/pygithub
+      - name: Import GPG key
+        id: import-gpg
+        uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+
+      - name: Debug GPG
+        run: |
+          echo "fingerprint: ${{ steps.import-gpg.outputs.fingerprint }}"
+          echo "keyid:       ${{ steps.import-gpg.outputs.keyid }}"
+          echo "name:        ${{ steps.import-gpg.outputs.name }}"
+          echo "email:       ${{ steps.import-gpg.outputs.email }}"
+
+      - name: Git configuration
+        run: |
+          git config --global user.email "${{ steps.import-gpg.outputs.email }}"
+          git config --global user.name "${{ steps.import-gpg.outputs.name }}"
+
+      - name: Bump version
+        shell: bash
+        run: |
+          sudo apt-get install -y moreutils
+          docker pull usvc/semver:latest
+          version=$(cat summary.json | jq -r .backupVersion)
+          bumpType=${{ github.event.inputs.release-type }}
+          newVersion="$(docker run usvc/semver:latest bump $bumpType $version | tr -d '\r')"
+          jq --arg newVersion "$newVersion" '.backupVersion = $newVersion' summary.json | sponge summary.json
+          echo "New version: $newVersion"
+          echo "NEW_VERSION=$newVersion" >> $GITHUB_ENV
+          echo "RELEASE_TAG=latest" >> $GITHUB_ENV
+
+      - name: Update changelog unreleased section with new version
+        uses: superfaceai/release-changelog-action@v1
+        with:
+          path-to-changelog: CHANGELOG.md
+          version: ${{ env.NEW_VERSION }}
+          operation: release
+
+      - name: Commit changes and create tag
+        run: |
+          git add "summary.json"
+          git add "CHANGELOG.md"
+          git commit -m "chore: release ${{ env.NEW_VERSION }}"
+          git tag ${{ env.NEW_VERSION }}
+
+      - name: Push repository changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push origin && git push --tags
+
+      - name: Read version changelog
+        id: get-changelog
+        uses: superfaceai/release-changelog-action@v1
+        with:
+          path-to-changelog: CHANGELOG.md
+          version: ${{ env.NEW_VERSION }}
+          operation: read
+
+      - name: Update GitHub release changelog
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ env.NEW_VERSION }}
+          body: ${{ steps.get-changelog.outputs.changelog }}
+          prerelease: ${{ startsWith(github.event.inputs.release-type, 'pre') }}
+          token: ${{ secrets.RELEASE_TOKEN }}
+
+# disabled due to low credits in free tier (5 per month)
+#      - name: Initiate Originstamp certificate
+#        run: |
+#          curl -X POST "http://api.originstamp.com/v4/timestamp/create" \
+#            -H "Content-Type: application/json" \
+#            -H "Authorization: ${{ secrets.ORIGINSTAMP_AUTH_TOKEN }}" \
+#            -d \
+#            "{
+#              \"comment\": \"Release ${{ env.NEW_VERSION }} of ember-nexus/web-sdk\",
+#              \"hash\": \"${{ env.SHA }}\"
+#            }"
+#        env:
+#          SHA: ${{ github.sha }}
+#
+#      - uses: JasonEtco/create-an-issue@v2
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+#          NEW_VERSION: ${{ env.NEW_VERSION }}
+#        with:
+#          filename: .github/ISSUE_TEMPLATE_POST_RELEASE_TASK.md
