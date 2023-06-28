@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "8d70608f-ebca-4077-98d2-12733b7fd08e",
+  "data": {
+    "name": "User",
+    "email": "user@relation.patchElement.endpoint.localhost.de",
+    "test": "endpoint.patchElement.relation"
+  }
+}

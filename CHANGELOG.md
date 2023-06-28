@@ -8,3 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Initial commit, extracted backup from https://github.com/ember-nexus/api .
+- Change backup structure, replace numbered format with full text identifiers.
