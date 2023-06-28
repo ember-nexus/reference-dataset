@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "78a32cdf-de90-404f-a335-5c440223fa25",
+  "start": "1ab54e88-a9cc-481a-b371-8873ca56c51b",
+  "end": "ff4e204b-ccda-4bc8-b935-f51e87dc9bdd",
+  "data": {
+    "test": "general.pagination"
+  }
+}
