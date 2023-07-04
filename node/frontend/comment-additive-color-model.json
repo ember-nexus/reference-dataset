@@ -1,0 +1,8 @@
+{
+  "type": "Comment",
+  "id": "5bd2a18a-6d26-4fcd-99a7-9705794b63fc",
+  "data": {
+    "name": "Additive color model",
+    "content": "Additive color or additive mixing is a property of a color model that predicts the appearance of colors made by coincident component lights, i.e. the perceived color can be predicted by summing the numeric representations of the component colors. Modern formulations of Grassmann's laws describe the additivity in the color perception of light mixtures in terms of algebraic equations. Additive color predicts perception and not any sort of change in the photons of light themselves. These predictions are only applicable in the limited scope of color matching experiments where viewers match small patches of uniform color isolated against a grey or black background."
+  }
+}
