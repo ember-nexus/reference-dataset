@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "c9d07f63-a149-4da8-bbdd-dee1c4d2ddd0",
+  "data": {
+    "name": "Data",
+    "test": "endpoint.user.deleteToken"
+  }
+}
