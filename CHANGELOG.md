@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Changed
+- Refactor folder structure.
+### Added
+- Add test scenario `endpoint.user.postToken` for [Ember Nexus API #49: HTTP POST /token - PostTokenController](https://github.com/ember-nexus/api/issues/49).
+- Add test scenario `endpoint.user.deleteToken` for [Ember Nexus API #65: HTTP DELETE /token - DeleteTokenController](https://github.com/ember-nexus/api/issues/65).
+- Add test scenario `endpoint.user.getToken` for [Ember Nexus API #72: HTTP GET /token - GetTokenController](https://github.com/ember-nexus/api/issues/72).
 
 ## 0.0.6 - 2023-07-04
 ### Fixed

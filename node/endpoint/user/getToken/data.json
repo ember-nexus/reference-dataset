@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "b7bdbceb-f413-4dcd-905d-54beba27e30d",
+  "data": {
+    "name": "Data",
+    "test": "endpoint.user.getToken"
+  }
+}

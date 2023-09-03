@@ -1,0 +1,10 @@
+{
+  "type": "Token",
+  "id": "933936dd-4bc8-48ea-bb52-2084b46c32c9",
+  "data": {
+    "token": "secret-token:6SXhgAHr76tTok79RCbdjk",
+    "hash": "317b5f2f14e9cc9e5a3641937b08f7b2951f2ea1a7cd9e4f7ec58408e6bf1c7d",
+    "test": "endpoint.user.getToken",
+    "note": "Token contains token only due to testing purposes."
+  }
+}

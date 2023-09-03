@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "0b42c1d0-9994-4cd4-99db-4ba5e06168cf",
+  "data": {
+    "name": "User",
+    "email": "user@deleteToken.user.endpoint.localhost.de",
+    "test": "endpoint.user.getToken"
+  }
+}

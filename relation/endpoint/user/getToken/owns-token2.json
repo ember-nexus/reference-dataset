@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "09886ad2-5311-4fb3-bd54-9f00488c348c",
+  "start": "0b42c1d0-9994-4cd4-99db-4ba5e06168cf",
+  "end": "933936dd-4bc8-48ea-bb52-2084b46c32c9",
+  "data": {
+    "test": "endpoint.user.getToken"
+  }
+}

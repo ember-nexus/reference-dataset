@@ -1,9 +1,0 @@
-{
-  "type": "User",
-  "id": "1a0fd886-9f62-497f-8d20-bd61a40b49b7",
-  "data": {
-    "name": "User",
-    "email": "user@node.deleteElement.endpoint.localhost.de",
-    "test": "endpoint.deleteElement.node"
-  }
-}
