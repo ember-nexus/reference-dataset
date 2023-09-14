@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Changed
+- Add token file back for test `endpoint.user.postToken`.
 - **Switch license to GPL-3.0-only.**
 
 ## 0.0.8 - 2023-09-08
