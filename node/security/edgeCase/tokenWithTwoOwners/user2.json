@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "9827facc-40b0-40ca-a7a5-ff947e1c4b86",
+  "data": {
+    "name": "User 2",
+    "email": "user2@99-06.localhost.de",
+    "test": "security.edgeCase.tokenWithTwoOwners"
+  }
+}

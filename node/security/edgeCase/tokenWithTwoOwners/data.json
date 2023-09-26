@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "d69f2e6c-ce6a-4915-a567-acf0c1fc4432",
+  "data": {
+    "name": "Data 1",
+    "test": "security.edgeCase.tokenWithTwoOwners"
+  }
+}
