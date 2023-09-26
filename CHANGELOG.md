@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Add test scenario `security.edgeCase.tokenWithNoOwner` and `security.edgeCase.tokenWithTwoOwners`, closes #10.
+### Fixed
+- Fix test scenario `security.edgeCase.tokenWithTwoOwners`, token no longer own data element.
 
 ## 0.0.9 - 2023-09-14
 ### Changed
