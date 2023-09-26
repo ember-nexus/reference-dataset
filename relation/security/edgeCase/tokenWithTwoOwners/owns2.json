@@ -1,7 +1,7 @@
 {
   "type": "OWNS",
-  "id": "5816dad6-b94a-433f-a7d7-61a7d647da14",
-  "start": "3b9bd45a-a363-434f-8956-2877857c7456",
+  "id": "3b6d4997-8898-43f8-9c4b-cd9f2c1d1895",
+  "start": "9827facc-40b0-40ca-a7a5-ff947e1c4b86",
   "end": "d69f2e6c-ce6a-4915-a567-acf0c1fc4432",
   "data": {
     "test": "security.edgeCase.tokenWithTwoOwners"
