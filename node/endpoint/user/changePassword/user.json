@@ -1,0 +1,12 @@
+{
+  "type": "User",
+  "id": "57dc77cd-2706-4340-8ab2-617e22f592a8",
+  "data": {
+    "name": "User",
+    "email": "user@changePassword.user.endpoint.localhost.de",
+    "test": "endpoint.user.changePassword",
+    "_passwordHash": "$argon2i$v=19$m=65536,t=4,p=1$UkJWQlZtbXBnQkFVYmFndA$nDezKtcTUVp22jPmvR6KWGib7s2sUkyVgzG+oighfoQ",
+    "password": "1234",
+    "note": "User contains password only due to testing purposes."
+  }
+}
