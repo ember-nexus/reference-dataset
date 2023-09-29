@@ -1,0 +1,12 @@
+{
+  "type": "User",
+  "id": "2d376349-c5e2-42c8-8ce0-d6f525256cf7",
+  "data": {
+    "name": "User",
+    "email": "anonymous-user@localhost.dev",
+    "test": "general.anonymousUser",
+    "_passwordHash": "$argon2i$v=19$m=65536,t=4,p=1$eXVNWnlmR3dDb21CejVtTA$fu9TbXAiv4pf0w1zgZCJ3pKV0ZR7NWcDKe6ZQwzrmpw",
+    "password": "1234",
+    "note": "User contains password only due to testing purposes."
+  }
+}
