@@ -1,4 +1,4 @@
-name: Markdown lint
+name: Test
 
 on:
   - push
@@ -6,11 +6,19 @@ on:
   - pull_request
 
 jobs:
-  yml-lint:
+
+  json-lint:
+    runs-on: ubuntu-latest
+    name: 'JSON lint'
+    steps:
+      - uses: actions/checkout@v3
+      - run: docker pull cytopia/jsonlint
+      - run: docker run --rm -t -v $(pwd):/data cytopia/jsonlint -t '  ' '*.json'
+
+  markdown-lint:
     runs-on: ubuntu-latest
     name: 'Markdown lint'
     steps:
       - uses: actions/checkout@v3
       - run: docker pull tmknom/markdownlint
       - run: docker run --rm -v $(pwd):/work tmknom/markdownlint '**/*.md' --ignore CHANGELOG.md
-        shell: bash
