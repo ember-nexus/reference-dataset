@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Add test scenario `endpoint.user.changePassword`, closes #13.
+- Add `cytopia/jsonlint` to CI to verify JSON files, closes #16.
+### Changed
+- Add newline to all JSON files.
 
 ## 0.0.10 - 2023-09-26
 ### Added
