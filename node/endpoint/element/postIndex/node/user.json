@@ -3,7 +3,7 @@
   "id": "2274873a-b9a2-4e77-b330-900857b76c1d",
   "data": {
     "name": "User",
-    "email": "user@node.postIndex.endpoint.localhost.de",
+    "email": "user@node.postIndex.endpoint.localhost.dev",
     "test": "endpoint.element.postIndex.node"
   }
 }

@@ -3,7 +3,7 @@
   "id": "fdf0509d-812c-4435-a863-a4fd6f17e9c4",
   "data": {
     "name": "User",
-    "email": "user@relation.postIndex.endpoint.localhost.de",
+    "email": "user@relation.postIndex.endpoint.localhost.dev",
     "test": "endpoint.element.postIndex.relation"
   }
 }

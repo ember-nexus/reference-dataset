@@ -3,7 +3,7 @@
   "id": "1eb25cca-9c9e-4ec9-a9be-9044741b2b8c",
   "data": {
     "name": "User",
-    "email": "user@deleteToken.user.endpoint.localhost.de",
+    "email": "user@deleteToken.user.endpoint.localhost.dev",
     "test": "endpoint.user.deleteToken"
   }
 }

@@ -3,7 +3,7 @@
   "id": "3b9bd45a-a363-434f-8956-2877857c7456",
   "data": {
     "name": "User 1",
-    "email": "user1@99-06.localhost.de",
+    "email": "user1@99-06.localhost.dev",
     "test": "security.edgeCase.tokenWithTwoOwners"
   }
 }
