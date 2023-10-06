@@ -3,7 +3,7 @@
   "id": "fd1c9d7d-e7f0-41e2-854c-04bc7470c05a",
   "data": {
     "name": "User",
-    "email": "user@4-02.localhost.de",
+    "email": "user@4-02.localhost.dev",
     "test": "security.multipleGroups.immediateRelationOwnership"
   }
 }

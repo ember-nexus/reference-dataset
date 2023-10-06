@@ -3,7 +3,7 @@
   "id": "53ae199c-6b71-44c1-b10c-fca306b32cbf",
   "data": {
     "name": "User",
-    "email": "user@relation.putElement.endpoint.localhost.de",
+    "email": "user@relation.putElement.endpoint.localhost.dev",
     "test": "endpoint.element.putElement.relation"
   }
 }

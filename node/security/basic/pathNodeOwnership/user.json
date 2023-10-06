@@ -3,7 +3,7 @@
   "id": "16520184-8319-4ab7-a38a-63f8ae11d715",
   "data": {
     "name": "User",
-    "email": "user@2-03.localhost.de",
+    "email": "user@2-03.localhost.dev",
     "test": "security.basic.pathNodeOwnership"
   }
 }

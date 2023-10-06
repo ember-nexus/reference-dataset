@@ -3,7 +3,7 @@
   "id": "1c31709c-2e52-4407-87d1-d611d9a1a79f",
   "data": {
     "name": "User 1",
-    "email": "user1@7-01.localhost.de",
+    "email": "user1@7-01.localhost.dev",
     "test": "security.limitedAccess.searchAccess"
   }
 }

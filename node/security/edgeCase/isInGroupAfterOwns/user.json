@@ -3,7 +3,7 @@
   "id": "32c3da1e-4fe2-49b9-bcbb-1cd5ff2b8890",
   "data": {
     "name": "User",
-    "email": "user@99-01.localhost.de",
+    "email": "user@99-01.localhost.dev",
     "test": "security.edgeCase.isInGroupAfterOwns"
   }
 }

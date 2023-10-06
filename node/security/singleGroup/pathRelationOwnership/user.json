@@ -3,7 +3,7 @@
   "id": "faab1a1d-37ea-4275-afea-afe461322d0e",
   "data": {
     "name": "User",
-    "email": "user@3-04.localhost.de",
+    "email": "user@3-04.localhost.dev",
     "test": "security.singleGroup.pathRelationOwnership"
   }
 }
