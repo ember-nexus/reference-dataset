@@ -4,6 +4,6 @@
   "start": "3d0aa99e-ae4f-422c-b8a8-ea010871ae8c",
   "end": "a053b087-9384-4a51-9892-896094a6c74e",
   "data": {
-    "test": "security.basic.directedOwnsRelation"
+    "scenario": "security.basic.directedOwnsRelation"
   }
 }

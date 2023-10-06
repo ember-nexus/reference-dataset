@@ -4,6 +4,6 @@
   "start": "4c40eb7d-7150-4e0d-983e-c4d57d5192f0",
   "end": "147878f5-9049-4c12-a4b3-20c27f152f06",
   "data": {
-    "test": "security.basic.missingAccessToStartOrEndNode"
+    "scenario": "security.basic.missingAccessToStartOrEndNode"
   }
 }

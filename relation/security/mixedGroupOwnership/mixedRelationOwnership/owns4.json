@@ -4,6 +4,6 @@
   "start": "2ebd5c17-a9f3-4ec3-b985-d326db64231d",
   "end": "01a23f36-fa76-4a9c-acfa-11803ebba906",
   "data": {
-    "test": "security.mixedGroupOwnership.mixedRelationOwnership"
+    "scenario": "security.mixedGroupOwnership.mixedRelationOwnership"
   }
 }

@@ -4,7 +4,7 @@
   "data": {
     "token": "secret-token:BHaj5TtWZU7tJgEobfYvui",
     "hash": "86f87e4b1fd50affa77734ba2d234cc97519ce6dd18678f00765ce17df2d9afb",
-    "test": "security.basic.directedOwnsRelation",
+    "scenario": "security.basic.directedOwnsRelation",
     "note": "Token contains token only due to testing purposes."
   }
 }

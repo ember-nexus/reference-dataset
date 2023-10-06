@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@99-02.localhost.dev",
-    "test": "security.edgeCase.owningGroupsDoesNotGrantRecursiveRights"
+    "scenario": "security.edgeCase.owningGroupsDoesNotGrantRecursiveRights"
   }
 }

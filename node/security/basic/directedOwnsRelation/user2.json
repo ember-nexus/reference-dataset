@@ -4,6 +4,6 @@
   "data": {
     "name": "User 2",
     "email": "user@1-04.localhost.dev",
-    "test": "security.basic.directedOwnsRelation"
+    "scenario": "security.basic.directedOwnsRelation"
   }
 }

@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@4-03.localhost.dev",
-    "test": "security.multipleGroups.pathNodeOwnership"
+    "scenario": "security.multipleGroups.pathNodeOwnership"
   }
 }

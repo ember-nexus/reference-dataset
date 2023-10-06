@@ -3,6 +3,6 @@
   "id": "9edb178e-1b4a-4518-a9d3-0fa97e6d1007",
   "data": {
     "name": "Data",
-    "test": "general.anonymousUser"
+    "scenario": "general.anonymousUser"
   }
 }

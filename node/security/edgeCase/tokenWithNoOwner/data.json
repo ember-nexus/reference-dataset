@@ -3,6 +3,6 @@
   "id": "ebc364c6-ba06-4e80-9491-9bcc091199c6",
   "data": {
     "name": "Data 1",
-    "test": "security.edgeCase.tokenWithNoOwner"
+    "scenario": "security.edgeCase.tokenWithNoOwner"
   }
 }

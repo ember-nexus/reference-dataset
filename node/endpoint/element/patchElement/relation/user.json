@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@relation.patchElement.endpoint.localhost.dev",
-    "test": "endpoint.element.patchElement.relation"
+    "scenario": "endpoint.element.patchElement.relation"
   }
 }

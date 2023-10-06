@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Changed
 - Change email TLD from .de to .dev, closes #14.
+- Replace legacy property name "test" with "scenario", closes #20.
 
 ## 0.0.12 - 2023-09-29
 ### Added

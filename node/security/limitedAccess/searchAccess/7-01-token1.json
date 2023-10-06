@@ -4,7 +4,7 @@
   "data": {
     "token": "secret-token:Dp6FGPhJplengl8NSAI7vO",
     "hash": "6a86c9a8fdbda9f75facc0dfefdba006d8a4f69599159a0f801d81a83034a096",
-    "test": "security.limitedAccess.searchAccess",
+    "scenario": "security.limitedAccess.searchAccess",
     "note": "Token contains token only due to testing purposes."
   }
 }

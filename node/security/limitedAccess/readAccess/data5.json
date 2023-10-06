@@ -3,6 +3,6 @@
   "id": "c91e6684-cc98-407d-af01-e94bc9420b9a",
   "data": {
     "name": "Data 5",
-    "test": "security.limitedAccess.readAccess"
+    "scenario": "security.limitedAccess.readAccess"
   }
 }

@@ -4,6 +4,6 @@
   "start": "2d376349-c5e2-42c8-8ce0-d6f525256cf7",
   "end": "9edb178e-1b4a-4518-a9d3-0fa97e6d1007",
   "data": {
-    "test": "general.anonymousUser"
+    "scenario": "general.anonymousUser"
   }
 }

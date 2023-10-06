@@ -3,6 +3,6 @@
   "id": "55cce573-1377-4781-be16-8b81587aca10",
   "data": {
     "name": "Data",
-    "test": "endpoint.element.deleteElement.node"
+    "scenario": "endpoint.element.deleteElement.node"
   }
 }

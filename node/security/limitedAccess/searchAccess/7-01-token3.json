@@ -4,7 +4,7 @@
   "data": {
     "token": "secret-token:MJ04n655khrXMOraf9INcV",
     "hash": "a442c412d8616541e3f6c3ec1f00ea7a86181889e42ec82c30d434a39026cfce",
-    "test": "security.limitedAccess.searchAccess",
+    "scenario": "security.limitedAccess.searchAccess",
     "note": "Token contains token only due to testing purposes."
   }
 }

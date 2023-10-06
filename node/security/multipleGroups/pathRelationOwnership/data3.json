@@ -3,6 +3,6 @@
   "id": "1353ff2e-1bde-4162-ac26-d82167e6f708",
   "data": {
     "name": "Data 3",
-    "test": "security.multipleGroups.pathRelationOwnership"
+    "scenario": "security.multipleGroups.pathRelationOwnership"
   }
 }

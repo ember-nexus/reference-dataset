@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@2-02.localhost.dev",
-    "test": "security.basic.immediateRelationOwnership"
+    "scenario": "security.basic.immediateRelationOwnership"
   }
 }

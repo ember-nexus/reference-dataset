@@ -4,6 +4,6 @@
   "start": "fbde7b0a-ed3b-4c19-bb95-2952a37feca1",
   "end": "8a97b81c-56cb-4e09-a5e4-c80b7f6f2ee3",
   "data": {
-    "test": "security.edgeCase.isInGroupAfterOwns"
+    "scenario": "security.edgeCase.isInGroupAfterOwns"
   }
 }

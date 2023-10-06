@@ -3,6 +3,6 @@
   "id": "9afdc17d-5b46-4a5b-bea1-dd8090973988",
   "data": {
     "name": "Data 1",
-    "test": "endpoint.element.deleteElement.relation"
+    "scenario": "endpoint.element.deleteElement.relation"
   }
 }

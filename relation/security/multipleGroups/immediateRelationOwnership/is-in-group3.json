@@ -4,6 +4,6 @@
   "start": "78e0af0b-8657-43ae-93b9-5f3a88bf8664",
   "end": "9133d23d-0a4c-4f7b-a1f4-d84587ae9b3c",
   "data": {
-    "test": "security.multipleGroups.immediateRelationOwnership"
+    "scenario": "security.multipleGroups.immediateRelationOwnership"
   }
 }

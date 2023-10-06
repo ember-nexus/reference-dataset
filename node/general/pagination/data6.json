@@ -3,6 +3,6 @@
   "id": "db009c22-d227-4434-be62-ad4c9222cca6",
   "data": {
     "name": "Data 6",
-    "test": "general.pagination"
+    "scenario": "general.pagination"
   }
 }

@@ -3,6 +3,6 @@
   "id": "f2c949af-1e3e-4ef8-9ef1-b25e7d7f4586",
   "data": {
     "name": "Data 33",
-    "test": "general.pagination"
+    "scenario": "general.pagination"
   }
 }

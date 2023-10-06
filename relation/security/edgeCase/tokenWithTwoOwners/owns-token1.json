@@ -4,6 +4,6 @@
   "start": "3b9bd45a-a363-434f-8956-2877857c7456",
   "end": "bbf1baf9-c665-4470-9a1d-47483da18bf3",
   "data": {
-    "test": "security.edgeCase.tokenWithTwoOwners"
+    "scenario": "security.edgeCase.tokenWithTwoOwners"
   }
 }

@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@relation.postIndex.endpoint.localhost.dev",
-    "test": "endpoint.element.postIndex.relation"
+    "scenario": "endpoint.element.postIndex.relation"
   }
 }

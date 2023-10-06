@@ -4,7 +4,7 @@
   "data": {
     "token": "secret-token:HWqEN8ai8eZtnfEIo4e1GI",
     "hash": "77084f038948553ce92e20f11936953278203b18bf2f78b4cc183d8bc447f2e9",
-    "test": "endpoint.user.deleteToken",
+    "scenario": "endpoint.user.deleteToken",
     "note": "Token contains token only due to testing purposes."
   }
 }

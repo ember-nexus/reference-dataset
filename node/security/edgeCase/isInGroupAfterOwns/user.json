@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@99-01.localhost.dev",
-    "test": "security.edgeCase.isInGroupAfterOwns"
+    "scenario": "security.edgeCase.isInGroupAfterOwns"
   }
 }

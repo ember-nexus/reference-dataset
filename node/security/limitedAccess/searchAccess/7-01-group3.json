@@ -3,6 +3,6 @@
   "id": "eb6cd6ba-c091-4b52-bd40-8f1301476489",
   "data": {
     "name": "Group 3",
-    "test": "security.limitedAccess.searchAccess"
+    "scenario": "security.limitedAccess.searchAccess"
   }
 }

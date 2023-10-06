@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@5-02.localhost.dev",
-    "test": "security.mixedGroupOwnership.mixedRelationOwnership"
+    "scenario": "security.mixedGroupOwnership.mixedRelationOwnership"
   }
 }

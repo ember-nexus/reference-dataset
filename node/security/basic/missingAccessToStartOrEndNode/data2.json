@@ -3,6 +3,6 @@
   "id": "3bc1669a-016a-4f10-8bfd-984d341af1bb",
   "data": {
     "name": "Data 2",
-    "test": "security.basic.missingAccessToStartOrEndNode"
+    "scenario": "security.basic.missingAccessToStartOrEndNode"
   }
 }

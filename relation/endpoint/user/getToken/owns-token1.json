@@ -4,6 +4,6 @@
   "start": "0b42c1d0-9994-4cd4-99db-4ba5e06168cf",
   "end": "2f8e245a-ff14-4f3c-b2c9-b8f7a61e55d6",
   "data": {
-    "test": "endpoint.user.getToken"
+    "scenario": "endpoint.user.getToken"
   }
 }

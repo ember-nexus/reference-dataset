@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@pagination.general.localhost.dev",
-    "test": "general.pagination"
+    "scenario": "general.pagination"
   }
 }
