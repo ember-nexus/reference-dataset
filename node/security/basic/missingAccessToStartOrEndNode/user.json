@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@1-03.localhost.dev",
-    "test": "security.basic.missingAccessToStartOrEndNode"
+    "scenario": "security.basic.missingAccessToStartOrEndNode"
   }
 }

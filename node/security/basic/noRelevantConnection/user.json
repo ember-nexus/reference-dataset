@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@1-02.localhost.dev",
-    "test": "security.basic.noRelevantConnection"
+    "scenario": "security.basic.noRelevantConnection"
   }
 }

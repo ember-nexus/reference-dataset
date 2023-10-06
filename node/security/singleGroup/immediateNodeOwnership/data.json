@@ -3,6 +3,6 @@
   "id": "56acb0c6-aaed-451f-b277-bceac61d7632",
   "data": {
     "name": "Data",
-    "test": "security.singleGroup.immediateNodeOwnership"
+    "scenario": "security.singleGroup.immediateNodeOwnership"
   }
 }

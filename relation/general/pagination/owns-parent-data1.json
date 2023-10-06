@@ -4,6 +4,6 @@
   "start": "1ab54e88-a9cc-481a-b371-8873ca56c51b",
   "end": "b756ed67-af43-456f-8056-d8c901f14005",
   "data": {
-    "test": "general.pagination"
+    "scenario": "general.pagination"
   }
 }

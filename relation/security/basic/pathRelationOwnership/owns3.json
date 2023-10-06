@@ -4,6 +4,6 @@
   "start": "ec5ea3d7-d192-4e96-8933-d03a1e16f978",
   "end": "a9a5ed76-755d-43ed-9a5d-8a1de910132c",
   "data": {
-    "test": "security.basic.pathRelationOwnership"
+    "scenario": "security.basic.pathRelationOwnership"
   }
 }

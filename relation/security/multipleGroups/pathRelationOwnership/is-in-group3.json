@@ -4,6 +4,6 @@
   "start": "29941ee9-fdc8-4d85-810e-707c2e199ce9",
   "end": "c943c9c5-4992-418a-80ff-bfa2e9089eab",
   "data": {
-    "test": "security.multipleGroups.pathRelationOwnership"
+    "scenario": "security.multipleGroups.pathRelationOwnership"
   }
 }

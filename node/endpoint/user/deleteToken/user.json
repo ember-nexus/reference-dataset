@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@deleteToken.user.endpoint.localhost.dev",
-    "test": "endpoint.user.deleteToken"
+    "scenario": "endpoint.user.deleteToken"
   }
 }

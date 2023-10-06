@@ -4,6 +4,6 @@
   "start": "c83935f7-bdd6-4eda-ad41-b85e22f5a68f",
   "end": "1ee1a884-f626-4f2a-bfb4-b0cb31fdc1b0",
   "data": {
-    "test": "security.basic.noRelevantConnection"
+    "scenario": "security.basic.noRelevantConnection"
   }
 }

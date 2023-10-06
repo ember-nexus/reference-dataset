@@ -4,6 +4,6 @@
   "start": "1eb25cca-9c9e-4ec9-a9be-9044741b2b8c",
   "end": "befd839e-5711-414e-8fe3-a8a3225dd603",
   "data": {
-    "test": "endpoint.user.deleteToken"
+    "scenario": "endpoint.user.deleteToken"
   }
 }

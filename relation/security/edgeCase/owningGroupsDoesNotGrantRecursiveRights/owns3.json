@@ -4,6 +4,6 @@
   "start": "56dbdf19-8669-43a5-b332-3845e52e9cae",
   "end": "f7a4fff8-8e81-4eb5-8623-ae3d1a159642",
   "data": {
-    "test": "security.edgeCase.owningGroupsDoesNotGrantRecursiveRights"
+    "scenario": "security.edgeCase.owningGroupsDoesNotGrantRecursiveRights"
   }
 }

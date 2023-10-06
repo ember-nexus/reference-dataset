@@ -4,7 +4,7 @@
   "data": {
     "name": "User",
     "email": "user@changePassword.user.endpoint.localhost.dev",
-    "test": "endpoint.user.changePassword",
+    "scenario": "endpoint.user.changePassword",
     "_passwordHash": "$argon2i$v=19$m=65536,t=4,p=1$UkJWQlZtbXBnQkFVYmFndA$nDezKtcTUVp22jPmvR6KWGib7s2sUkyVgzG+oighfoQ",
     "password": "1234",
     "note": "User contains password only due to testing purposes."

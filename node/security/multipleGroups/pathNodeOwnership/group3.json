@@ -3,6 +3,6 @@
   "id": "989775e2-7909-428c-87d5-91de5f193420",
   "data": {
     "name": "Group 3",
-    "test": "security.multipleGroups.pathNodeOwnership"
+    "scenario": "security.multipleGroups.pathNodeOwnership"
   }
 }

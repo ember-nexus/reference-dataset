@@ -3,6 +3,6 @@
   "id": "76cc077f-580f-4a6f-ad33-170c545217d3",
   "data": {
     "name": "Data 2",
-    "test": "security.basic.immediateRelationOwnership"
+    "scenario": "security.basic.immediateRelationOwnership"
   }
 }

@@ -3,6 +3,6 @@
   "id": "8beca827-9319-493d-a28c-6b1358c2c135",
   "data": {
     "name": "Data 2",
-    "test": "security.basic.directedOwnsRelation"
+    "scenario": "security.basic.directedOwnsRelation"
   }
 }

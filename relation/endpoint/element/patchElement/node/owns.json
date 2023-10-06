@@ -4,6 +4,6 @@
   "start": "4250a83d-707b-4f7a-b7dc-225af430f093",
   "end": "d77ca32c-8cf2-4ed9-868e-27ae122e9ea1",
   "data": {
-    "test": "endpoint.element.patchElement.node"
+    "scenario": "endpoint.element.patchElement.node"
   }
 }

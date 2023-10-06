@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@node.postIndex.endpoint.localhost.dev",
-    "test": "endpoint.element.postIndex.node"
+    "scenario": "endpoint.element.postIndex.node"
   }
 }

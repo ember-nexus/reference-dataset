@@ -3,6 +3,6 @@
   "id": "9133d23d-0a4c-4f7b-a1f4-d84587ae9b3c",
   "data": {
     "name": "Group 3",
-    "test": "security.multipleGroups.immediateRelationOwnership"
+    "scenario": "security.multipleGroups.immediateRelationOwnership"
   }
 }

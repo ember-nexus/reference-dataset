@@ -4,6 +4,6 @@
   "data": {
     "name": "User 1",
     "email": "user1@99-06.localhost.dev",
-    "test": "security.edgeCase.tokenWithTwoOwners"
+    "scenario": "security.edgeCase.tokenWithTwoOwners"
   }
 }

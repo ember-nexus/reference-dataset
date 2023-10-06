@@ -4,6 +4,6 @@
   "data": {
     "name": "User 5",
     "email": "user5@7-01.localhost.dev",
-    "test": "security.limitedAccess.searchAccess"
+    "scenario": "security.limitedAccess.searchAccess"
   }
 }

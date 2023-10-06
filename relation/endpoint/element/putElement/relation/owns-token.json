@@ -4,6 +4,6 @@
   "start": "53ae199c-6b71-44c1-b10c-fca306b32cbf",
   "end": "84e32a4f-840b-435a-a064-2e72f19d8b20",
   "data": {
-    "test": "endpoint.element.putElement.relation"
+    "scenario": "endpoint.element.putElement.relation"
   }
 }

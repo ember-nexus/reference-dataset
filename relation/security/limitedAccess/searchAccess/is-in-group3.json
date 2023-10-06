@@ -4,6 +4,6 @@
   "start": "e8e1e3fb-31f2-4479-b899-bedb8c01feb6",
   "end": "8967e985-5ef4-4dfb-b3bc-32a997a39a3d",
   "data": {
-    "test": "security.limitedAccess.searchAccess"
+    "scenario": "security.limitedAccess.searchAccess"
   }
 }

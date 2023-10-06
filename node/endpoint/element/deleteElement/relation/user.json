@@ -4,6 +4,6 @@
   "data": {
     "name": "User",
     "email": "user@relation.deleteElement.endpoint.localhost.dev",
-    "test": "endpoint.element.deleteElement.relation"
+    "scenario": "endpoint.element.deleteElement.relation"
   }
 }
