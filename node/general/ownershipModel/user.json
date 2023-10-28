@@ -1,0 +1,12 @@
+{
+  "type": "User",
+  "id": "e5d6c437-e13c-4fe8-85be-fc12e164eb17",
+  "data": {
+    "name": "User",
+    "email": "anonymous-user@localhost.dev",
+    "scenario": "general.ownershipModel",
+    "_passwordHash": "$argon2i$v=19$m=65536,t=4,p=1$b1FSdkd1OU4zWTdDME1VMQ$sKQXJI9KQTZ5Ddok/dtj3+pbVnEaTY/p0RvhLWSCqSk",
+    "password": "1234",
+    "note": "User contains password only due to testing purposes."
+  }
+}
