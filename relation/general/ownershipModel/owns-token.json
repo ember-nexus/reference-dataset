@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "2aa7f808-d8ef-47a3-a978-56d4b329f5a5",
+  "start": "e5d6c437-e13c-4fe8-85be-fc12e164eb17",
+  "end": "fdc9fc1f-1436-437b-a46d-358dbbb086d1",
+  "data": {
+    "scenario": "general.ownershipModel"
+  }
+}

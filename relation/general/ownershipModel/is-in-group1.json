@@ -1,0 +1,9 @@
+{
+  "type": "IS_IN_GROUP",
+  "id": "39956f35-6f15-4eab-aea2-ff52e395f8cf",
+  "start": "e5d6c437-e13c-4fe8-85be-fc12e164eb17",
+  "end": "3d7bf35e-0188-467f-8cb4-6741a1741429",
+  "data": {
+    "scenario": "general.ownershipModel"
+  }
+}
