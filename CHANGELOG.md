@@ -13,11 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Hotfix due to duplicate email conflict, references [#24].
 
-## 0.0.15 - 2023-10-28 [YANKED]
+## 0.0.15 - 2023-10-28
 ### Changed
 - Hotfix due to duplicate id issue, references [#24].
 
-## 0.0.14 - 2023-10-28 [YANKED]
+## 0.0.14 - 2023-10-28
 ### Added
 - Add test scenario `general.ownershipModel`, closes [#24].
 
@@ -70,7 +70,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Resolved UUID conflict.
 
-## 0.0.5 - 2023-07-04 [YANKED]
+## 0.0.5 - 2023-07-04
 ### Changed
 - Improved frontend demo dataset.
 
