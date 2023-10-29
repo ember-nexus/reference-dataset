@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "a7cff63b-b4d1-4436-bc5a-7018e49912a4",
+  "data": {
+    "name": "Data",
+    "scenario": "security.deleteToken"
+  }
+}

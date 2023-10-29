@@ -1,0 +1,12 @@
+{
+  "type": "User",
+  "id": "cfa21a9e-6ef9-4e16-b346-5dea96c2dcc1",
+  "data": {
+    "name": "User 1",
+    "email": "user@delete-token.security.localhost.dev",
+    "scenario": "security.deleteToken",
+    "_passwordHash": "$argon2i$v=19$m=65536,t=4,p=1$cmRENmF4RHZJNmFKZWlpcQ$PFegtHQBJOKwZ1MhixluJOtyK9yLUkdbOJdzY5hT3eU",
+    "password": "1234",
+    "note": "User contains password only due to testing purposes."
+  }
+}

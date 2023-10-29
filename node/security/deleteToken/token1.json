@@ -1,0 +1,10 @@
+{
+  "type": "Token",
+  "id": "765494b9-8b8d-4e89-90ef-3550a5a4ea37",
+  "data": {
+    "token": "secret-token:MvsgHPbJY6LhtTbm9jnNXs",
+    "hash": "a7f0e5e7e29b1ba915e7be186a6fdc53ec1fe64a1bb869a51c4a609795d60c46",
+    "scenario": "security.deleteToken",
+    "note": "Token contains token only due to testing purposes."
+  }
+}

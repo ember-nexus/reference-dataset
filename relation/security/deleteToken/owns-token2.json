@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "42cec3e6-3ec8-4cf9-8d03-aa53b635fecb",
+  "start": "cfa21a9e-6ef9-4e16-b346-5dea96c2dcc1",
+  "end": "2ddfc37a-f763-41a6-8826-084aec2a283f",
+  "data": {
+    "scenario": "security.deleteToken"
+  }
+}

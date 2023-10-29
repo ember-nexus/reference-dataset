@@ -1,0 +1,10 @@
+{
+  "type": "Token",
+  "id": "2ddfc37a-f763-41a6-8826-084aec2a283f",
+  "data": {
+    "token": "secret-token:5nm7j0FE6sPuHqRgjvK40U",
+    "hash": "d57b69e986e682703eddef6335e467c13a7e4f1deefdf3ba0c8acc179e68ba53",
+    "scenario": "security.deleteToken",
+    "note": "Token contains token only due to testing purposes."
+  }
+}
