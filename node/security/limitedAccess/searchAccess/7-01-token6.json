@@ -5,6 +5,7 @@
     "token": "secret-token:S8Y7FhkJIotvKnejEcSmdW",
     "hash": "a0f35473f3f746285f46de7fa5fe1e33d1fb14842f024fadea172d64396ca457",
     "scenario": "security.limitedAccess.searchAccess",
-    "note": "Token contains token only due to testing purposes."
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
   }
 }

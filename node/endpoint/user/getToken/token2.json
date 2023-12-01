@@ -5,6 +5,7 @@
     "token": "secret-token:6SXhgAHr76tTok79RCbdjk",
     "hash": "317b5f2f14e9cc9e5a3641937b08f7b2951f2ea1a7cd9e4f7ec58408e6bf1c7d",
     "scenario": "endpoint.user.getToken",
-    "note": "Token contains token only due to testing purposes."
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
   }
 }

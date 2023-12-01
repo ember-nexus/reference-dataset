@@ -5,6 +5,7 @@
     "token": "secret-token:KhPjldUIB3YYMU44CUTJpC",
     "hash": "a79ff5e7615586f077fe3750fdaefab61f6970095318f8a9249eacdccd96d8b3",
     "scenario": "security.deleteToken",
-    "note": "Token contains token only due to testing purposes."
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
   }
 }
