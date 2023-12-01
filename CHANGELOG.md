@@ -6,10 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+## 0.0.18 - 2023-12-01
 ### Added
-- Add test scenario `security.tokenState`, closes #31.
+- Add test scenario `security.tokenState`, closes [#31].
+
 ### Changed
-- All tokens have a new property `state` set to the value `ACTIVE`, required by #31.
+- All tokens have a new property `state` set to the value `ACTIVE`, required by [#31].
 
 ## 0.0.17 - 2023-10-29
 ### Added
