@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "94df9f0c-5b29-4c2d-a1da-605afb8b534f",
+  "data": {
+    "token": "secret-token:JHU2FrEe7jshvFtrD6BRb3",
+    "hash": "d6cf67a17090a5fe1555d0d60dd021746b0f179c268d08d3b2acb75a8e8e3332",
+    "scenario": "security.tokenState",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "EXPIRED"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "ce90fb2e-c521-4864-ba8d-c5d317f362ff",
+  "data": {
+    "name": "User",
+    "email": "user@tokenState.security.localhost.dev",
+    "scenario": "security.tokenState"
+  }
+}

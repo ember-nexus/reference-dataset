@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "b782da99-917d-492f-be5d-4c9dba5d5406",
+  "start": "ce90fb2e-c521-4864-ba8d-c5d317f362ff",
+  "end": "048ecc31-0807-463c-a8db-989721c73f26",
+  "data": {
+    "scenario": "security.tokenState"
+  }
+}
