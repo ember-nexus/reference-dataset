@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "db7c7011-1eeb-4a0f-a01f-d7055212f44e",
+  "data": {
+    "name": "Data 1",
+    "scenario": "endpoint.element.getIndex"
+  }
+}

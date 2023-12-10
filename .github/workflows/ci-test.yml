@@ -22,3 +22,11 @@ jobs:
       - uses: actions/checkout@v3
       - run: docker pull tmknom/markdownlint
       - run: docker run --rm -v $(pwd):/work tmknom/markdownlint '**/*.md' --ignore CHANGELOG.md
+
+  verify-no-duplicate:
+    runs-on: ubuntu-latest
+    name: 'Verify no duplicate'
+    steps:
+      - uses: actions/checkout@v3
+      - run: sudo apt-get install -y moreutils
+      - run: ./update-backup.sh

@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "97054151-c5c0-49c0-ad27-0e883cd2baad",
+  "data": {
+    "name": "User",
+    "email": "user@node.getElement.endpoint.localhost.dev",
+    "scenario": "endpoint.element.getElement.node"
+  }
+}

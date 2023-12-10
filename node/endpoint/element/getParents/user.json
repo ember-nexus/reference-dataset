@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "874affdb-9b63-4a0e-837f-f5a2ef67c8aa",
+  "data": {
+    "name": "User",
+    "email": "user@getParents.endpoint.localhost.dev",
+    "scenario": "endpoint.element.getParents"
+  }
+}

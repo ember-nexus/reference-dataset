@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "911f89c7-b900-43e0-a459-790fffe68a37",
+  "data": {
+    "name": "Data 3",
+    "scenario": "endpoint.element.getRelated"
+  }
+}

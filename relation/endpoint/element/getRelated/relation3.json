@@ -1,0 +1,9 @@
+{
+  "type": "RELATION",
+  "id": "aac1f207-da93-4aff-b246-ec7bca11de22",
+  "start": "f8dc7ab9-35c0-4e05-b66c-711dcb8492df",
+  "end": "b4eee6fe-c177-4454-b809-ef2766658fd5",
+  "data": {
+    "scenario": "endpoint.element.getRelated"
+  }
+}

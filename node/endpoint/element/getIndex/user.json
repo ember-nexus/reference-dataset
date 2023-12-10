@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "c42f65c1-bfee-4e5b-8c85-3d45cb0c474a",
+  "data": {
+    "name": "User",
+    "email": "user@getIndex.endpoint.localhost.dev",
+    "scenario": "endpoint.element.getIndex"
+  }
+}
