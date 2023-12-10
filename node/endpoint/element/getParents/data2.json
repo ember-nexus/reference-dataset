@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "f8ccb476-6526-4eb7-9abb-49e1003ea419",
+  "data": {
+    "name": "Data 2",
+    "scenario": "endpoint.element.getParents"
+  }
+}

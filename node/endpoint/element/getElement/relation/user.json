@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "fc0d4c54-edda-4c2e-af6b-f6d4b4204250",
+  "data": {
+    "name": "User",
+    "email": "user@relation.getElement.endpoint.localhost.dev",
+    "scenario": "endpoint.element.getElement.relation"
+  }
+}

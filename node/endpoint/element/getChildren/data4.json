@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "9fc09f08-beb6-4e29-9ae8-1191acf82464",
+  "data": {
+    "name": "Data 4",
+    "scenario": "endpoint.element.getChildren"
+  }
+}

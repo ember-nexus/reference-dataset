@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "4658388a-1b9e-49cf-8edb-b289702f3b69",
+  "start": "874affdb-9b63-4a0e-837f-f5a2ef67c8aa",
+  "end": "2ad52c60-bcf3-420e-8182-c87ea56e8b2a",
+  "data": {
+    "scenario": "endpoint.element.getParents"
+  }
+}

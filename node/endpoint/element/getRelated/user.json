@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "6441c1c3-0b66-4cd7-9f11-8592397df5fb",
+  "data": {
+    "name": "User",
+    "email": "user@getRelated.endpoint.localhost.dev",
+    "scenario": "endpoint.element.getRelated"
+  }
+}
