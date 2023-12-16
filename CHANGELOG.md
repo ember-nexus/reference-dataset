@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Add scenarios `command.token.revoke.*`, closes #36.
+### Changed
+- Remove trigger `pull_request` and `fork` from test CI, closes #37.
 
 ## 0.0.20 - 2023-12-10
 ### Added
