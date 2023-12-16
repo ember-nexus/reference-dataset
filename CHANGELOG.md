@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Fixed
+- Fix duplicate OWNS-relation between user `be5d2aa7-5ff8-4ca2-ba03-20a9c10ffdb1` and token
+  `ae26e994-7511-4269-929f-01d075cc7c36` within scenario `security.multipleGroups.immediateNodeOwnership`.
 
 ## 0.0.21 - 2023-12-16
 ### Added
