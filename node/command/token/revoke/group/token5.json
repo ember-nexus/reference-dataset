@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "da78ce72-abf2-4ce9-ac4f-cfb555beb2f5",
+  "data": {
+    "token": "secret-token:GSJ2uHvVLhDq0XbjrfY1F4",
+    "hash": "9b8d34b304ef64de2d305a953ce1268efa0d3f78e73d141248bd09b6651be23e",
+    "scenario": "command.token.revoke.group",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}

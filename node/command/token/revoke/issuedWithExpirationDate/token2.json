@@ -1,0 +1,12 @@
+{
+  "type": "Token",
+  "id": "0b72c3eb-fea1-4436-a4d7-d1601da9b4ac",
+  "data": {
+    "token": "secret-token:5letaGtBvOSId2eT2Lrk8c",
+    "hash": "36f7a23d42a31f7a7bfb0bcaa4a2e2efa38890bef51ba9782751359633571c69",
+    "scenario": "command.token.revoke.issuedWithExpirationDate",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE",
+    "expirationDate": "2040-01-01T00:00:00+00:00"
+  }
+}

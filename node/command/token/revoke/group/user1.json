@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "c2228396-e894-46ac-bbbe-004336ee0a65",
+  "data": {
+    "name": "User",
+    "email": "user1@group.revoke.token.command.localhost.dev",
+    "scenario": "command.token.revoke.group"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "IS_IN_GROUP",
+  "id": "3e486583-8b8d-42b3-ae99-3a311f454914",
+  "start": "6a8d7c70-59f4-4033-98ba-e9386cbda95f",
+  "end": "0beef55d-90dc-4336-b694-13c37eb11870",
+  "data": {
+    "scenario": "command.token.revoke.group"
+  }
+}

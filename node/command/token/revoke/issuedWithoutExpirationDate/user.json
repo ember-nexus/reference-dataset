@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "16eb1b2e-cf4b-4fc5-b595-c8dd64d3da75",
+  "data": {
+    "name": "User",
+    "email": "user@issuedWithoutExpirationDate.revoke.token.command.localhost.dev",
+    "scenario": "command.token.revoke.issuedWithoutExpirationDate"
+  }
+}

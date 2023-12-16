@@ -1,0 +1,12 @@
+{
+  "type": "Token",
+  "id": "aed09bb1-19da-4602-98b1-5a7e27b9f6db",
+  "data": {
+    "token": "secret-token:IJA6RN4dKZENVerSXGp4H",
+    "hash": "a659c509d812b1f79cd26cf15f5e364bd52adb836a9b28107db2273682b0170e",
+    "scenario": "command.token.revoke.issuedAfter",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE",
+    "created": "2020-01-01T00:00:00+00:00"
+  }
+}

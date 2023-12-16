@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "346c0f96-ac20-43db-96fe-d85ae80e2808",
+  "start": "dcad1936-b490-45ba-b9cb-348b75b5f9f6",
+  "end": "1c577e25-ca31-4969-8667-3d463e76278a",
+  "data": {
+    "scenario": "command.token.revoke.issuedWithExpirationDate"
+  }
+}
