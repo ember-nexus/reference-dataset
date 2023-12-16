@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "42c7c48b-8d0b-4b1f-aabf-8d12ec12851f",
+  "data": {
+    "name": "User",
+    "email": "user@issuedBefore.revoke.token.command.localhost.dev",
+    "scenario": "command.token.revoke.issuedBefore"
+  }
+}

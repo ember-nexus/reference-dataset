@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "ba4f017b-b1eb-453c-b79a-eafff2cefc69",
+  "data": {
+    "token": "secret-token:Hokr29Qr2nX1qli3qXKkN9",
+    "hash": "12df10d8395555c77f0b5401dc49e6820a8fa09dba0f6d844dfb4087be885ed3",
+    "scenario": "command.token.revoke.issuedWithoutExpirationDate",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}

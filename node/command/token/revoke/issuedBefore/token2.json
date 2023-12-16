@@ -1,0 +1,12 @@
+{
+  "type": "Token",
+  "id": "3c5c1975-2e2f-4c90-94f6-b21863cbf17c",
+  "data": {
+    "token": "secret-token:A919tLukSQ5pGTdA5M30b5",
+    "hash": "94c0a51038202bcb7e0705f3c8e9908a5b3c08e78464e3616d08e2592d097b32",
+    "scenario": "command.token.revoke.issuedBefore",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE",
+    "created": "2023-01-01T00:00:00+00:00"
+  }
+}

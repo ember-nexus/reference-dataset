@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "1c577e25-ca31-4969-8667-3d463e76278a",
+  "data": {
+    "token": "secret-token:S1aCcsPd5nPfI16SGcoTY0",
+    "hash": "1410f63902e1a91f8cd592307149224da0fb8fb59a54fb915baf0b6f4e2f3555",
+    "scenario": "command.token.revoke.issuedWithExpirationDate",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}

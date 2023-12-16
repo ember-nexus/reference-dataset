@@ -1,0 +1,12 @@
+{
+  "type": "Token",
+  "id": "b51d7951-32ae-4cae-af6e-7387beab1005",
+  "data": {
+    "token": "secret-token:LsNu0vvb6iA69OAjAEH15a",
+    "hash": "865054029a247e28abf2c22419f33764e8593ab1d47fea542af604f067a72acf",
+    "scenario": "command.token.revoke.issuedWithoutExpirationDate",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE",
+    "expirationDate": "2040-01-01T00:00:00+00:00"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "Group",
+  "id": "cac11626-c07a-4e92-875d-305c3f34cb07",
+  "data": {
+    "name": "Group 4",
+    "scenario": "command.token.revoke.group"
+  }
+}

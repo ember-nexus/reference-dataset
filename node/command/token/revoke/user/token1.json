@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "47efaba8-5f2c-474c-a52c-b9e1973d5baf",
+  "data": {
+    "token": "secret-token:BPZQtpPeHOpUZ8JPEZK8s8",
+    "hash": "02907608565899e43c0aa7955308bdbea63fda8f4c777e16821e485022ae5567",
+    "scenario": "command.token.revoke.user",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}
