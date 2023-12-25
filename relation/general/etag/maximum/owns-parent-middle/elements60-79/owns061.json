@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "07de733a-c9f7-43d1-b2e9-2f97755218a8",
+  "start": "806e93de-ce08-46a4-8fb0-9b8b4dd09be7",
+  "end": "===============",
+  "data": {
+    "scenario": "general.etag.maximum"
+  }
+}
