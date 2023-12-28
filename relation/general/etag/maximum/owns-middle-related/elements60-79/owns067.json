@@ -1,7 +1,7 @@
 {
-  "type": "OWNS",
+  "type": "RELATED",
   "id": "3c70bcdc-6626-4cec-9ef0-d62dd7ac8b84",
-  "start": "------------",
+  "start": "c4e60106-a459-4293-8607-23176897dd9a",
   "end": "3c47a37c-6d6b-48d8-aac0-c6bc0d0ecc94",
   "data": {
     "scenario": "general.etag.maximum"
