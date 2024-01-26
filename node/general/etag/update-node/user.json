@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "3977e2e8-2756-4cd9-a34d-6189b5d920e8",
+  "data": {
+    "name": "User",
+    "email": "user@update-node.etag.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.update-node"
+  }
+}

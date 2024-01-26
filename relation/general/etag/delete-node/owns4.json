@@ -1,0 +1,11 @@
+{
+  "type": "OWNS",
+  "id": "a7762390-a413-4d92-a442-7d793910862c",
+  "start": "3a0ca376-240c-43f4-8339-560cc3fa9d4d",
+  "end": "4b04fac0-a2db-454c-9d1d-1880a82ecd0f",
+  "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.delete-node"
+  }
+}

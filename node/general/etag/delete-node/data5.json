@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "02a52492-ee1d-43fe-ad1a-bde040552fd0",
+  "data": {
+    "name": "Data 5",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.delete-node"
+  }
+}

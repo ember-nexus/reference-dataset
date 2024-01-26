@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "d82c07a7-5b49-489e-889c-e59351b84797",
+  "data": {
+    "name": "Data 1",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.delete-owns-relation"
+  }
+}

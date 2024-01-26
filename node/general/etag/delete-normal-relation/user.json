@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "fb2006b2-368f-438b-bda2-f3a36bbb34a8",
+  "data": {
+    "name": "User",
+    "email": "user@delete-normal-relation.etag.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.delete-normal-relation"
+  }
+}

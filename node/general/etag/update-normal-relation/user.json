@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "db4068db-19aa-4d33-8642-82f87e563b5e",
+  "data": {
+    "name": "User",
+    "email": "user@update-normal-relation.etag.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.update-normal-relation"
+  }
+}

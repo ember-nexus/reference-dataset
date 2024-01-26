@@ -1,0 +1,11 @@
+{
+  "type": "OWNS",
+  "id": "5138d853-7ca5-460b-b0bc-699c3de3fb18",
+  "start": "ec30da95-7eef-43f9-86f4-cc76765f4523",
+  "end": "170e9a2d-6e89-4919-8b1b-160ee30bcb3d",
+  "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.create-node"
+  }
+}
