@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "648fc0f2-3b86-46a1-9253-4b6740fd23e1",
+  "data": {
+    "name": "Data 4",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.node"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "IS_IN_GROUP",
+  "id": "c332ccdc-8a02-42ff-86df-9b6d0ebae7ef",
+  "start": "03c72577-080e-480e-b02d-d86c81fec11e",
+  "end": "42c7a0f3-fc9b-478b-b658-52ecb44238b8",
+  "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.maximum"
+  }
+}

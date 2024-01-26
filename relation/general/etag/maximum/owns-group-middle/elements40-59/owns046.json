@@ -4,6 +4,8 @@
   "start": "42c7a0f3-fc9b-478b-b658-52ecb44238b8",
   "end": "00abc139-acee-4305-a4c9-4e4f50c56d6b",
   "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
     "scenario": "general.etag.maximum"
   }
 }

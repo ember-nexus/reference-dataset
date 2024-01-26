@@ -3,6 +3,8 @@
   "id": "5539bce5-2cd1-43ac-985d-e1bc5a57fb60",
   "data": {
     "name": "Data 010",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
     "scenario": "general.etag.maximum"
   }
 }
