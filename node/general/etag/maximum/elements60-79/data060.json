@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "8f9965fd-7595-448d-9f28-5f0da8fe924f",
+  "data": {
+    "name": "Data 060",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.maximum"
+  }
+}

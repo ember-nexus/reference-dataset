@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "43abf373-186c-42fb-afa5-4dd66e5573e2",
+  "data": {
+    "name": "Data 3",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.create-node"
+  }
+}

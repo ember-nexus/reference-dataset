@@ -1,0 +1,11 @@
+{
+  "type": "OWNS",
+  "id": "91f7c2a6-248c-4d5a-8066-9170215bf807",
+  "start": "42c7a0f3-fc9b-478b-b658-52ecb44238b8",
+  "end": "35c4af11-9e4d-4947-9b3d-b28374f56c4b",
+  "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.maximum"
+  }
+}

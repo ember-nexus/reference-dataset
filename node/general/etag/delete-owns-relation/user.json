@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "332b9edb-c015-4fdf-bfb3-b02302618f7b",
+  "data": {
+    "name": "User",
+    "email": "user@delete-owns-relation.etag.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.delete-owns-relation"
+  }
+}

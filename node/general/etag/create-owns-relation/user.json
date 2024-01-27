@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "f55aa4a1-5352-4881-ab56-203e5fce0497",
+  "data": {
+    "name": "User",
+    "email": "user@create-owns-relation.etag.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.create-owns-relation"
+  }
+}

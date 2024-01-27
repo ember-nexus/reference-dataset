@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "03c72577-080e-480e-b02d-d86c81fec11e",
+  "data": {
+    "name": "User",
+    "email": "user@maximum.etag.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.maximum"
+  }
+}

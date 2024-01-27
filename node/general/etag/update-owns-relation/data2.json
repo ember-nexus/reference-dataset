@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "f8ebe840-387d-4e35-b76d-1e367e6b2b2d",
+  "data": {
+    "name": "Data 2",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.update-owns-relation"
+  }
+}

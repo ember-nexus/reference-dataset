@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "ec30da95-7eef-43f9-86f4-cc76765f4523",
+  "data": {
+    "name": "User",
+    "email": "user@create-node.etag.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.create-node"
+  }
+}

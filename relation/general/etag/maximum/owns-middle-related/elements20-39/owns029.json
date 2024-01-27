@@ -1,0 +1,11 @@
+{
+  "type": "RELATED",
+  "id": "351ede79-b8cc-4060-9115-728cc20d2556",
+  "start": "bc33c7e1-2134-47a2-8fd0-8aad3e440875",
+  "end": "3c47a37c-6d6b-48d8-aac0-c6bc0d0ecc94",
+  "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.etag.maximum"
+  }
+}
