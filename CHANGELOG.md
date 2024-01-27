@@ -6,11 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+## 0.0.23 - 2024-01-27
 ### Added
 - Add scenarios `general.etag.maximum`, `general.etag.create-node`, `general.etag.create-owns-relation`,
   `general.etag.create-normal-relation`, `general.etag.update-node`, `general.etag.update-owns-relation`,
   `general.etag.update-normal-relation`, `general.etag.delete-node`, `general.etag.delete-owns-relation` and
-  `general.etag.delete-normal-relation`, closes #41.
+  `general.etag.delete-normal-relation`, closes [#41].
 
 ## 0.0.22 - 2023-12-16
 ### Fixed
