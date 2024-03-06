@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "e31c671c-e736-4122-b9a9-d087286a48a2",
+  "data": {
+    "name": "User",
+    "email": "user@if-match.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.if-match"
+  }
+}
