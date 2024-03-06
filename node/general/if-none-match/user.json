@@ -1,0 +1,11 @@
+{
+  "type": "User",
+  "id": "77454c09-eb46-4df8-aa41-cbd3e190d043",
+  "data": {
+    "name": "User",
+    "email": "user@if-none-match.general.localhost.dev",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.if-none-match"
+  }
+}

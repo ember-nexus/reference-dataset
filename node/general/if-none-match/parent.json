@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "17370748-35e2-41f7-ae9b-66be353b5a90",
+  "data": {
+    "name": "Parent",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.if-none-match"
+  }
+}

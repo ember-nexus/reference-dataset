@@ -1,0 +1,11 @@
+{
+  "type": "OWNS",
+  "id": "ac3b53a5-328e-47db-8409-daacb4b96c1e",
+  "start": "77454c09-eb46-4df8-aa41-cbd3e190d043",
+  "end": "9af6704e-3b1e-4144-a944-48e0ee4d40c1",
+  "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.if-none-match"
+  }
+}

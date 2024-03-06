@@ -1,0 +1,10 @@
+{
+  "type": "Data",
+  "id": "f621c1b9-1d3f-4a9c-999c-99d1edcc9c6f",
+  "data": {
+    "name": "Child",
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.if-none-match"
+  }
+}
