@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- Add scenario `general.if-none-match`, closes #44.
 - Add scenario `general.if-match`, closes #43.
 
 ## 0.0.23 - 2024-01-27

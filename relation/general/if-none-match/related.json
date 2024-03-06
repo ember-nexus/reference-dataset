@@ -1,0 +1,11 @@
+{
+  "type": "RELATED",
+  "id": "b576e116-f5f1-4106-92e6-1547b8131108",
+  "start": "17370748-35e2-41f7-ae9b-66be353b5a90",
+  "end": "88d75ef3-8b27-4519-af9a-baa5dc2907db",
+  "data": {
+    "created": "2020-01-01T00:00:00+00:00",
+    "updated": "2020-01-01T00:00:00+00:00",
+    "scenario": "general.if-none-match"
+  }
+}
