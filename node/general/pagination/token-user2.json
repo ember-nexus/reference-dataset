@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "4e9eaefd-e8a5-4a10-aaf0-ef261753c1b0",
+  "data": {
+    "token": "secret-token:3rB96odH2vmGnVi7qgUjMf",
+    "hash": "304fd4401f2d40522d600ea6de4ecfd69f52bd6f74904e9302a41b5445cf5d8c",
+    "note": "Token contains token only due to testing purposes.",
+    "scenario": "general.pagination",
+    "state": "ACTIVE"
+  }
+}
