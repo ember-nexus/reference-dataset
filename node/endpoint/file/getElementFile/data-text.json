@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "fb1902a3-a824-4f48-a238-a4787d3dc6e0",
+  "data": {
+    "name": "text",
+    "scenario": "endpoint.file.deleteElementFile"
+  }
+}

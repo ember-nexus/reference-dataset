@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "827782b1-3ddf-4289-b3c9-484a4a7c22c4",
+  "data": {
+    "name": "User",
+    "email": "user@deleteElementFile.file.endpoint.localhost.dev",
+    "scenario": "endpoint.file.deleteElementFile"
+  }
+}

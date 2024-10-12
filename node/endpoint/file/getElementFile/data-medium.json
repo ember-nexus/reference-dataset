@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "ec50d67f-4ff0-4ca6-a18d-61f4f8137ea9",
+  "data": {
+    "name": "medium",
+    "scenario": "endpoint.file.deleteElementFile"
+  }
+}
