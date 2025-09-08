@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.0.27 - 2025-09-08
+
 ## 0.0.26 - 2024-11-07
 ### Changed
 - Change license from AGPL 3 to MIT, closes [#52].
