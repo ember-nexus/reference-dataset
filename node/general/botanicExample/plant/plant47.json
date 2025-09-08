@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "e12d7b32-936b-4cb1-8cd9-17b389f97c9b",
+  "data": {
+    "name": "Dahlia",
+    "scientificName": "D. pinnata",
+    "description": "Dahlia pinnata (D. \\u00d7 pinnata) is a species in the genus Dahlia, family Asteraceae, with the common name garden dahlia. It is the type species of the genus and is widely cultivated.",
+    "link": "https://en.wikipedia.org/wiki/Dahlia_pinnata",
+    "scenario": "general.botanicExample"
+  }
+}

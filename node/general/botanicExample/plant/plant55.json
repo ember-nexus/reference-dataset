@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "5f7e84c3-f6f8-4cfd-9e71-e84921d4b490",
+  "data": {
+    "name": "Wattle",
+    "scientificName": "A. pycnantha",
+    "description": "Acacia pycnantha, most commonly known as the golden wattle, is a tree of the family Fabaceae. It grows to a height of 8 metres (26 feet) and has phyllodes (flattened leaf stalks) instead of true leaves. The profuse fragrant, golden flowers appear in late winter and spring, followed by long seed pods. Explorer Thomas Mitchell collected the type specimen, from which George Bentham wrote the species description in 1842. The species is native to southeastern Australia as an understorey plant in eucalyptus forest. Plants are cross-pollinated by several species of honeyeater and thornbill, which visit nectaries on the phyllodes and brush against flowers, transferring pollen between them.\n\nA. pycnantha has become a weed in areas of Australia, as well as in Africa and Eurasia. Its bark produces more tannin than any other wattle species, resulting in its commercial cultivation for production of this compound. It has been widely grown as an ornamental garden plant and for cut flower production. A. pycnantha was made the official floral emblem of Australia in 1988, and has been featured on the country's postal stamps.",
+    "link": "https://en.wikipedia.org/wiki/Acacia_pycnantha",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "fc806e3d-fe3c-4083-bd5c-66650ab9182f",
+  "data": {
+    "name": "Bromeliaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Bromeliaceae",
+    "scenario": "general.botanicExample"
+  }
+}

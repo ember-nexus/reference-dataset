@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "f07527d3-baf3-46b6-8886-d6145f32375f",
+  "data": {
+    "name": "Heliconia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Heliconiaceae/Heliconia",
+    "scenario": "general.botanicExample"
+  }
+}

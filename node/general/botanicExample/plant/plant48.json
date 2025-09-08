@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "45052351-ae10-4c52-8396-7eafb4646635",
+  "data": {
+    "name": "Angel\\u2019s Trumpet",
+    "scientificName": "B. suaveolens",
+    "description": "Brugmansia suaveolens, Brazil's white angel trumpet, also known as angel's tears and snowy angel's trumpet,[1] is a species of flowering plant in the nightshade family Solanaceae, native to south eastern Brazil, but thought to be extinct in the wild. Like several other species of Brugmansia, it exists as an introduced species in areas outside its native range. It is a tender shrub or small tree with large semi-evergreen leaves and fragrant yellow or white trumpet-shaped flowers.",
+    "link": "https://en.wikipedia.org/wiki/Brugmansia_suaveolens",
+    "scenario": "general.botanicExample"
+  }
+}

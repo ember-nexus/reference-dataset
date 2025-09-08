@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "8d955a77-5a82-42b5-9428-aee5b12d9fb1",
+  "data": {
+    "name": "Bottlebrush",
+    "scientificName": "Callistemon",
+    "description": "Callistemon /\\u02cck\\u00e6l\\u026a\\u02c8sti\\u02d0m\\u0259n/[2] is a genus of shrubs in the family Myrtaceae, first described as a genus in 1814.[3] The entire genus is endemic to Australia but widely cultivated in many other regions and naturalised in scattered locations.[4] Their status as a separate taxon is in doubt, some authorities accepting that the difference between callistemons and melaleucas is not sufficient for them to be grouped in a separate genus.",
+    "link": "https://en.wikipedia.org/wiki/Callistemon",
+    "scenario": "general.botanicExample"
+  }
+}

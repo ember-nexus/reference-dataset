@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "3a123b1c-8bdc-482c-9d12-c3e9e22ec4fd",
+  "data": {
+    "name": "Mertensia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Boraginales/Boraginaceae/Mertensia",
+    "scenario": "general.botanicExample"
+  }
+}

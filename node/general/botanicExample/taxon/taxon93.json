@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "60fa1be9-0154-44fa-8f2b-3621cc234bc3",
+  "data": {
+    "name": "Corymbia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales/Myrtaceae/Corymbia",
+    "scenario": "general.botanicExample"
+  }
+}

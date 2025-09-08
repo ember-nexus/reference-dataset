@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "48132921-726e-4c33-9a03-10dcc1a5e86c",
+  "data": {
+    "name": "Swainsona",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Swainsona",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "b40f6197-95ed-4519-a7ab-50f763025977",
+  "data": {
+    "name": "Asteraceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae",
+    "scenario": "general.botanicExample"
+  }
+}

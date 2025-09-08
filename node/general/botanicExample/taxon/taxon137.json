@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "7d3534fd-314b-4e27-972a-bc7cbc379425",
+  "data": {
+    "name": "Guzmania",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Bromeliaceae/Guzmania",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "ad717882-7228-4d39-9623-f53e998e8dba",
+  "data": {
+    "name": "Geraniales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Geraniales",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "6703a3a4-a972-463a-95aa-68c8cefc74dd",
+  "data": {
+    "name": "Strelitziaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Strelitziaceae",
+    "scenario": "general.botanicExample"
+  }
+}

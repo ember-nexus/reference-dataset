@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "8b92e594-684b-4b7d-b7b6-52f3630bd8ae",
+  "data": {
+    "name": "Cannaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Cannaceae",
+    "scenario": "general.botanicExample"
+  }
+}

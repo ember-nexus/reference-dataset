@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "cec3972f-322f-432c-b86e-611c85a96b6c",
+  "data": {
+    "name": "Yucca",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asparagaceae/Agavoideae/Yucca",
+    "scenario": "general.botanicExample"
+  }
+}

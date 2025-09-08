@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "47e135a7-c77a-4489-9262-1e425a4b7177",
+  "data": {
+    "name": "Asparagales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales",
+    "scenario": "general.botanicExample"
+  }
+}

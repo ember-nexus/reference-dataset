@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "4e9bfc6b-c217-462e-b6c1-28708783a6d0",
+  "data": {
+    "name": "mint",
+    "color": "#aaffc3",
+    "description": "The color mint, also known as mint leaf, is a representation of the color of mint.",
+    "link": "https://en.wikipedia.org/wiki/Spring_green#Mint",
+    "scenario": "general.botanicExample"
+  }
+}

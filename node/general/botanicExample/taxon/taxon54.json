@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "8e9a479f-2590-4574-a931-5132316efc12",
+  "data": {
+    "name": "Brugmansia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Solanaceae/Brugmansia",
+    "scenario": "general.botanicExample"
+  }
+}

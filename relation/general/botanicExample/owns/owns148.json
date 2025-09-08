@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "0be5c09c-e7f1-4492-b4c1-06de7e528b9a",
+  "start": "99b9f696-7f86-4728-b88f-def50ede6ce0",
+  "end": "47e135a7-c77a-4489-9262-1e425a4b7177",
+  "data": {
+    "scenario": "general.botanicExample"
+  }
+}

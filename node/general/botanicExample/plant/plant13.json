@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "b133d1d5-a24c-4409-955f-99b53b3f2a73",
+  "data": {
+    "name": "Jasmine",
+    "scientificName": "J. sambac",
+    "description": "Jasminum sambac (Arabian jasmine or Sambac jasmine)[1][3] is a species of jasmine native to Bhutan and India.[4][5] It is cultivated in many places, especially West Asia, South Asia and Southeast Asia. It is naturalised in many scattered locales: Mauritius, Madagascar, the Maldives, Christmas Island, Chiapas, Central America, southern Florida, the Bahamas, Cuba, Hispaniola, Jamaica, Puerto Rico, and the Lesser Antilles.[6][4][7]",
+    "link": "https://en.wikipedia.org/wiki/Jasminum_sambac",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "f1622292-ace6-45c0-bd8c-0de67bcfb6bf",
+  "data": {
+    "name": "Plantae",
+    "path": "/Plantae",
+    "scenario": "general.botanicExample"
+  }
+}

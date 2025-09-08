@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "77f2001d-5bce-4650-a386-6b7b908dde05",
+  "data": {
+    "name": "Caesalpinioideae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Caesalpinioideae",
+    "scenario": "general.botanicExample"
+  }
+}

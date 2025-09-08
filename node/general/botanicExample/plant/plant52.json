@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "0f3aced5-8484-49d4-9579-e3ec5facde95",
+  "data": {
+    "name": "Waratah",
+    "scientificName": "T. speciosissima",
+    "description": "Telopea speciosissima, commonly known as the New South Wales waratah or simply waratah, is a large shrub in the plant family Proteaceae. It is endemic to New South Wales in Australia. No subspecies are recognised; the closely related Telopea aspera was classified as a separate species in 1995. T. speciosissima is a shrub to 3 or 4 m (9.8 or 13.1 ft) high and 2 m (6.6 ft) wide, with dark green leaves. Its several stems arise from a pronounced woody base known as a lignotuber. The species is well renowned for its striking large red springtime inflorescences (flowerheads), each including hundreds of individual flowers. These are visited by the eastern pygmy possum (Cercartetus nanus), birds such as honeyeaters (Meliphagidae), and various insects.\n\nThe floral emblem for its home state of New South Wales, Telopea speciosissima has featured prominently in art, architecture, and advertising, particularly since Australian federation. Commercially grown in several countries as a cut flower, it is also cultivated in home gardens, requiring good drainage yet adequate moisture, but is vulnerable to various fungal diseases and pests. A number of cultivars with various shades of red, pink and even white flowers are available. Horticulturists have also developed hybrids with T. oreades and T. mongaensis which are more tolerant of cold, shade, and heavier soils.",
+    "link": "https://en.wikipedia.org/wiki/Telopea_speciosissima",
+    "scenario": "general.botanicExample"
+  }
+}

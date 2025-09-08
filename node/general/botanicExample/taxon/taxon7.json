@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "322fe226-0fb7-4e04-8abf-6c18fff81d0f",
+  "data": {
+    "name": "Apiaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Apiales/Apiaceae",
+    "scenario": "general.botanicExample"
+  }
+}

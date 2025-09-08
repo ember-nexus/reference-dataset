@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "7f89e351-14b7-4afc-a5a8-f1acd77a093c",
+  "data": {
+    "name": "Gesneriaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Gesneriaceae",
+    "scenario": "general.botanicExample"
+  }
+}

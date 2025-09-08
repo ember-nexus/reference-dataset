@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "ff04eb54-7656-47ae-816b-debc794a0f49",
+  "data": {
+    "name": "Nelumbonaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Nelumbonaceae",
+    "scenario": "general.botanicExample"
+  }
+}

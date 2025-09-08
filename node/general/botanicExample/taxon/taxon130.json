@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "d4c80adb-5322-402d-a5ac-6cdd863d20b8",
+  "data": {
+    "name": "Cymbidium",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Orchidaceae/Epidendroideae/Cymbidium",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "4dabbbbc-dd19-40ec-bbf7-bdd846d36fdb",
+  "data": {
+    "name": "lime",
+    "color": "#bfef45",
+    "description": "Lime is a color that is a shade of yellow-green, so named because it is a representation of the color of the citrus fruit lime. It is the color that is in between the web color chartreuse and yellow on the color wheel.[1] Alternate names for this color included yellow-green, lemon-lime, lime green, or bitter lime.[2]\n\nThe first recorded use of lime green as a color name in English was in 1890.[3][1]\n\nLime (color hex code #C0FF00) is a pure spectral color at approximately 564 nanometers on the visible spectrum when plotted on the CIE chromaticity diagram.",
+    "link": "https://en.wikipedia.org/wiki/Lime_(color)",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "07b45e28-8b69-4dbb-b1cb-372164d227d8",
+  "data": {
+    "name": "Centaurea",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Centaurea",
+    "scenario": "general.botanicExample"
+  }
+}

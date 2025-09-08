@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "eb56aa7a-20d3-4a75-a5a1-e8ff00644662",
+  "data": {
+    "name": "Aquilegia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Ranunculales/Ranunculaceae/Aquilegia",
+    "scenario": "general.botanicExample"
+  }
+}

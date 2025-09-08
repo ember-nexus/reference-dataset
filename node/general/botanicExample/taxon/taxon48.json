@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "34789c6a-1d8f-4c8e-83ca-2806e44dd856",
+  "data": {
+    "name": "Nepetoideae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae",
+    "scenario": "general.botanicExample"
+  }
+}

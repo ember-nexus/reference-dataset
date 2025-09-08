@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "1ebcd5cd-7c2a-4960-a723-f22bb5a22c2f",
+  "data": {
+    "name": "Orchidaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Orchidaceae",
+    "scenario": "general.botanicExample"
+  }
+}

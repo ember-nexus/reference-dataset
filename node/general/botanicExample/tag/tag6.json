@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "b8674d32-af5f-4ef1-a5d8-fc5cbb56b795",
+  "data": {
+    "name": "purple",
+    "color": "#911eb4",
+    "description": "Purple is a color similar in appearance to violet light. In the RYB color model historically used in the arts, purple is a secondary color created by combining red and blue pigments. In the CMYK color model used in modern printing, purple is made by combining magenta pigment with either cyan pigment, black pigment, or both. In the RGB color model used in computer and television screens, purple is created by mixing red and blue light in order to create colors that appear similar to violet light. According to color theory, purple is considered a cool color.[1]\n\nPurple has long been associated with royalty, originally because Tyrian purple dye\\u2014made from the secretions of sea snails\\u2014was extremely expensive in antiquity.[2] Purple was the color worn by Roman magistrates; it became the imperial color worn by the rulers of the Byzantine Empire and the Holy Roman Empire, and later by Roman Catholic bishops. Similarly in Japan, the color is traditionally associated with the emperor and aristocracy.[3]\n\nAccording to contemporary surveys in Europe and the United States, purple is the color most often associated with rarity, royalty, luxury, ambition, magic, mystery, piety and spirituality.[4][5] When combined with pink, it is associated with eroticism, femininity, and seduction.[6]\nEtymology and definitions\n\nThe modern English word purple comes from the Old English purpul, which derives from Latin purpura, which, in turn, derives from the Greek \\u03c0\\u03bf\\u03c1\\u03c6\\u03cd\\u03c1\\u03b1 (porphura),[7] the name of the Tyrian purple dye manufactured in classical antiquity from a mucus secreted by the spiny dye-murex snail.[8][9] The first recorded use of the word purple dates to the late 900s AD.[8]",
+    "link": "https://en.wikipedia.org/wiki/Purple",
+    "scenario": "general.botanicExample"
+  }
+}

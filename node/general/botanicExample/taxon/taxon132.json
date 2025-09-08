@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "4fab287c-c0bd-4aba-9769-bca5e810ac36",
+  "data": {
+    "name": "Commelinales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Commelinales",
+    "scenario": "general.botanicExample"
+  }
+}

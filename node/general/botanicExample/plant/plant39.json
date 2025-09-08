@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "83b35321-4a91-4e9f-a49b-66d718c32ba7",
+  "data": {
+    "name": "Bluebell",
+    "scientificName": "M. virginica",
+    "description": "Mertensia virginica (common names Virginia bluebells,[1] Virginia cowslip,[2] lungwort oysterleaf, Roanoke bells) is a spring ephemeral plant in the Boraginaceae (borage) family with bell-shaped sky-blue flowers, native to eastern North America.",
+    "link": "https://en.wikipedia.org/wiki/Mertensia_virginica",
+    "scenario": "general.botanicExample"
+  }
+}

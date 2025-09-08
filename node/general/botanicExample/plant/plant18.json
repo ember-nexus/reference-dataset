@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "74023bac-88ea-4031-b4a5-68d861ea2e91",
+  "data": {
+    "name": "Magnolia",
+    "scientificName": "M. denudata",
+    "description": "Magnolia denudata, the lilytree[2] or Yulan magnolia (simplified Chinese: \\u7389\\u5170\\u82b1; traditional Chinese: \\u7389\\u862d\\u82b1; pinyin: y\\u00f9l\\u00e1nhu\\u0101; lit. 'jade orchid/lily'), is native to central and eastern China.[3] It has been cultivated in Chinese Buddhist temple gardens since 600 AD. Its flowers were regarded as a symbol of purity in the Tang dynasty and it was planted in the grounds of the emperor's palace. It is the official city flower of Shanghai.",
+    "link": "https://en.wikipedia.org/wiki/Magnolia_denudata",
+    "scenario": "general.botanicExample"
+  }
+}

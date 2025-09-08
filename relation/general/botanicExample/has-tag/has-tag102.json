@@ -1,0 +1,9 @@
+{
+  "type": "HAS_TAG",
+  "id": "a14ab65a-0470-4b55-be7f-290616842b6e",
+  "start": "8d5bf150-ec8d-42cc-8f5e-2b72f31ec54a",
+  "end": "7ac83b11-3c48-4ecd-930c-97e9dbf47ef3",
+  "data": {
+    "scenario": "general.botanicExample"
+  }
+}

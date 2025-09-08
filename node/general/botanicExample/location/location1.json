@@ -1,0 +1,8 @@
+{
+  "type": "Location",
+  "id": "3d8dbec5-41dd-43ff-bc48-a9ccafa07127",
+  "data": {
+    "name": "Europe",
+    "scenario": "general.botanicExample"
+  }
+}

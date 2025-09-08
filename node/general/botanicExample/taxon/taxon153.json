@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "9abc0ab3-fa1a-4138-80c1-49db5c4d082f",
+  "data": {
+    "name": "Trillium",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Melanthiaceae/Trillium",
+    "scenario": "general.botanicExample"
+  }
+}

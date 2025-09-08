@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "dde20559-c290-4d42-a6f3-87d5d326b66f",
+  "data": {
+    "name": "Daisy",
+    "scientificName": "B. perennis",
+    "description": "Bellis perennis (/\\u02c8b\\u025bl\\u0259s p\\u0259\\u02c8r\\u025bn\\u0259s/),[2][3] the daisy, is a European species of the family Asteraceae, often considered the archetypal species of the name daisy. To distinguish this species from other plants known as daisies, it is sometimes qualified or known as common daisy, lawn daisy or English daisy.",
+    "link": "https://en.wikipedia.org/wiki/Bellis_perennis",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "55c7f48d-0210-4ad3-b431-ed4c67d20139",
+  "data": {
+    "name": "Hibisceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Malvoideae/Hibisceae",
+    "scenario": "general.botanicExample"
+  }
+}

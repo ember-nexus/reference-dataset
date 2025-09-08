@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "6bcb86b5-a128-4bd2-806b-e76e19803f22",
+  "data": {
+    "name": "Tagetes",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Tagetes",
+    "scenario": "general.botanicExample"
+  }
+}

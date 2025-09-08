@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "c799dead-14ab-4b75-9aa4-17bfdefb8df5",
+  "data": {
+    "name": "Bignoniaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Bignoniaceae",
+    "scenario": "general.botanicExample"
+  }
+}

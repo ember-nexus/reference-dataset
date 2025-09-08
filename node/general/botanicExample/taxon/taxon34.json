@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "b7211eae-b32f-4ceb-adda-81812d5f3235",
+  "data": {
+    "name": "Theaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Ericales/Theaceae",
+    "scenario": "general.botanicExample"
+  }
+}

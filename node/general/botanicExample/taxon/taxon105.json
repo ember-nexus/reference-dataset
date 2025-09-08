@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "7707eb35-76e7-4a74-8319-2600626372c8",
+  "data": {
+    "name": "Roseae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Roseae",
+    "scenario": "general.botanicExample"
+  }
+}

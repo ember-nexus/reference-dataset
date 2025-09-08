@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "e8910751-0b99-46a0-b203-6179459129b0",
+  "data": {
+    "name": "Rudbeckia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Heliantheae/Rudbeckia",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "2be6bd29-8023-487d-8990-db48ba91542a",
+  "data": {
+    "name": "Heliconiaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Heliconiaceae",
+    "scenario": "general.botanicExample"
+  }
+}

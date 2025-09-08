@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "28b1d8c9-913e-4725-8de9-126cca5b5af5",
+  "data": {
+    "name": "Banksia subg. Banksia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Banksia/Banksia subg. Banksia",
+    "scenario": "general.botanicExample"
+  }
+}

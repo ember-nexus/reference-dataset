@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "74b956a6-a881-4f11-9aaa-a6a0c004ac6a",
+  "data": {
+    "name": "P. sect. Cerasus",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Rosales/Rosaceae/Prunus/Prunus subg. Cerasus/P. sect. Cerasus",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "1475184a-6b41-4163-872b-fc4d251d2b82",
+  "data": {
+    "name": "Heliantheae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Heliantheae",
+    "scenario": "general.botanicExample"
+  }
+}

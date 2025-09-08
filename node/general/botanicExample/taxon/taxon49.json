@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "869b3bc6-ca5a-4364-9ee4-f2af8c4fa01f",
+  "data": {
+    "name": "Ocimeae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Ocimeae",
+    "scenario": "general.botanicExample"
+  }
+}

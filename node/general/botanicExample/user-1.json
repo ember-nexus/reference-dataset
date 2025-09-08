@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "7baba8b7-a6bb-4184-9a9a-925a4d2736b0",
+  "data": {
+    "name": "User 1",
+    "email": "user1@botanic-example.general.localhost.dev",
+    "scenario": "general.botanicExample"
+  }
+}

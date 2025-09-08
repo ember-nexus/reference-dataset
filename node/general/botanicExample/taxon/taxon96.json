@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "f9a5f43c-e4c9-4525-b4ae-26598e619763",
+  "data": {
+    "name": "Onagraceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales/Onagraceae",
+    "scenario": "general.botanicExample"
+  }
+}

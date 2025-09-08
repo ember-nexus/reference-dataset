@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "3283fd3d-8083-4170-882a-41b1cd152c55",
+  "data": {
+    "name": "Lotus",
+    "scientificName": "N. nucifera",
+    "description": "Nelumbo nucifera, also known as Padma (Sanskrit: \\u092a\\u0926\\u094d\\u092e, romanized: Padm\\u0101, lit.\\u2009'Lotus') or Kamala (Sanskrit: \\u0915\\u092e\\u0932, lit. 'Lotus'), sacred lotus, pink lotus, Indian lotus,[1] or simply lotus, is one of two extant species of aquatic plant in the family Nelumbonaceae. It is sometimes colloquially called a water lily, though this more often refers to members of the family Nymphaeaceae.[2] The lotus belongs in the order Proteales.",
+    "link": "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "31fe057c-cff4-4023-9887-8be1286e70e5",
+  "data": {
+    "name": "Solanales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "2341f6f7-1b5d-4ce9-a68e-2973be25ec9a",
+  "data": {
+    "name": "Eudicots",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots",
+    "scenario": "general.botanicExample"
+  }
+}

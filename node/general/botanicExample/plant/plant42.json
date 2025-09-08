@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "2f35f5cf-4153-40bd-a8eb-58b8fc27dcf4",
+  "data": {
+    "name": "Heliconia",
+    "scientificName": "H. rostrata",
+    "description": "Heliconia rostrata, the hanging lobster claw or false bird of paradise, is a herbaceous perennial plant native to El Salvador, Peru, Bolivia, Colombia, Venezuela, Costa Rica, and Ecuador, and naturalized in Puerto Rico.[2] It is found in tropical rainforests, as it thrives in warm and humid environments.[3]The inflorescences of many other heliconias grow vertically, facing upwards (e.g. Heliconia bihai), their cup-shaped bracts storing water for birds and insects. This plant, however, has pendulous inflorescences with the bracts facing downwards, the flowers nestled underneath. Without the collection of rainwater in the bracts, the flowers within them provide a source of undiluted nectar.[4][5]\n\nHeliconias are known to those who grow them as a host flower to many birds, especially hummingbirds. Because of its unique characteristics, it is often used as a specimen for tropical gardens and is commonly found in landscaped areas within humid and tropical regions.\n\nAlong with the cantuta flower, Heliconia rostrata, known as patuj\\u00fa, is the national flower of Bolivia.",
+    "link": "https://en.wikipedia.org/wiki/Heliconia_rostrata",
+    "scenario": "general.botanicExample"
+  }
+}

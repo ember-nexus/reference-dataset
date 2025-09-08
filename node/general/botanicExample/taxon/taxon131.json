@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "a9f3d893-3cfb-4342-a3d9-e8c9c3db9b72",
+  "data": {
+    "name": "Commelinids",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids",
+    "scenario": "general.botanicExample"
+  }
+}

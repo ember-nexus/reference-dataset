@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "e60cec4c-d928-4e9e-a432-1d4f78706fb2",
+  "data": {
+    "name": "Rosids",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids",
+    "scenario": "general.botanicExample"
+  }
+}

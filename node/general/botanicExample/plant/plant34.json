@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "204b3998-9fa8-4997-9813-e8be85844e97",
+  "data": {
+    "name": "Fireweed",
+    "scientificName": "C. angustifolium",
+    "description": "Chamaenerion angustifolium is a perennial herbaceous flowering plant in the willowherb family, Onagraceae. It is known in North America as fireweed and in the British Isles as both fireweed and rosebay willowherb.[2] It is also known by the taxonomic synonyms Chamerion angustifolium and Epilobium angustifolium. It is native throughout the temperate Northern Hemisphere, including large parts of the boreal forests.",
+    "link": "https://en.wikipedia.org/wiki/Chamaenerion_angustifolium",
+    "scenario": "general.botanicExample"
+  }
+}

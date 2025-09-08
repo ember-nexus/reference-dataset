@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "71237aff-60a1-4fdf-bbb2-0d2c6b15413c",
+  "data": {
+    "name": "Oleaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Oleaceae",
+    "scenario": "general.botanicExample"
+  }
+}

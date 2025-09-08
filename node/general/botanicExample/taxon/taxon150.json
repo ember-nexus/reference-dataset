@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "1feedd9f-0c12-490c-8461-b12ff7447ac8",
+  "data": {
+    "name": "Lilieae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Liliaceae/Lilioideae/Lilieae",
+    "scenario": "general.botanicExample"
+  }
+}

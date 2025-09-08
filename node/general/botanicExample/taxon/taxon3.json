@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "a2c4ba63-65f2-460e-b77c-6db283efe3ab",
+  "data": {
+    "name": "Angiosperms",
+    "path": "/Plantae/Tracheophytes/Angiosperms",
+    "scenario": "general.botanicExample"
+  }
+}

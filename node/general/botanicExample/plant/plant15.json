@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "ba6fd9dd-dfec-488b-864c-b7dca1602fd9",
+  "data": {
+    "name": "Orchid",
+    "scientificName": "C. goeringii",
+    "description": "Cymbidium goeringii, or the noble orchid, is an orchid found in temperate locations of East Asia including Japan, China, Taiwan and South Korea. The type specimen was collected in Japan.[1]\n\nThe orchid was featured on the Imperial Seal of Manchukuo.",
+    "link": "https://en.wikipedia.org/wiki/Cymbidium_goeringii",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "b7cda919-deea-49f9-9151-49132f83cbff",
+  "data": {
+    "name": "Colchicaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Colchicaceae",
+    "scenario": "general.botanicExample"
+  }
+}

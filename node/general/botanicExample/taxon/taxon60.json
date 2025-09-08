@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "abcdcfee-3f4f-464f-8418-6e6640ad72b6",
+  "data": {
+    "name": "Nelumbo",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Nelumbonaceae/Nelumbo",
+    "scenario": "general.botanicExample"
+  }
+}

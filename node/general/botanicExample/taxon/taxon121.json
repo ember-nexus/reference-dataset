@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "c2282076-98d0-42f8-9582-728aed89bfca",
+  "data": {
+    "name": "Asphodelaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asphodelaceae",
+    "scenario": "general.botanicExample"
+  }
+}

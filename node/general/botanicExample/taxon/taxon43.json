@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "87127a0d-2cc8-40bb-afe1-b4cd7c3ce9cc",
+  "data": {
+    "name": "Jacaranda",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Bignoniaceae/Jacaranda",
+    "scenario": "general.botanicExample"
+  }
+}
