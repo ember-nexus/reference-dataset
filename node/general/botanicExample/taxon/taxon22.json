@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "115f75be-bc24-4725-9c45-e3077fec1e10",
+  "data": {
+    "name": "Campanulaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Campanulaceae",
+    "scenario": "general.botanicExample"
+  }
+}

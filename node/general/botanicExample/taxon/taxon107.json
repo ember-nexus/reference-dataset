@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "a2daf225-4907-4869-aa55-c82561caac68",
+  "data": {
+    "name": "Magnoliales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Magnoliids/Magnoliales",
+    "scenario": "general.botanicExample"
+  }
+}

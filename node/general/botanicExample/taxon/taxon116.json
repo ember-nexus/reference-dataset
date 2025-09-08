@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "2f4e71c8-851b-4d3d-a0f5-f357eab1dec1",
+  "data": {
+    "name": "Amaryllidoideae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Amaryllidaceae/Amaryllidoideae",
+    "scenario": "general.botanicExample"
+  }
+}

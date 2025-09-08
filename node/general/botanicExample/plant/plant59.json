@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "6f8aaf79-c9aa-4e59-91f7-33565d538994",
+  "data": {
+    "name": "Flannel Flower",
+    "scientificName": "A. helianthi",
+    "description": "Actinotus helianthi, known as the flannel flower, is a common species of flowering plant native to the bushland around Sydney. It was named and first described by the French botanist Jacques Labillardi\\u00e8re in his Novae Hollandiae Plantarum Specimen the first general flora of Australia. According to historian Edward Duyker Labillardi\\u00e8re could not have collected the type specimen personally and might have received it from Jean-Baptiste Leschenault de La Tour botanist on the expedition of Nicolas Baudin or another early French visitor to New South Wales.[1]\n\nDespite its appearance, it is not a member of the daisy family but rather a species of the Apiaceae (formerly Mackinlayaceae) family, the same family as the carrot. Its generic name, meaning \"furnished with rays\", is derived from the Greek stem aktin-/\\u03b1\\u03ba\\u03c4\\u03b9\\u03bd- \"ray\" or \"spoke of a wheel\" or \"sunbeam\",[2][3] while its specific epithet is derived from its resemblance to the genus Helianthus.[4] An iconic Sydney plant, its floral display has horticultural appeal which has seen limited use in the home garden and cut flower industry. It grows alongside the related lesser flannel flower (A. minor).",
+    "link": "https://en.wikipedia.org/wiki/Actinotus_helianthi",
+    "scenario": "general.botanicExample"
+  }
+}

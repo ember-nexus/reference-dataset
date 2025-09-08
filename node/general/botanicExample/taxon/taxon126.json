@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "bb0961c0-6c33-46b9-bdda-1a7a28275a6d",
+  "data": {
+    "name": "Epidendroideae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Orchidaceae/Epidendroideae",
+    "scenario": "general.botanicExample"
+  }
+}

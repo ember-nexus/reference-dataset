@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "63bcbffb-29a3-45b5-8cc1-8c41281bcae3",
+  "data": {
+    "name": "Kniphofia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asphodelaceae/Asphodeloideae/Kniphofia",
+    "scenario": "general.botanicExample"
+  }
+}

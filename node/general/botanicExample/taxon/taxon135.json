@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "da71fc8e-346c-4adc-b001-122b22d7bb1f",
+  "data": {
+    "name": "Poales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales",
+    "scenario": "general.botanicExample"
+  }
+}

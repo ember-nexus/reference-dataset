@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "4d6bbe87-16a3-4887-bae3-56b8f68e824b",
+  "data": {
+    "name": "Eustoma",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Gentianales/Gentianaceae/Eustoma",
+    "scenario": "general.botanicExample"
+  }
+}

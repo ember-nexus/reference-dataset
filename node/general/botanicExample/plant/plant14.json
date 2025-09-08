@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "e47275f2-77d8-4f5e-8327-d79da53bf43e",
+  "data": {
+    "name": "Camellia",
+    "scientificName": "C. japonica",
+    "description": "Camellia japonica, known as common camellia,[2] or Japanese camellia, is a species of flowering plant from the genus Camellia in the tea family Theaceae. It is native to China and Japan,[3] and grows naturally in forests at altitudes of around 300\\u20131,100 metres (980\\u20133,600 ft).[4]\n\nThere are thousands of cultivars of C. japonica, with many colors and forms of flowers, mainly as garden ornamental plants. The floriculture of Camellia japonica started in China. Its widespread cultivation can be traced back to the Song Dynasty, when 15 varieties of Camellia japonica were recorded in literature. [5]",
+    "link": "https://en.wikipedia.org/wiki/Camellia_japonica",
+    "scenario": "general.botanicExample"
+  }
+}

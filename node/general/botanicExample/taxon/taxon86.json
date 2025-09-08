@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "e1d126e4-4f0f-4d18-80ee-fc5d96da0515",
+  "data": {
+    "name": "Malvaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae",
+    "scenario": "general.botanicExample"
+  }
+}

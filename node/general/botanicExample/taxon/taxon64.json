@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "aa7e6fb4-1a42-40d7-8684-90d8cfe2c3cb",
+  "data": {
+    "name": "Grevillea",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Grevillea",
+    "scenario": "general.botanicExample"
+  }
+}

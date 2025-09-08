@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "ba41144a-904d-41b5-9a8e-1bcf450a3161",
+  "data": {
+    "name": "Chamaenerion",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales/Onagraceae/Chamaenerion",
+    "scenario": "general.botanicExample"
+  }
+}

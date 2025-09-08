@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "89d31806-e9e9-4a5d-9159-d78824cdc9c9",
+  "data": {
+    "name": "Malpighiales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malpighiales",
+    "scenario": "general.botanicExample"
+  }
+}

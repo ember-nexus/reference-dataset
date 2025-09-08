@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "25d0c9a8-8864-42bd-9ea1-6157fb688998",
+  "data": {
+    "name": "cyan",
+    "color": "#42d4f4",
+    "description": "Cyan (/\\u02c8sa\\u026a.\\u0259n, -\\u00e6n/)[2][3][4] is the color between blue and green on the visible spectrum of light.[5][6] It is evoked by light with a predominant wavelength between 500 and 520 nm, between the wavelengths of green and blue.[7]\n\nIn the subtractive color system, or CMYK color model, which can be overlaid to produce all colors in paint and color printing, cyan is one of the primary colors, along with magenta and yellow. In the additive color system, or RGB color model, used to create all the colors on a computer or television display, cyan is made by mixing equal amounts of green and blue light. Cyan is the complement of red; it can be made by the removal of red from white. Mixing red light and cyan light at the right intensity will make white light. It is commonly seen on a bright, sunny day in the sky.",
+    "link": "https://en.wikipedia.org/wiki/Cyan",
+    "scenario": "general.botanicExample"
+  }
+}

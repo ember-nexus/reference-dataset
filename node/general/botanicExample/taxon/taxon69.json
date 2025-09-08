@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "674f711d-6fd7-4266-99a2-1f8b77580c34",
+  "data": {
+    "name": "Papaver",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Ranunculales/Papaveraceae/Papaver",
+    "scenario": "general.botanicExample"
+  }
+}

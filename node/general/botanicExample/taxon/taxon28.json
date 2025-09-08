@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "54ae0da9-251d-4e11-ba96-f7e96813a934",
+  "data": {
+    "name": "Ericales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Ericales",
+    "scenario": "general.botanicExample"
+  }
+}

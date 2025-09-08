@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "b2eeb793-157a-46b1-86de-9b232e8c231b",
+  "data": {
+    "name": "Protea",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Protea",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "4c532e2f-029c-4d76-a32a-2f05051df5e0",
+  "data": {
+    "name": "Nyctaginaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Caryophyllales/Nyctaginaceae",
+    "scenario": "general.botanicExample"
+  }
+}

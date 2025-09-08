@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "0c393d77-80de-4a1a-9c25-134e5cfbbc56",
+  "data": {
+    "name": "Lobelia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Campanulaceae/Lobelia",
+    "scenario": "general.botanicExample"
+  }
+}

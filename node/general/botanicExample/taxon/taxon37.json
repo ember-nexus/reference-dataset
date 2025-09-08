@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "a1996d15-9882-464c-aab0-1ce6e77af522",
+  "data": {
+    "name": "Apocynaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Gentianales/Apocynaceae",
+    "scenario": "general.botanicExample"
+  }
+}

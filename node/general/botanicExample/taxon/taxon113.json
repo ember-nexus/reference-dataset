@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "99b9f696-7f86-4728-b88f-def50ede6ce0",
+  "data": {
+    "name": "Monocots",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots",
+    "scenario": "general.botanicExample"
+  }
+}

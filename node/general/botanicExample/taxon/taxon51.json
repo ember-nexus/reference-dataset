@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "4b40bec2-fbf4-4cb9-a711-dfeb3b244d49",
+  "data": {
+    "name": "Jasminum",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Oleaceae/Jasminum",
+    "scenario": "general.botanicExample"
+  }
+}

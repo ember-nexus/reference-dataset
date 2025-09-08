@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "5aaa0695-0414-4a4b-af0c-26e466c68394",
+  "data": {
+    "name": "Fuchsia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales/Onagraceae/Fuchsia",
+    "scenario": "general.botanicExample"
+  }
+}

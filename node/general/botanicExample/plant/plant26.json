@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "f8179dfc-5578-44de-adc0-d6b613eb7a32",
+  "data": {
+    "name": "Red Hot Poker",
+    "scientificName": "K. uvaria",
+    "description": "Kniphofia uvaria is a species of flowering plant in the family Asphodelaceae, commonly known as tritomea, torch lily, or red hot poker, due to the shape and color of its inflorescence. The leaves are reminiscent of a lily, and the flowerhead can reach up to 1.5 m (5 ft) in height. There are many varieties of torch lily, and they bloom at different times during the growing season. The flowers are red, orange, and yellow.",
+    "link": "https://en.wikipedia.org/wiki/Kniphofia_uvaria",
+    "scenario": "general.botanicExample"
+  }
+}

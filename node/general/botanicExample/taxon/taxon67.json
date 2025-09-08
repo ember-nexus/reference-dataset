@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "cfec4ea2-9ee3-4b23-b279-ef2bfba2d160",
+  "data": {
+    "name": "Ranunculales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Ranunculales",
+    "scenario": "general.botanicExample"
+  }
+}

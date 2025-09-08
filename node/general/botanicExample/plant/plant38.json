@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "dc5f5351-8e25-4fff-83b4-9a1786693e2f",
+  "data": {
+    "name": "Cardinal Flower",
+    "scientificName": "L. cardinalis",
+    "description": "Lobelia cardinalis, the cardinal flower (syn. L. fulgens), is a species of flowering plant in the bellflower family Campanulaceae native to the Americas, from southeastern Canada south through the eastern and southwestern United States, Mexico and Central America to northern Colombia.[4]",
+    "link": "https://en.wikipedia.org/wiki/Lobelia_cardinalis",
+    "scenario": "general.botanicExample"
+  }
+}

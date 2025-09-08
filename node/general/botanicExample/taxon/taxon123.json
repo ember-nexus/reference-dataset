@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "1a9579bd-1331-4d5c-93ec-a9ff8d9c576b",
+  "data": {
+    "name": "Aloe",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asphodelaceae/Asphodeloideae/Aloe",
+    "scenario": "general.botanicExample"
+  }
+}

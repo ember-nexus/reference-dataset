@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "1594e5c8-4d33-43bd-8d0c-86b454e25dc1",
+  "data": {
+    "name": "apricot",
+    "color": "#ffd8b1",
+    "description": "Apricot is a light yellowish-orangish color that is similar to the color of apricots. However, it is paler than actual apricots.",
+    "link": "https://en.wikipedia.org/wiki/Apricot_(color)",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "IS_LOCATED_IN",
+  "id": "8fc281a8-cce8-4f95-ba55-dbdacaae087d",
+  "start": "a3e1063d-a714-4fb4-a95e-6a11e7076bb0",
+  "end": "f393312f-5a70-456d-992d-5bf26e152a46",
+  "data": {
+    "scenario": "general.botanicExample"
+  }
+}

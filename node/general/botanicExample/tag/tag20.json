@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "f6ec4cfd-fc3e-41b1-9e4f-38fc9abb62d1",
+  "data": {
+    "name": "beige",
+    "color": "#fffac8",
+    "description": "Beige (/be\\u026a\\u0292/ BAY-ZH) is variously described as a pale sandy fawn color,[1] a grayish tan,[2] a light-grayish yellowish brown, or a pale to grayish yellow.[3] It takes its name from French, where the word originally meant natural wool that has been neither bleached nor dyed, hence also the color of natural wool.[4][5]\n\nThe word \"beige\" has come to be used to describe a variety of light tints chosen for their neutral or pale warm appearance.\n\nBeige began to commonly be used as a term for a color in France beginning approximately 1855\\u20131860; the writer Edmond de Goncourt used it in the novel La Fille Elisa in 1877. The first recorded use of beige as a color name in English was in 1887.[6]\n\nBeige is notoriously difficult to produce in traditional offset CMYK printing because of the low levels of inks used on each plate; often it will print in purple or green and vary within a print run.[citation needed]\n\nBeige is also a popular color in clothing, such as for men's trousers, as well as for interior design.",
+    "link": "https://en.wikipedia.org/wiki/Beige",
+    "scenario": "general.botanicExample"
+  }
+}

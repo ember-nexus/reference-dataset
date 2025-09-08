@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "d2c88bdc-db85-413a-a55a-ddfb941cac54",
+  "data": {
+    "name": "Zingiberales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales",
+    "scenario": "general.botanicExample"
+  }
+}

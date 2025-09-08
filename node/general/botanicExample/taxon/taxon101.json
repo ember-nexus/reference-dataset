@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "1bf15d87-a679-4eb1-9a6b-c0edc4ba0a44",
+  "data": {
+    "name": "Prunus",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Rosales/Rosaceae/Prunus",
+    "scenario": "general.botanicExample"
+  }
+}

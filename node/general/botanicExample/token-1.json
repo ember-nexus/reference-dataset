@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "4bb079fd-cbd5-4f27-a8d8-f53070e74068",
+  "data": {
+    "token": "secret-token:1nc1pFdBO2QLYRMMvULgtQ",
+    "hash": "31c341cb510982bc4dcc0a91fa83c82ab1765e1bee5f04768f90dcf42f20c892",
+    "scenario": "general.botanicExample",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}

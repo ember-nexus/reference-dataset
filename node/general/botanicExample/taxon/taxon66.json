@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "e2ea2ebd-8f4d-4998-9c54-c5cf08d75012",
+  "data": {
+    "name": "Telopea",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Telopea",
+    "scenario": "general.botanicExample"
+  }
+}

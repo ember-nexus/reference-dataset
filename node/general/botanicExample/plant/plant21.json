@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "f565f37d-caae-450e-a413-af8cfaa8fab7",
+  "data": {
+    "name": "Protea",
+    "scientificName": "P. cynaroides",
+    "description": "Protea cynaroides, also called the king protea (from Afrikaans: koningsprotea, Xhosa: isiQwane sobukumkani[3]), is a flowering plant. It is a distinctive member of Protea, having the largest flower head in the genus. The species is also known as giant protea, honeypot, or king sugar bush. It is widely distributed in the fynbos region of South Africa, that is, in the southwestern and southern parts of Western Cape. The king protea is the national flower of South Africa.",
+    "link": "https://en.wikipedia.org/wiki/Protea_cynaroides",
+    "scenario": "general.botanicExample"
+  }
+}

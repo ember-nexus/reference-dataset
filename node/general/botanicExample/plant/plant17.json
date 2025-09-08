@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "bfdac7bb-5a6d-497e-97ea-2dcac44bbdf8",
+  "data": {
+    "name": "Azalea",
+    "scientificName": "R. indicum",
+    "description": "Rhododendron indicum is an azalea Rhododendron species native to Japan (S & W Honshu, Shikoku, Kyushu, Yakushima).[4]",
+    "link": "https://en.wikipedia.org/wiki/Rhododendron_indicum",
+    "scenario": "general.botanicExample"
+  }
+}

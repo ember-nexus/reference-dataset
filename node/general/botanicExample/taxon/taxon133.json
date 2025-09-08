@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "82331407-0395-432b-a5b9-1389f8f0db01",
+  "data": {
+    "name": "Haemodoraceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Commelinales/Haemodoraceae",
+    "scenario": "general.botanicExample"
+  }
+}

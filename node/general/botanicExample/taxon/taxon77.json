@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "9b5f62cd-cb1f-402e-9ee6-a0521e8f567c",
+  "data": {
+    "name": "Acacia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Caesalpinioideae/Mimosoid clade/Acacia",
+    "scenario": "general.botanicExample"
+  }
+}

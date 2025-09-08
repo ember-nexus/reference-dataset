@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "10acd467-07f3-439d-ba04-1dc80901abb5",
+  "data": {
+    "name": "Lamiaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Lamiaceae",
+    "scenario": "general.botanicExample"
+  }
+}

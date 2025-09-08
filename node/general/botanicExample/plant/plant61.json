@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "4a335e0b-e6bf-4c64-8c28-2a17bd6f0dec",
+  "data": {
+    "name": "Hibiscus",
+    "scientificName": "H. heterophyllus",
+    "description": "Hibiscus heterophyllus, commonly known as native rosella or toilet paper bush,[2] is a flowering plant in the family Malvaceae. It a shrub or small tree with white, pale pink or yellow flowers with a dark red centre and grows in New South Wales and Queensland.",
+    "link": "https://en.wikipedia.org/wiki/Hibiscus_heterophyllus",
+    "scenario": "general.botanicExample"
+  }
+}

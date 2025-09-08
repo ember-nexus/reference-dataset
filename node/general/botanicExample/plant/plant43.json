@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "8d5bf150-ec8d-42cc-8f5e-2b72f31ec54a",
+  "data": {
+    "name": "Fuchsia",
+    "scientificName": "F. magellanica",
+    "description": "Fuchsia magellanica \\u2013 commonly known as the hummingbird fuchsia, hardy fuchsia or chilco (from Mapudungun: chillko \"watery\"[1]) \\u2013 is a species of flowering plant in the evening primrose family Onagraceae, native to the lower Southern Cone of southern South America.[2]",
+    "link": "https://en.wikipedia.org/wiki/Fuchsia_magellanica",
+    "scenario": "general.botanicExample"
+  }
+}

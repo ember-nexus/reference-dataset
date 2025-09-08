@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "bbc7529f-72da-4df2-aff5-e139a5618ccb",
+  "data": {
+    "name": "brown",
+    "color": "#9a6324",
+    "description": "Brown is a color. It can be thought as a darker, and usually desaturated, shade of orange. In the CMYK color model used in printing and painting, brown is usually made by combining yellow, magenta, and black inks (these two last in a lesser amount).[4][5][6]\n\nIn the RGB color model used to project colors onto television screens and computer monitors, brown is the result of combining red light at low intensity, and green light at an even lower intensity, with blue light also being present in most shades of the color. The color brown is seen widely in nature, wood, soil, human hair color, eye color and skin pigmentation. Brown is the color of dark wood or rich soil.[7]\n\nIn the RYB color model, brown is made by mixing the three primary colors, red, yellow, and blue.\n\nAccording to public opinion surveys in Europe and the United States, brown is the least favorite color of the public; it is often associated with fecal matter, plainness, the rustic, although it does also have positive associations, including baking, warmth, wildlife, the autumn and music.",
+    "link": "https://en.wikipedia.org/wiki/Brown",
+    "scenario": "general.botanicExample"
+  }
+}

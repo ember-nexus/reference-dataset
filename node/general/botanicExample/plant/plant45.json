@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "8f517129-a09e-4243-a81a-428606b247b2",
+  "data": {
+    "name": "Canna Lily",
+    "scientificName": "C. indica",
+    "description": "Canna indica, commonly known as Indian shot,[2] African arrowroot, edible canna, purple arrowroot, Sierra Leone arrowroot,[3] is a plant species in the family Cannaceae. It is native to the Americas and naturalized elsewhere. The edible rhizomes are a source of starch.",
+    "link": "https://en.wikipedia.org/wiki/Canna_indica",
+    "scenario": "general.botanicExample"
+  }
+}

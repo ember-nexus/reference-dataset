@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "db8187f7-549b-4447-9bea-b4737ee2ff84",
+  "data": {
+    "name": "Asterales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales",
+    "scenario": "general.botanicExample"
+  }
+}

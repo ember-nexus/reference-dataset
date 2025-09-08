@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "fdcdb19e-89ee-4f91-b9dd-60611ecee9bf",
+  "data": {
+    "name": "olive",
+    "color": "#808000",
+    "description": "Olive is a dark yellowish-green color,[1] like that of unripe or green olives.\n\nAs a color word in the English language, it appears in late Middle English.",
+    "link": "https://en.wikipedia.org/wiki/Olive_(color)",
+    "scenario": "general.botanicExample"
+  }
+}

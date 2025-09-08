@@ -1,0 +1,9 @@
+{
+  "type": "IS_MEMBER_OF",
+  "id": "05d7a58c-eb23-43d7-bce2-0c059f80438d",
+  "start": "f07527d3-baf3-46b6-8886-d6145f32375f",
+  "end": "2be6bd29-8023-487d-8990-db48ba91542a",
+  "data": {
+    "scenario": "general.botanicExample"
+  }
+}

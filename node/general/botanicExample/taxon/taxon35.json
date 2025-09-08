@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "babfae15-a7ff-4d1f-8f33-068d235e50ab",
+  "data": {
+    "name": "Camellia",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Ericales/Theaceae/Camellia",
+    "scenario": "general.botanicExample"
+  }
+}

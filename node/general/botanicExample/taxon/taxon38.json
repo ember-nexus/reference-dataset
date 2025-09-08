@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "cd83808b-80df-41a0-964e-e33071e28830",
+  "data": {
+    "name": "Adenium",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Gentianales/Apocynaceae/Adenium",
+    "scenario": "general.botanicExample"
+  }
+}

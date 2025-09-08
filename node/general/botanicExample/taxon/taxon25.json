@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "97157162-56eb-4374-8200-41b9b6004ca2",
+  "data": {
+    "name": "Boraginaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Boraginales/Boraginaceae",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "61b4e99c-471e-4f19-9cc0-aefe748b1275",
+  "data": {
+    "name": "Myrtales",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales",
+    "scenario": "general.botanicExample"
+  }
+}

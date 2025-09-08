@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "558982c9-1ad7-4e80-b847-bf538d2021c1",
+  "data": {
+    "name": "Fabaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae",
+    "scenario": "general.botanicExample"
+  }
+}

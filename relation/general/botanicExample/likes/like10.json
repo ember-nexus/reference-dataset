@@ -1,0 +1,9 @@
+{
+  "type": "LIKES",
+  "id": "b5e527d7-4fc5-4ef2-a36a-a5bdea41a636",
+  "start": "a8a16f99-a52e-48d5-8499-30dbb6849f1c",
+  "end": "bfdac7bb-5a6d-497e-97ea-2dcac44bbdf8",
+  "data": {
+    "scenario": "general.botanicExample"
+  }
+}

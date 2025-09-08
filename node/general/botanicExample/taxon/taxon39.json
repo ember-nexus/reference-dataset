@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "d2c99833-d525-4c96-b600-8b667a3f98e1",
+  "data": {
+    "name": "Gentianaceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Gentianales/Gentianaceae",
+    "scenario": "general.botanicExample"
+  }
+}

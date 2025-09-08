@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "5c72cd02-e21a-46c2-9ad3-307acd09a293",
+  "data": {
+    "name": "Rhododendron subsect. Tsutsusi",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Ericales/Ericaceae/Rhododendron/Rhododendron subg. Azaleastrum/Rhododendron sect. Tsutsusi/Rhododendron subsect. Tsutsusi",
+    "scenario": "general.botanicExample"
+  }
+}

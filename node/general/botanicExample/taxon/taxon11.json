@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "b24bb587-b1d4-4f32-8d63-1f7eb22e33d0",
+  "data": {
+    "name": "Bellis",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Bellis",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "7cc682bf-b648-47b1-b49a-e328f2d1bcd3",
+  "data": {
+    "name": "Tracheophytes",
+    "path": "/Plantae/Tracheophytes",
+    "scenario": "general.botanicExample"
+  }
+}

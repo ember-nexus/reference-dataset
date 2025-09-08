@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "2ebe38e6-0bf6-4af5-9acc-87e8a3db13ee",
+  "data": {
+    "name": "maroon",
+    "color": "#800000",
+    "description": "Maroon (US: UK: /m\\u0259\\u02c8ru\\u02d0n/ m\\u0259-ROON,[2] Australia: /m\\u0259\\u02c8ro\\u028an/ m\\u0259-ROHN[3]) is a brownish crimson color that takes its name from the French word marron, meaning chestnut.[4] Marron is also one of the French translations for \"brown\".\n\nTerms describing interchangeable shades, with overlapping RGB ranges, include burgundy, claret, mulberry, and crimson.\n\nDifferent dictionaries define maroon differently. The Cambridge English Dictionary defines maroon as a dark reddish-purple color while its \"American Dictionary\" section defines maroon as dark brown-red.[5] Lexico online dictionary defines maroon as a brownish-red.[6] Similarly, Dictionary.com defines maroon as a dark brownish-red.[7] The Shorter Oxford English Dictionary describes maroon as \"a brownish-crimson or claret colour,\"[8] while the Merriam-Webster online dictionary simply defines it as a dark red.[9]\n\nIn the sRGB color model for additive color representation, the web color called maroon is created by turning down the brightness of pure red to about one half. It is also noted that maroon is the complement of the web color called teal.[1]",
+    "link": "https://en.wikipedia.org/wiki/Maroon",
+    "scenario": "general.botanicExample"
+  }
+}

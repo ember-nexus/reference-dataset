@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "8940d70b-5b6f-43b7-bee4-41d073396ff8",
+  "data": {
+    "name": "Tulip",
+    "scientificName": "Tulipa",
+    "description": "Tulips are spring-blooming perennial herbaceous bulbiferous geophytes in the Tulipa genus. Their flowers are usually large, showy, and brightly coloured, generally red, orange, pink, yellow, or white. They often have a different coloured blotch at the base of the tepals, internally. Because of a degree of variability within the populations and a long history of cultivation, classification has been complex and controversial. The tulip is a member of the lily family, Liliaceae,[2] along with 14 other genera, where it is most closely related to Amana, Erythronium, and Gagea in the tribe Lilieae.",
+    "link": "https://en.wikipedia.org/wiki/Tulip",
+    "scenario": "general.botanicExample"
+  }
+}

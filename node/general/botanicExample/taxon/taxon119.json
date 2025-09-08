@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "9297d443-fd0b-4f53-9dbb-87f818ea2fa5",
+  "data": {
+    "name": "Agavoideae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asparagaceae/Agavoideae",
+    "scenario": "general.botanicExample"
+  }
+}

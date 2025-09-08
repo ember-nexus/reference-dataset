@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "e6de81c3-7a9f-4113-932d-b9c4f7fec5e3",
+  "data": {
+    "name": "Prunus subg. Cerasus",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Rosales/Rosaceae/Prunus/Prunus subg. Cerasus",
+    "scenario": "general.botanicExample"
+  }
+}

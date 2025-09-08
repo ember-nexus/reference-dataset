@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "16884ac8-ba7a-4c91-8449-4fdd803644b6",
+  "data": {
+    "name": "Gloriosa",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Colchicaceae/Gloriosa",
+    "scenario": "general.botanicExample"
+  }
+}

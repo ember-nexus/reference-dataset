@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "41845f63-953e-48ae-966a-82e275899802",
+  "data": {
+    "name": "Bougainvillea",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Caryophyllales/Nyctaginaceae/Bougainvillea",
+    "scenario": "general.botanicExample"
+  }
+}

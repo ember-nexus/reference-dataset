@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "62e35491-8cab-4728-b69a-ee43c9e02256",
+  "data": {
+    "name": "Hibiscus",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Malvoideae/Hibisceae/Hibiscus",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "30b0e9bc-8c9f-42e2-91c5-62f04b7da3be",
+  "data": {
+    "name": "Anchusa",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Boraginales/Boraginaceae/Anchusa",
+    "scenario": "general.botanicExample"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "f52f3bbe-0898-4277-a12d-d3bac2343b76",
+  "data": {
+    "name": "Papaveraceae",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Ranunculales/Papaveraceae",
+    "scenario": "general.botanicExample"
+  }
+}

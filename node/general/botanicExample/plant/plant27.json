@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "4d56b1ba-a757-4bd4-8b55-a23d95dc6e96",
+  "data": {
+    "name": "Geranium",
+    "scientificName": "Pelargonium",
+    "description": "Pelargonium (/\\u02ccp\\u025bl\\u0251\\u02d0r\\u02c8\\u0261o\\u028ani.\\u0259m/)[5] is a genus of flowering plants that includes about 280 species of perennials, succulents, and shrubs,[4] commonly called geraniums, pelargoniums, or storksbills. Geranium is also the botanical name and common name of a separate genus of related plants, also known as cranesbills. Both genera belong to the family Geraniaceae, and Carl Linnaeus originally included all the species in one genus, Geranium; they were later separated into two genera by Charles Louis L'H\\u00e9ritier de Brutelle in 1789.",
+    "link": "https://en.wikipedia.org/wiki/Pelargonium",
+    "scenario": "general.botanicExample"
+  }
+}

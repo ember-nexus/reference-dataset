@@ -1,0 +1,11 @@
+{
+  "type": "Tag",
+  "id": "3e5b01a7-5856-461e-bde5-d8388b6d909c",
+  "data": {
+    "name": "navy",
+    "color": "#000075",
+    "description": "Navy blue is a dark shade of the color blue. The name navy blue originally referred to the color of uniforms worn by officers in the British navy. In the late 18th century, the British Royal Navy adopted the color for its sailors' uniforms, partly due to the practical reason that dark colors were less prone to showing dirt and wear during long sea voyages. The color became so associated with naval service that it came to be known simply as \"navy blue.\"",
+    "link": "https://en.wikipedia.org/wiki/Navy_blue",
+    "scenario": "general.botanicExample"
+  }
+}

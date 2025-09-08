@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "f06bde24-337f-497c-825e-c70f866485d0",
+  "data": {
+    "name": "Aloe",
+    "scientificName": "A. vera",
+    "description": "Aloe vera (/\\u02c8\\u00e6lo\\u028a(i) v\\u025br\\u0259, v\\u026a\\u0259r-/)[3] is a succulent plant species of the genus Aloe.[4] It is widely distributed, and is considered an invasive species in many world regions.[4][5]\n\nAn evergreen perennial, it originates from the Arabian Peninsula, but also grows wild in tropical, semi-tropical, and arid climates around the world.[4] It is cultivated for commercial products, mainly as a topical treatment used over centuries.[4][5] The species is considered attractive for decorative purposes, and is often used indoors as a potted plant.[6]",
+    "link": "https://en.wikipedia.org/wiki/Aloe_vera",
+    "scenario": "general.botanicExample"
+  }
+}

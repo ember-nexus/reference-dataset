@@ -1,0 +1,11 @@
+{
+  "type": "Plant",
+  "id": "6d6f7c95-07dd-44e1-bf5d-d75bbe9c5952",
+  "data": {
+    "name": "Chrysanthemum",
+    "scientificName": "C. \\u00d7 morifolium",
+    "description": "Chrysanthemum \\u00d7 morifolium (also known in the US as florist's daisy[2] and hardy garden mum[3]) is a hybrid species of perennial plant in the genus Chrysanthemum of the Asteraceae family.",
+    "link": "https://en.wikipedia.org/wiki/Chrysanthemum_%C3%97_morifolium",
+    "scenario": "general.botanicExample"
+  }
+}

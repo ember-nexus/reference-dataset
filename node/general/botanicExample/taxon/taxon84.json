@@ -1,0 +1,9 @@
+{
+  "type": "Taxon",
+  "id": "1d1ce36c-33b1-4951-a4b5-3e9beec168eb",
+  "data": {
+    "name": "Passiflora",
+    "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malpighiales/Passifloraceae/Passiflora",
+    "scenario": "general.botanicExample"
+  }
+}

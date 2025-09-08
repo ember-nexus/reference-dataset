@@ -1,0 +1,8 @@
+{
+  "type": "Sphere",
+  "id": "d6e85d36-0aa6-46dd-abff-45bae230251a",
+  "data": {
+    "name": "Botanic Search",
+    "scenario": "general.botanicExample"
+  }
+}
