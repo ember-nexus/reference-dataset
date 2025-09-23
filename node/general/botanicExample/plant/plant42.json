@@ -6,6 +6,20 @@
     "scientificName": "H. rostrata",
     "description": "Heliconia rostrata, the hanging lobster claw or false bird of paradise, is a herbaceous perennial plant native to El Salvador, Peru, Bolivia, Colombia, Venezuela, Costa Rica, and Ecuador, and naturalized in Puerto Rico.[2] It is found in tropical rainforests, as it thrives in warm and humid environments.[3]The inflorescences of many other heliconias grow vertically, facing upwards (e.g. Heliconia bihai), their cup-shaped bracts storing water for birds and insects. This plant, however, has pendulous inflorescences with the bracts facing downwards, the flowers nestled underneath. Without the collection of rainwater in the bracts, the flowers within them provide a source of undiluted nectar.[4][5]\n\nHeliconias are known to those who grow them as a host flower to many birds, especially hummingbirds. Because of its unique characteristics, it is often used as a specimen for tropical gardens and is commonly found in landscaped areas within humid and tropical regions.\n\nAlong with the cantuta flower, Heliconia rostrata, known as patuj\\u00fa, is the national flower of Bolivia.",
     "link": "https://en.wikipedia.org/wiki/Heliconia_rostrata",
+    "images": [
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Heliconia_rostrata_4.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Heliconia_rostrata_4.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Heliconia_rostrata_4.jpg"
+      },
+      {
+        "description": " Lobster claws flower at peak season at the campus of Ramakrishna Mission Shikshanamandira in Belur, Howrah, West Bengal. Photo taken by Yogabrata Chakraborty, on August 5, 2022.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lobster_claws_flower_at_peak_season_at_the_campus_of_Ramakrishna_Mission_Shikshanamandira.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lobster_claws_flower_at_peak_season_at_the_campus_of_Ramakrishna_Mission_Shikshanamandira.jpg/960px-Lobster_claws_flower_at_peak_season_at_the_campus_of_Ramakrishna_Mission_Shikshanamandira.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Lobster_claws_flower_at_peak_season_at_the_campus_of_Ramakrishna_Mission_Shikshanamandira.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

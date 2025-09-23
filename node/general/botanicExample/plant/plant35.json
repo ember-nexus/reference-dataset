@@ -6,6 +6,14 @@
     "scientificName": "S. canadensis",
     "description": "Solidago canadensis, known as Canada goldenrod or Canadian goldenrod, is an herbaceous perennial plant of the family Asteraceae.[2] It forms colonies of upright growing plants, with many small yellow flowers in a branching inflorescence held above the foliage. It is native to northeastern and north-central North America and is an invasive plant in other parts of the continent and several areas worldwide, including Eurasia.",
     "link": "https://en.wikipedia.org/wiki/Solidago_canadensis",
+    "images": [
+      {
+        "description": "The image features a pyramidal inflorescence of Solidago canadensis. The species can be found in full bloom during the summer months in the northeastern United States.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/2/24/Solidago_canadensis_flower.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Solidago_canadensis_flower.jpg/500px-Solidago_canadensis_flower.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Solidago_canadensis_flower.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

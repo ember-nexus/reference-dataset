@@ -4,6 +4,8 @@
   "data": {
     "name": "Tracheophytes",
     "path": "/Plantae/Tracheophytes",
+    "description": "Vascular plants (from Latin vasculum 'duct'), also called tracheophytes (UK: /ˈtrækiːəˌfaɪts/, US: /ˈtreɪkiːəˌfaɪts/) or collectively tracheophyta (/ˌtreɪkiːˈɒfɪtə/; from Ancient Greek τραχεῖα ἀρτηρία (trakheîa artēría) 'windpipe' and φυτά (phutá) 'plants'), are plants that have lignified tissues (the xylem) for conducting water and minerals throughout the plant. They also have a specialized non-lignified tissue (the phloem) to conduct products of photosynthesis. The group includes most land plants (c. 300,000 accepted known species) excluding mosses.\n\nVascular plants include the clubmosses, horsetails, ferns, gymnosperms (including conifers), and angiosperms (flowering plants). They are contrasted with nonvascular plants such as mosses and green algae. Scientific names for the vascular plants group include Tracheophyta,: 251  Tracheobionta and Equisetopsida sensu lato. Some early land plants (the rhyniophytes) had less developed vascular tissue; the term eutracheophyte has been used for all other vascular plants, including all living ones.\n\nHistorically, vascular plants were known as \"higher plants\", as it was believed that they were further evolved than other plants due to being more complex organisms. However, this is an antiquated remnant of the obsolete scala naturae, and the term is generally considered to be unscientific.",
+    "link": "https://en.wikipedia.org/wiki/Vascular_plant",
     "scenario": "general.botanicExample"
   }
 }

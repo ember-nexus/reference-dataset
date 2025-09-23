@@ -4,6 +4,8 @@
   "data": {
     "name": "Malpighiales",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malpighiales",
+    "description": "The Malpighiales comprise one of the largest orders of flowering plants. The order is very diverse, with well-known members including willows, violets, aspens and poplars, poinsettia, corpse flower, coca plant, cassava, flaxseed, castor bean, Saint John's wort, passionfruit, mangosteen, and manchineel tree.\n\nThe order is not part of any of the classification systems based only on plant morphology and the relationships of its diverse members can be hard to recognize except with molecular phylogenetic evidence. Molecular clock calculations estimate the origin of stem group Malpighiales at around 100 million years ago (Mya) and the origin of crown group Malpighiales at about 90 Mya.\n\nThe Malpighiales contain about 36 families and more than 16,000 species, about 7.8% of the eudicots.",
+    "link": "https://en.wikipedia.org/wiki/Malpighiales",
     "scenario": "general.botanicExample"
   }
 }

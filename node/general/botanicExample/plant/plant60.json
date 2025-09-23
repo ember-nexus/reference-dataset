@@ -6,6 +6,20 @@
     "scientificName": "C. ficifolia",
     "description": "Corymbia ficifolia, commonly known as red flowering gum,[2] is a species of small tree that is endemic to the south-west of Western Australia. It has rough, fibrous bark on the trunk and branches, egg-shaped to broadly lance-shape adult leaves, flower buds in groups of seven, bright red, pink or orange flowers and urn-shaped fruit. It has a restricted distribution in the wild but is one of the most commonly planted ornamental eucalypts.",
     "link": "https://en.wikipedia.org/wiki/Corymbia_ficifolia",
+    "images": [
+      {
+        "description": "Flowering Corymbia ficifolia, Austins Ferry, Tasmania, Australia",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Corymbia_ficifolia_Flowers.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Corymbia_ficifolia_Flowers.jpg/500px-Corymbia_ficifolia_Flowers.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Corymbia_ficifolia_Flowers.jpg"
+      },
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Corymbia_ficifolia_in_Berkeley_California.jpg/500px-Corymbia_ficifolia_in_Berkeley_California.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Corymbia_ficifolia_in_Berkeley_California.jpg/500px-Corymbia_ficifolia_in_Berkeley_California.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Corymbia_ficifolia_in_Berkeley_California.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

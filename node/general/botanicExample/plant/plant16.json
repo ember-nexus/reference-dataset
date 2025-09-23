@@ -6,6 +6,26 @@
     "scientificName": "H. \\u00d7 rosa-sinensis",
     "description": "Hibiscus \\u00d7 rosa-sinensis, known colloquially as Chinese hibiscus,[3] China rose,[3][a] Hawaiian hibiscus,[3] rose mallow[4] and shoeblack plant,[5] is a cultigen of tropical hibiscus, a flowering plant in the Hibisceae tribe and Hibiscus genus of the family Malvaceae. It is an artificial hybrid created in cultivation in pre-European times by Polynesians in the west Pacific from the species Hibiscus cooperi and H. kaute (native to Vanuatu and the French Polynesia, respectively). It is widely cultivated as an ornamental plant in the tropics and subtropics. The hibiscus is the national flower of Malaysia, where it holds official status, and is also considered the unofficial national flower of Haiti.",
     "link": "https://en.wikipedia.org/wiki/Hibiscus_%C3%97_rosa-sinensis",
+    "images": [
+      {
+        "description": "Hibiscus 'Brilliant'",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hibiscus_Brilliant.jpg/960px-Hibiscus_Brilliant.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Hibiscus_Brilliant.jpg"
+      },
+      {
+        "description": "The stigmas and stamens of a Hibiscus rosa-sinensis in a private garden in Austria on September 20, 2014.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hibiscus_rosa-sinensis_%27Brilliant%27_stigmas_and_stamens_in_private_Austrian_garden_on_2014-09-20.png",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hibiscus_rosa-sinensis_%27Brilliant%27_stigmas_and_stamens_in_private_Austrian_garden_on_2014-09-20.png/960px-Hibiscus_rosa-sinensis_%27Brilliant%27_stigmas_and_stamens_in_private_Austrian_garden_on_2014-09-20.png",
+        "link": "https://en.wikipedia.org/wiki/File:Hibiscus_rosa-sinensis_%27Brilliant%27_stigmas_and_stamens_in_private_Austrian_garden_on_2014-09-20.png"
+      },
+      {
+        "description": "The flower of a Hibiscus rosa-sinensis \"Rainbow Sherbet\" in a private garden in Austria on September 20, 2014.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hibiscus_rosa-sinensis_%27Rainbow_Sherbet%27_flower_in_private_Austrian_garden_on_2014-09-20.png",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hibiscus_rosa-sinensis_%27Rainbow_Sherbet%27_flower_in_private_Austrian_garden_on_2014-09-20.png/960px-Hibiscus_rosa-sinensis_%27Rainbow_Sherbet%27_flower_in_private_Austrian_garden_on_2014-09-20.png",
+        "link": "https://en.wikipedia.org/wiki/File:Hibiscus_rosa-sinensis_%27Rainbow_Sherbet%27_flower_in_private_Austrian_garden_on_2014-09-20.png"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

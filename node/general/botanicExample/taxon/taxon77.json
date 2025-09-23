@@ -4,6 +4,8 @@
   "data": {
     "name": "Acacia",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Caesalpinioideae/Mimosoid clade/Acacia",
+    "description": "Acacia, commonly known as wattles or acacias, is a genus of about 1,084 species of shrubs and trees in the subfamily Mimosoideae of the pea family Fabaceae. Initially, it comprised a group of plant species native to Africa, South America, and Australasia, but is now reserved for species mainly from Australia, with others from New Guinea, Southeast Asia, and the Indian Ocean. The genus name is Neo-Latin, borrowed from Koine Greek ἀκακία (akakia), a term used in antiquity to describe a preparation extracted from Vachellia nilotica, the original type species.\n\nSeveral species of Acacia have been introduced to various parts of the world, and two million hectares of commercial plantations have been established.",
+    "link": "https://en.wikipedia.org/wiki/Acacia",
     "scenario": "general.botanicExample"
   }
 }

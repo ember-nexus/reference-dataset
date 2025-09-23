@@ -6,6 +6,14 @@
     "scientificName": "D. pinnata",
     "description": "Dahlia pinnata (D. \\u00d7 pinnata) is a species in the genus Dahlia, family Asteraceae, with the common name garden dahlia. It is the type species of the genus and is widely cultivated.",
     "link": "https://en.wikipedia.org/wiki/Dahlia_pinnata",
+    "images": [
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/6/60/Borboletas_em_Mini-D%C3%A1lias.JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Borboletas_em_Mini-D%C3%A1lias.JPG/500px-Borboletas_em_Mini-D%C3%A1lias.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:Borboletas_em_Mini-D%C3%A1lias.JPG"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

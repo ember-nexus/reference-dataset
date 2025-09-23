@@ -4,6 +4,8 @@
   "data": {
     "name": "Caesalpinioideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Caesalpinioideae",
+    "description": "Caesalpinioideae is a botanical name at the rank of subfamily, placed in the large family Fabaceae or Leguminosae. Its name is formed from the generic name Caesalpinia. It is known also as the peacock flower subfamily. The Caesalpinioideae are mainly trees distributed in the moist tropics, but include such temperate species as the honeylocust (Gleditsia triacanthos) and Kentucky coffeetree (Gymnocladus dioicus). It has the following clade-based definition:\n\n    The most inclusive crown clade containing Arcoa gonavensis Urb. and Mimosa pudica L., but not Bobgunnia fistuloides (Harms) J. H. Kirkbr. & Wiersema, Duparquetia orchidacea Baill., or Poeppigia procera C.Presl\n\nIn some classifications, for example the Cronquist system, the group is recognized at the rank of family, Caesalpiniaceae.",
+    "link": "https://en.wikipedia.org/wiki/Caesalpinioideae",
     "scenario": "general.botanicExample"
   }
 }

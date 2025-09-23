@@ -4,6 +4,8 @@
   "data": {
     "name": "Gentianaceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Gentianales/Gentianaceae",
+    "description": "Gentianaceae is a family of flowering plants of 105 genera and about 1600 species.",
+    "link": "https://en.wikipedia.org/wiki/Gentianaceae",
     "scenario": "general.botanicExample"
   }
 }

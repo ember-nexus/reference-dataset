@@ -4,6 +4,8 @@
   "data": {
     "name": "Nelumbonaceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Nelumbonaceae",
+    "description": "Nelumbonaceae is a family of aquatic flowering plants. Nelumbo is the sole extant genus, containing Nelumbo lutea, native to North America, and Nelumbo nucifera, widespread in Asia. At least five other genera, Nelumbites, Exnelumbites, Paleonelumbo, Nelumbago, and Notocyamus are known from fossils.\n\nNelumbonaceae were once included in the waterlily family, Nymphaeaceae. Genetic analysis determined that the similarities between the families are an example of convergent evolution. Nelumbonaceae are highly modified eudicots belonging to the order Proteales, their closest living relatives being the plane trees (Platanaceae) and Proteaceae. Notocyamus from the Early Cretaceous of Brazil is the oldest known representative of the family, and displays several transitional traits between Nelumbonaceae and both the Proteaceae and Platanaceae.\n\nThe APG IV system of 2016 places the family in the order Proteales, in the clade eudicots. The Cronquist system, of 1981, also recognized this family, but placed it in order Nymphaeales in subclass Magnoliidae in class Magnoliopsida (=dicotyledons), based on gross morphological similarities. The Dahlgren system and Thorne system (1992) also recognized this family and placed it in its own order, Nelumbonales, in superorder Magnolianae in subclass Magnoliidae (=dicotyledons).",
+    "link": "https://en.wikipedia.org/wiki/Nelumbonaceae",
     "scenario": "general.botanicExample"
   }
 }

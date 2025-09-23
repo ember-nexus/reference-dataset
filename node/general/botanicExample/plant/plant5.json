@@ -6,6 +6,26 @@
     "scientificName": "Lavandula",
     "description": "Lavandula (common name lavender) is a genus of 47 known species of perennial flowering plants in the sage family, Lamiaceae.[1] It is native to the Old World, primarily found across the drier, warmer regions of the Mediterranean, with an affinity for maritime breezes.[2]",
     "link": "https://en.wikipedia.org/wiki/Lavandula",
+    "images": [
+      {
+        "description": "Lavender fields near Hitchin, England",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hitchin_lavender_fields.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hitchin_lavender_fields.jpg/960px-Hitchin_lavender_fields.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Hitchin_lavender_fields.jpg"
+      },
+      {
+        "description": "Çuxur Qəbələ k - Qəbələ r. lavanda sahəsi",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%C3%87uxur_Q%C9%99b%C9%99l%C9%99_k_-_Q%C9%99b%C9%99l%C9%99_r._lavanda_sah%C9%99si.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%C3%87uxur_Q%C9%99b%C9%99l%C9%99_k_-_Q%C9%99b%C9%99l%C9%99_r._lavanda_sah%C9%99si.jpg/500px-%C3%87uxur_Q%C9%99b%C9%99l%C9%99_k_-_Q%C9%99b%C9%99l%C9%99_r._lavanda_sah%C9%99si.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:%C3%87uxur_Q%C9%99b%C9%99l%C9%99_k_-_Q%C9%99b%C9%99l%C9%99_r._lavanda_sah%C9%99si.jpg"
+      },
+      {
+        "description": "Lavender flower",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Single_lavender_flower02.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/960px-Single_lavender_flower02.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Single_lavender_flower02.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

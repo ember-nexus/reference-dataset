@@ -6,6 +6,14 @@
     "scientificName": "L. nivale",
     "description": "Leontopodium nivale, commonly called edelweiss (lit.\\u2009'noble white') (English: /\\u02c8e\\u026ad\\u0259lva\\u026as/ \\u24d8 AY-d\\u0259l-vyss; German: Edelwei\\u00df [\\u02c8e\\u02d0dl\\u0329va\\u026as] \\u24d8 or Alpen-Edelwei\\u00df), is a mountain flower belonging to the daisy or sunflower family Asteraceae. The plant prefers rocky limestone places at about 1,800\\u20133,400 metres (5,900\\u201311,200 ft) altitude. It is a non-toxic plant. Its leaves and flowers are covered with dense hairs, which appear to protect the plant from cold, aridity, and ultraviolet radiation.[2] It is a scarce, short-lived flower found in remote mountain areas and has been used as a symbol for alpinism, for rugged beauty and purity associated with the Alps and Carpathians. It is a national symbol of several countries, specifically Bulgaria, Austria, Slovenia, Switzerland, and Italy. In Romania it was declared a \"monument of nature\" in 1931. The Edelweiss day is celebrated on 5 March. According to folk tradition, giving this flower to a loved one is a promise of dedication.[3]",
     "link": "https://en.wikipedia.org/wiki/Edelweiss",
+    "images": [
+      {
+        "description": "Leontopodium alpinum, Zillertaler Alpen, Italy",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Leontopodium_alpinum_070707.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leontopodium_alpinum_070707.jpg/960px-Leontopodium_alpinum_070707.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Leontopodium_alpinum_070707.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

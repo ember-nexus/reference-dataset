@@ -4,6 +4,8 @@
   "data": {
     "name": "Eudicots",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots",
+    "description": "The eudicots or eudicotyledons are flowering plants that have two seed leaves (cotyledons) upon germination. The term derives from dicotyledon (etymologically, eu = true; di = two; cotyledon = seed leaf). Historically, authors have used the terms tricolpates or non-magnoliid dicots. The current botanical terms were introduced in 1991, by evolutionary botanist James A. Doyle and paleobotanist Carol L. Hotton, to emphasize the later evolutionary divergence of tricolpate dicots from earlier, less specialized, dicots.\n\nScores of familiar plants are eudicots, including many commonly cultivated and edible plants, numerous trees, tropicals and ornamentals. Among the most well-known eudicot genera are those of the sunflower (Helianthus), dandelion (Taraxacum), forget-me-not (Myosotis), cabbage (Brassica), apple (Malus), buttercup (Ranunculus), maple (Acer) and macadamia (Macadamia). Most leafy, mid-latitude trees are also classified as eudicots, with notable exceptions being the magnolias and American tulip tree (Liriodendron)—which belong to the magnoliids—and Ginkgo biloba, which is not an angiosperm.",
+    "link": "https://en.wikipedia.org/wiki/Eudicots",
     "scenario": "general.botanicExample"
   }
 }

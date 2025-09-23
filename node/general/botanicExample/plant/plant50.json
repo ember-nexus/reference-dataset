@@ -6,6 +6,26 @@
     "scientificName": "J. mimosifolia",
     "description": "Jacaranda mimosifolia is a sub-tropical tree native to south-central South America that has been widely planted elsewhere because of its attractive and long-lasting violet-colored flowers. It is also known as the jacaranda, blue jacaranda, black poui, Nupur or fern tree. Older sources call it J. acutifolia, but modern authorities usually classify it as J. mimosifolia. In scientific usage, the name \"jacaranda\" refers to the genus Jacaranda, which has many other members, but in horticultural and everyday usage, it nearly always means the blue jacaranda.\n\nIn its native range in the wild, J. mimosifolia is listed as Vulnerable by the IUCN.[1]",
     "link": "https://en.wikipedia.org/wiki/Jacaranda_mimosifolia",
+    "images": [
+      {
+        "description": "Jacarandas in New Farm Park October 2006",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/f/f3/New_Farm_Park_Jacaranda-001%2B_%28273298097%29.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/New_Farm_Park_Jacaranda-001%2B_%28273298097%29.jpg/960px-New_Farm_Park_Jacaranda-001%2B_%28273298097%29.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:New_Farm_Park_Jacaranda-001%2B_(273298097).jpg"
+      },
+      {
+        "description": "Jacaranda tree in flower in Whakatāne, New Zealand",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jacaranda1212.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jacaranda1212.jpg/960px-Jacaranda1212.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Jacaranda1212.jpg"
+      },
+      {
+        "description": "trees are in bloom in Cyprus",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jacaranda_mimosifolia_5334.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jacaranda_mimosifolia_5334.jpg/960px-Jacaranda_mimosifolia_5334.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Jacaranda_mimosifolia_5334.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

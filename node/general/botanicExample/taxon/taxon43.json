@@ -4,6 +4,8 @@
   "data": {
     "name": "Jacaranda",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Bignoniaceae/Jacaranda",
+    "description": "Jacaranda is a genus of 49 species of flowering plants in the family Bignoniaceae, native to tropical and subtropical regions of the Americas while cultivated around the world. The generic name is also used as the common name.\n\nThe species Jacaranda mimosifolia has achieved a cosmopolitan distribution due to introductions, to the extent that it has entered popular culture. It can be found growing wild in Central America, the Caribbean, Spain, Portugal, southern and northern Africa, China, Australia, Rwanda and Cyprus.",
+    "link": "https://en.wikipedia.org/wiki/Jacaranda",
     "scenario": "general.botanicExample"
   }
 }

@@ -6,6 +6,20 @@
     "scientificName": "Y. filamentosa",
     "description": "Yucca filamentosa,[2] Adam's needle and thread,[3] is a species of flowering plant in the family Asparagaceae[4] native to the southeastern United States. Growing to 3 metres (10 feet) tall, it is an evergreen shrub valued in horticulture.",
     "link": "https://en.wikipedia.org/wiki/Yucca_filamentosa",
+    "images": [
+      {
+        "description": "Superb spiking of yukka filamentosa near Kerikeri, New Zealand",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/5/56/Yucca_filamentosa.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Yucca_filamentosa.jpg/500px-Yucca_filamentosa.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Yucca_filamentosa.jpg"
+      },
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/7/72/Juka_ogrodowa.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Juka_ogrodowa.jpg/960px-Juka_ogrodowa.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Juka_ogrodowa.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

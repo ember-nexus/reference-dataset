@@ -6,6 +6,20 @@
     "scientificName": "C. angustifolium",
     "description": "Chamaenerion angustifolium is a perennial herbaceous flowering plant in the willowherb family, Onagraceae. It is known in North America as fireweed and in the British Isles as both fireweed and rosebay willowherb.[2] It is also known by the taxonomic synonyms Chamerion angustifolium and Epilobium angustifolium. It is native throughout the temperate Northern Hemisphere, including large parts of the boreal forests.",
     "link": "https://en.wikipedia.org/wiki/Chamaenerion_angustifolium",
+    "images": [
+      {
+        "description": "Fireweed (Epilobium angustifolium).",
+        "imageLinkFull": "upload.wikimedia.org/wikipedia/commons/1/1d/Maitohorsma_(Epilobium_angustifolium).JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Maitohorsma_%28Epilobium_angustifolium%29.JPG/330px-Maitohorsma_%28Epilobium_angustifolium%29.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG"
+      },
+      {
+        "description": "Fireweed (Epilobium angustifolium) on rock, against sky. Mono Pass trail, Little Lakes Valley, John Muir Wilderness, Sierra Nevada mountains, California.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fireweed_Epilobium_angustifolium_on_rock_sky.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fireweed_Epilobium_angustifolium_on_rock_sky.jpg/960px-Fireweed_Epilobium_angustifolium_on_rock_sky.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Fireweed_Epilobium_angustifolium_on_rock_sky.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

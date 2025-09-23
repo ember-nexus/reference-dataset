@@ -4,6 +4,8 @@
   "data": {
     "name": "Bellis",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Bellis",
+    "description": "Bellis (/ˈbɛləs/) is a genus of flowering plants in the family Asteraceae.\n\nThe group is native to Europe, the Mediterranean and northern Africa. One species has been introduced into North America and others into other parts of the world. The genus includes the familiar common daisy Bellis perennis.",
+    "link": "https://en.wikipedia.org/wiki/Bellis",
     "scenario": "general.botanicExample"
   }
 }

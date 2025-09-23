@@ -4,6 +4,8 @@
   "data": {
     "name": "Tagetes",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Tagetes",
+    "description": "Tagetes (/tæˈdʒiːtiːz/) is a genus of 50 species of annual or perennial, mostly herbaceous plants in the family Asteraceae. They are among several groups of plants known in English as marigolds. The genus Tagetes was described by Carl Linnaeus in 1753.\n\nOriginally called cempōhualxōchitl, by the Nahua people, these plants are native to Central and Southern Mexico and several other Latin American countries. Some species have become naturalized around the world. One species, T. minuta, is considered a noxious invasive plant in some areas.",
+    "link": "https://en.wikipedia.org/wiki/Tagetes",
     "scenario": "general.botanicExample"
   }
 }

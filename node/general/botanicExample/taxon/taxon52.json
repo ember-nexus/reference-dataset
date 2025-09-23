@@ -4,6 +4,8 @@
   "data": {
     "name": "Solanales",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales",
+    "description": "The Solanales are an order of flowering plants, included in the asterid group of the eudicots. Well-known members of Solanales include potatoes, eggplants, tomatoes, chili peppers, tobacco, petunias, nightshades, and morning glory. Some older sources used the name Polemoniales for this order.",
+    "link": "https://en.wikipedia.org/wiki/Solanales",
     "scenario": "general.botanicExample"
   }
 }

@@ -6,6 +6,14 @@
     "scientificName": "T. erecta",
     "description": "Tagetes erecta, the Aztec marigold, Mexican marigold, big marigold, cempaxochitl or cempas\\u00fachil,[2][3] is a species of flowering plant in the genus Tagetes native to Mexico and Guatemala.[4] Despite being native to the Americas, it is often called the African marigold.[5][4] In Mexico, this plant is found in the wild in the states of M\\u00e9xico, Michoac\\u00e1n, Puebla, Veracruz and Guerrero.[6]",
     "link": "https://en.wikipedia.org/wiki/Tagetes_erecta",
+    "images": [
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tagetes_x_erecta1.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tagetes_x_erecta1.jpg/450px-Tagetes_x_erecta1.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Tagetes_x_erecta1.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

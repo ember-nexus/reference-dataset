@@ -6,6 +6,20 @@
     "scientificName": "L. candidum",
     "description": "Lilium candidum, the Madonna lily[2][3] or white lily,[4] is a plant in the true lily family. It is native to the Balkans and Middle East, and naturalized in other parts of Europe, including France, Italy, and Ukraine, and in North Africa, the Canary Islands, Mexico, and other regions.[1][5] It has been cultivated since antiquity, for at least 3,000 years,[6] and has great symbolic value since then for many cultures. It is susceptible to several virus diseases common to lilies, and especially to Botrytis fungus. One technique to avoid problems with viruses is to grow plants from seed instead of bulblets.",
     "link": "https://en.wikipedia.org/wiki/Lilium_candidum",
+    "images": [
+      {
+        "description": "Lilium candidum, Israel",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/c/cc/ShoshanTzachor-2-wiki-Zachi-Evenor.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ShoshanTzachor-2-wiki-Zachi-Evenor.jpg/500px-ShoshanTzachor-2-wiki-Zachi-Evenor.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:ShoshanTzachor-2-wiki-Zachi-Evenor.jpg"
+      },
+      {
+        "description": "Photo of Lilium candidum at VanDusen Botanical Garden",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lilium_candidum_1.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lilium_candidum_1.jpg/960px-Lilium_candidum_1.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Lilium_candidum_1.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

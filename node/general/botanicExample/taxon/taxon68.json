@@ -4,6 +4,8 @@
   "data": {
     "name": "Papaveraceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Ranunculales/Papaveraceae",
+    "description": "The Papaveraceae, /pəˌpævəˈreɪsiˌiː/ informally known as the poppy family, are an economically important family of about 42 genera and approximately 775 known species of flowering plants in the order Ranunculales. The family is cosmopolitan, occurring in temperate and subtropical climates (mostly in the northern hemisphere) like Eastern Asia as well as California in North America. It is almost unknown in the tropics. Most are herbaceous plants, but a few are shrubs and small trees. The family currently includes two groups that have been considered to be separate families: Fumariaceae and Pteridophyllaceae. Papaver is the classical name for poppy in Latin.",
+    "link": "https://en.wikipedia.org/wiki/Papaveraceae",
     "scenario": "general.botanicExample"
   }
 }

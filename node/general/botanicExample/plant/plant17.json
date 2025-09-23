@@ -6,6 +6,20 @@
     "scientificName": "R. indicum",
     "description": "Rhododendron indicum is an azalea Rhododendron species native to Japan (S & W Honshu, Shikoku, Kyushu, Yakushima).[4]",
     "link": "https://en.wikipedia.org/wiki/Rhododendron_indicum",
+    "images": [
+      {
+        "description": "Rhododendron indicum",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rhododendron_indicum1.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rhododendron_indicum1.jpg/960px-Rhododendron_indicum1.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Rhododendron_indicum1.jpg"
+      },
+      {
+        "description": "岡山県　吉備津神社にてサツキ",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kibitujinja5164.JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kibitujinja5164.JPG/960px-Kibitujinja5164.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:Kibitujinja5164.JPG"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

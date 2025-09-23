@@ -4,6 +4,8 @@
   "data": {
     "name": "Rosales",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Rosales",
+    "description": "Rosales (/roʊˈzeɪliːz/, roh-ZAY-leez) are an order of flowering plants. Well-known members of Rosales include: roses, strawberries, blackberries and raspberries, apples, cherries, pears, plums, peaches and apricots, almonds, rowan and hawthorn, jujube, elms, banyans, figs, mulberries, breadfruit, nettles, hops, and cannabis.\n\nRosales contain about 7,700 species, distributed into nine families and about 260 genera. Their type family is the rose family, Rosaceae. The largest families are Rosaceae (91/4828) and Urticaceae (53/2625).",
+    "link": "https://en.wikipedia.org/wiki/Rosales",
     "scenario": "general.botanicExample"
   }
 }

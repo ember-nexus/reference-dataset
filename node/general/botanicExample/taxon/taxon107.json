@@ -4,6 +4,8 @@
   "data": {
     "name": "Magnoliales",
     "path": "/Plantae/Tracheophytes/Angiosperms/Magnoliids/Magnoliales",
+    "description": "The Magnoliales are an order of flowering plants. Well-known members of Magnoliales include: magnolias, tulip trees, custard apples, American pawpaw, cherimoyas, ylang-ylang, soursop fruit, and nutmeg.",
+    "link": "https://en.wikipedia.org/wiki/Magnoliales",
     "scenario": "general.botanicExample"
   }
 }

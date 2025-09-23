@@ -4,6 +4,8 @@
   "data": {
     "name": "Nepetoideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae",
+    "description": "Nepetoideae is a subfamily of plants in the family Lamiaceae.\n\nAs of July 2020, the Angiosperm Phylogeny Website (APweb) accepted the following genera:",
+    "link": "https://en.wikipedia.org/wiki/Nepetoideae",
     "scenario": "general.botanicExample"
   }
 }

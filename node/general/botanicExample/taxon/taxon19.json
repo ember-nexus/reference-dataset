@@ -4,6 +4,8 @@
   "data": {
     "name": "Leontopodium",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Leontopodium",
+    "description": "Leontopodium is a genus of plants in the family Asteraceae. The genus is native to Europe and Asia. The fuzzy and somewhat stocky \"petals\" (technically, bracts) could be thought of as somewhat resembling lions' paws—hence the genus name combining Greek léōn ('lion') and pódion ('foot').\n\nThe genus includes the edelweiss (L. nivale), a well-known plant from the mountains of Europe. The term edelweiss can, more rarely, refer to other members of the genus.",
+    "link": "https://en.wikipedia.org/wiki/Leontopodium",
     "scenario": "general.botanicExample"
   }
 }

@@ -6,6 +6,20 @@
     "scientificName": "B. spectabilis",
     "description": "Bougainvillea spectabilis, also known as great bougainvillea,[1] is a species of flowering plant. It is native to Brazil, Bolivia, Peru, and Argentina's Chubut Province.[2][3] It is widely grown as an ornamental plant.[3]",
     "link": "https://en.wikipedia.org/wiki/Bougainvillea_spectabilis",
+    "images": [
+      {
+        "description": "Bougainvillea spectabilis (flowerings). Location: Maui, Kula",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Starr_030418-0061_Bougainvillea_spectabilis.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starr_030418-0061_Bougainvillea_spectabilis.jpg/960px-Starr_030418-0061_Bougainvillea_spectabilis.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Starr_030418-0061_Bougainvillea_spectabilis.jpg"
+      },
+      {
+        "description": "Bougainvillée (Bougainvillea spectabilis), \"Patio de la Acequia\", Generalife, Granada, Spain.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bougainvill%C3%A9e_Generalife_Espagne.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bougainvill%C3%A9e_Generalife_Espagne.jpg/500px-Bougainvill%C3%A9e_Generalife_Espagne.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Bougainvill%C3%A9e_Generalife_Espagne.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

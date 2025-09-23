@@ -4,6 +4,8 @@
   "data": {
     "name": "Banksia subg. Banksia",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Banksia/Banksia subg. Banksia",
+    "description": "Banksia subg. Banksia is a valid botanic name for a subgenus of Banksia. As an autonym, it necessarily contains the type species of Banksia, B. serrata (Saw Banksia). Within this constraint, however, there have been various circumscriptions.",
+    "link": "https://en.wikipedia.org/wiki/Banksia_subg._Banksia",
     "scenario": "general.botanicExample"
   }
 }

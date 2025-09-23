@@ -6,6 +6,20 @@
     "scientificName": "C. indica",
     "description": "Canna indica, commonly known as Indian shot,[2] African arrowroot, edible canna, purple arrowroot, Sierra Leone arrowroot,[3] is a plant species in the family Cannaceae. It is native to the Americas and naturalized elsewhere. The edible rhizomes are a source of starch.",
     "link": "https://en.wikipedia.org/wiki/Canna_indica",
+    "images": [
+      {
+        "description": "Cinnamon-bellied flowerpiercer (Diglossa baritula) male on Indian shot (Canna indica), Finca El Pilar, Antigua Guatemala",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cinnamon-bellied_flowerpiercer_%28Diglossa_baritula%29_male_on_Indian_shot_%28Canna_indica%29_Finca_El_Pilar.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cinnamon-bellied_flowerpiercer_%28Diglossa_baritula%29_male_on_Indian_shot_%28Canna_indica%29_Finca_El_Pilar.jpg/500px-Cinnamon-bellied_flowerpiercer_%28Diglossa_baritula%29_male_on_Indian_shot_%28Canna_indica%29_Finca_El_Pilar.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Cinnamon-bellied_flowerpiercer_(Diglossa_baritula)_male_on_Indian_shot_(Canna_indica)_Finca_El_Pilar.jpg"
+      },
+      {
+        "description": "Canna edulis, Glasgow Botanic Gardens",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/2/24/Canna_edulis%2C_Glasgow_Botanic_Gardens.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Canna_edulis%2C_Glasgow_Botanic_Gardens.jpg/500px-Canna_edulis%2C_Glasgow_Botanic_Gardens.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Canna_edulis,_Glasgow_Botanic_Gardens.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

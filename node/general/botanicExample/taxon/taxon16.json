@@ -4,6 +4,8 @@
   "data": {
     "name": "Echinacea",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Heliantheae/Echinacea",
+    "description": "Echinacea /ˌɛkɪˈneɪsiə, ˌɛkɪˈneɪʃiə/ is a genus of herbaceous flowering plants in the daisy family. It has ten species, which are commonly called coneflowers. They are native only in eastern and central North America, where they grow in wet to dry prairies and open wooded areas. They have large, showy heads of composite flowers, blooming in summer. The generic name is derived from the Greek word ἐχῖνος (ekhinos), meaning \"hedgehog\", due to the spiny central disk. These flowering plants and their parts have different uses. Some species are cultivated in gardens for their showy flowers. Two of the species, E. tennesseensis and E. laevigata, were formerly listed in the United States as endangered species; E. tennesseensis has been delisted due to recovery and E. laevigata is now listed as threatened.\n\nEchinacea has a long history of use in traditional medicine by Indigenous peoples for treating infections, pain, and wounds, and it later gained popularity in Western herbal remedies, especially for colds. However, modern research shows weak or inconclusive evidence for its effectiveness, with concerns about product variability and potential side effects. Regulatory authorities have not approved Echinacea products for any medical use.",
+    "link": "https://en.wikipedia.org/wiki/Echinacea",
     "scenario": "general.botanicExample"
   }
 }

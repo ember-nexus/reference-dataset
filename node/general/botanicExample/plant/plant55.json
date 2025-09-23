@@ -6,6 +6,20 @@
     "scientificName": "A. pycnantha",
     "description": "Acacia pycnantha, most commonly known as the golden wattle, is a tree of the family Fabaceae. It grows to a height of 8 metres (26 feet) and has phyllodes (flattened leaf stalks) instead of true leaves. The profuse fragrant, golden flowers appear in late winter and spring, followed by long seed pods. Explorer Thomas Mitchell collected the type specimen, from which George Bentham wrote the species description in 1842. The species is native to southeastern Australia as an understorey plant in eucalyptus forest. Plants are cross-pollinated by several species of honeyeater and thornbill, which visit nectaries on the phyllodes and brush against flowers, transferring pollen between them.\n\nA. pycnantha has become a weed in areas of Australia, as well as in Africa and Eurasia. Its bark produces more tannin than any other wattle species, resulting in its commercial cultivation for production of this compound. It has been widely grown as an ornamental garden plant and for cut flower production. A. pycnantha was made the official floral emblem of Australia in 1988, and has been featured on the country's postal stamps.",
     "link": "https://en.wikipedia.org/wiki/Acacia_pycnantha",
+    "images": [
+      {
+        "description": "Acacia pycnantha (cultivated, labelled), Geelong Botanic Gardens Melbourne, Victoria, Australia",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/4/45/Acacia_pycnantha_5145.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Acacia_pycnantha_5145.jpg/500px-Acacia_pycnantha_5145.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Acacia_pycnantha_5145.jpg"
+      },
+      {
+        "description": "Acacia pycnantha (Golden Wattle), Burnley Gardens, Victoria, Australia.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Acacia_pycnantha_Golden_Wattle.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Acacia_pycnantha_Golden_Wattle.jpg/960px-Acacia_pycnantha_Golden_Wattle.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Acacia_pycnantha_Golden_Wattle.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

@@ -6,6 +6,26 @@
     "scientificName": "B. glabra",
     "description": "Bougainvillea glabra, the lesser bougainvillea or paperflower,[3] is the most common species of bougainvillea used for bonsai.[4] The epithet 'glabra' comes from Latin and means \"bald\".[5]",
     "link": "https://en.wikipedia.org/wiki/Bougainvillea_glabra",
+    "images": [
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bugenwilla.D%C5%82ugo_kwitnaca_roslina.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bugenwilla.D%C5%82ugo_kwitnaca_roslina.jpg/960px-Bugenwilla.D%C5%82ugo_kwitnaca_roslina.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Bugenwilla.D%C5%82ugo_kwitnaca_roslina.jpg"
+      },
+      {
+        "description": "Paperflower -- Bougainvillea glabra",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paperflower_--_Bougainvillea_glabra.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Paperflower_--_Bougainvillea_glabra.jpg/960px-Paperflower_--_Bougainvillea_glabra.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Paperflower_--_Bougainvillea_glabra.jpg"
+      },
+      {
+        "description": "Bougainvillea glabra, Paper Flower, also known as Lesser bougainvillea, is a species of Bougainvillea and is the most common species of bougainvillea used for bonsai. It can be easily grown as a hedge, an arch or a tree on the ground and in pots. They are thorny, woody vines growing anywhere from 1 to 12 m (3 to 40 ft.) tall, scrambling over other plants with their spiky thorns. The actual flower of the plant is small and generally white, but each cluster of three flowers is surrounded by three or six bracts with the bright colours associated with the plant, including pink, magenta, purple, red, orange, white, or yellow. Bougainvillea glabra is sometimes referred to as \"paper flower\" because the bracts are thin and papery. The fruit is a narrow five-lobed achene.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bougainvillea_glabra_at_Kadavoor.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bougainvillea_glabra_at_Kadavoor.jpg/960px-Bougainvillea_glabra_at_Kadavoor.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Bougainvillea_glabra_at_Kadavoor.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

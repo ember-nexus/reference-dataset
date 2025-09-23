@@ -6,6 +6,14 @@
     "scientificName": "C. mossiae",
     "description": "Cattleya mossiae (literally 'Moss' Cattleya'), commonly known as the Easter orchid, is a species of labiate Cattleya orchid. The white-flowered form is sometimes known as Cattleya wagneri.[1] The diploid chromosome number of C. mossiae has been determined as 2n = 40. The haploid chromosome number has been determined as n = 20.[2]\n\nIt is among the group of very fragrant orchids.",
     "link": "https://en.wikipedia.org/wiki/Cattleya_mossiae",
+    "images": [
+      {
+        "description": "Cattleya mossiae in Venezuela",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cattleya_mossiae_%28dew_in_Venezuela%29.JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cattleya_mossiae_%28dew_in_Venezuela%29.JPG/960px-Cattleya_mossiae_%28dew_in_Venezuela%29.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:Cattleya_mossiae_(dew_in_Venezuela).JPG"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

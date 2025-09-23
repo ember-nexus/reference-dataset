@@ -4,6 +4,8 @@
   "data": {
     "name": "Lilieae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Liliaceae/Lilioideae/Lilieae",
+    "description": "The Lilieae are a monophyletic tribe of monocotyledon perennial, herbaceous mainly bulbous flowering plants in the lily family (Liliaceae).",
+    "link": "https://en.wikipedia.org/wiki/Lilieae",
     "scenario": "general.botanicExample"
   }
 }

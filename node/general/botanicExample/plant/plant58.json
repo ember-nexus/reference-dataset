@@ -6,6 +6,14 @@
     "scientificName": "B. integrifolia",
     "description": "Banksia integrifolia, commonly known as the coast banksia,[4] is a species of tree that grows along the east coast of Australia. One of the most widely distributed Banksia species, it occurs between Victoria and Central Queensland in a broad range of habitats, from coastal dunes to mountains. It is highly variable in form, but is most often encountered as a tree up to 25 metres (82 ft) in height. Its leaves have dark green upper surfaces and white undersides, a contrast that can be striking on windy days.\n\nIt is one of the four original Banksia species collected by Sir Joseph Banks in 1770, and one of four species published in 1782 as part of Carolus Linnaeus the Younger's original description of the genus. It has had a complicated taxonomic history, with numerous species and varieties ascribed to it, only to be rejected or promoted to separate species. Modern taxonomy recognises three subspecies: B. integrifolia subsp. integrifolia, B. integrifolia subsp. compar and B. integrifolia subsp. monticola.\n\nA hardy and versatile garden plant, B. integrifolia is widely planted in Australian gardens. It is a popular choice for parks and streetscapes, and has been used for bush revegetation and stabilisation of dunes. Its hardiness has prompted research into its suitability for use as a rootstock in the cut flower trade, but has also caused concerns about its potential to become a weed outside its natural habitat.",
     "link": "https://en.wikipedia.org/wiki/Banksia_integrifolia",
+    "images": [
+      {
+        "description": "Banksia integrifolia integrifolia - in flower in bushland, Nannygoat Hill (Sydney suburbs). Photo: Cas Liber",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/7/76/B_integrifolia_integrifolia1.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/B_integrifolia_integrifolia1.jpg/367px-B_integrifolia_integrifolia1.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:B_integrifolia_integrifolia1.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

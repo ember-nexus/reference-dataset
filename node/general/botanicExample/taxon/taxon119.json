@@ -4,6 +4,8 @@
   "data": {
     "name": "Agavoideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asparagaceae/Agavoideae",
+    "description": "Agavoideae is a subfamily of monocot flowering plants in the family Asparagaceae, order Asparagales. It has previously been treated as a separate family, Agavaceae. The group includes many well-known desert and dry-zone types, such as the agaves and yuccas (including the Joshua tree). About 640 species are placed in around 23 genera; they are widespread in the tropical, subtropical, and warm temperate regions of the world.",
+    "link": "https://en.wikipedia.org/wiki/Agavoideae",
     "scenario": "general.botanicExample"
   }
 }

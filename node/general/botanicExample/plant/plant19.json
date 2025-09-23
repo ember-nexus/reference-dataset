@@ -6,6 +6,20 @@
     "scientificName": "P. serrulata",
     "description": "Prunus serrulata or Japanese cherry[2] is a species of cherry tree that grows wild in Japan, China, Korea and Vietnam. The term also refers to a cultivar produced from Prunus speciosa (Oshima cherry), a cherry tree endemic in Japan.[3][4] Historically, the Japanese have developed many cultivars by selective breeding of cherry trees, which are produced by the complicated crossing of several wild species, and they are used for ornamental purposes all over the world. Of these, the cultivars produced by complex interspecific hybrids based on the Oshima cherry are also known as the Cerasus Sato-zakura Group.[4][5][6]",
     "link": "https://en.wikipedia.org/wiki/Prunus_serrulata",
+    "images": [
+      {
+        "description": "Japanese Cherry 'Kanzan' (Prunus serrulata (Sato-zakura Group) 'Kanzan') in bloom - Jardin des Plantes, Paris, France.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/1/10/Cerisier_du_Japon_Prunus_serrulata.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cerisier_du_Japon_Prunus_serrulata.jpg/960px-Cerisier_du_Japon_Prunus_serrulata.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Cerisier_du_Japon_Prunus_serrulata.jpg"
+      },
+      {
+        "description": "ベニユタカの大輪の花弁（日本花の会 結城農場にて）",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Beniyutaka2.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beniyutaka2.jpg/960px-Beniyutaka2.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Beniyutaka2.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

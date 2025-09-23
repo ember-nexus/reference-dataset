@@ -4,6 +4,8 @@
   "data": {
     "name": "Melaleuceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Melaleuceae",
+    "description": "Melaleuceae is a tribe in the plant family Myrtaceae from south-east Asia and Oceania, with a main center of diversity in Australia.",
+    "link": "https://en.wikipedia.org/wiki/Melaleuceae",
     "scenario": "general.botanicExample"
   }
 }

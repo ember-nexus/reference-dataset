@@ -4,6 +4,8 @@
   "data": {
     "name": "Chrysanthemum",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Chrysanthemum",
+    "description": "Chrysanthemums (/krɪˈsænθəməmz/ kriss-AN-thə-məmz), sometimes abbreviated to 'mums' or 'chrysanths', are flowering plants in the Asteraceae family. They are native to East Asia and northeastern Europe. Most species originate from East Asia, and the center of diversity is in China. Many horticultural varieties and cultivars exist.",
+    "link": "https://en.wikipedia.org/wiki/Chrysanthemum",
     "scenario": "general.botanicExample"
   }
 }

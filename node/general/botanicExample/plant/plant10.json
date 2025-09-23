@@ -6,6 +6,20 @@
     "scientificName": "C. cyanus",
     "description": "Centaurea cyanus, commonly known as cornflower or bachelor's button (among other names[note 1]), is an annual flowering plant in the family Asteraceae native to Europe. In the past, it often grew as a weed in cornfields (in the broad sense of \"corn\", referring to grains, such as wheat, barley, rye, or oats), hence its name. It is now endangered in its native habitat by agricultural intensification, particularly by over-use of herbicides. However, Centaurea cyanus is now also naturalised in many other parts of the world, including North America and parts of Australia through introduction as an ornamental plant in gardens and as a seed contaminant in crop seeds.[3]",
     "link": "https://en.wikipedia.org/wiki/Centaurea_cyanus",
+    "images": [
+      {
+        "description": "Centaurea cyanus (introduced species) near Peshastin, Chelan County Washington",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Centaurea_cyanus_3.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Centaurea_cyanus_3.jpg/960px-Centaurea_cyanus_3.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Centaurea_cyanus_3.jpg"
+      },
+      {
+        "description": "Photograph of a Bachelor's button, (Centaurea cyanus), that was captured using the digital macro mode, in the neighborhood called Capitol Hill, Denver, Colorado USA.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bachelor%27s_button%2C_Basket_flower%2C_Boutonniere_flower%2C_Cornflower_-_3.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bachelor%27s_button%2C_Basket_flower%2C_Boutonniere_flower%2C_Cornflower_-_3.jpg/960px-Bachelor%27s_button%2C_Basket_flower%2C_Boutonniere_flower%2C_Cornflower_-_3.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Bachelor%27s_button,_Basket_flower,_Boutonniere_flower,_Cornflower_-_3.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }
