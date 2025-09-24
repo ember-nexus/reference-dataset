@@ -6,6 +6,26 @@
     "scientificName": "Pelargonium",
     "description": "Pelargonium (/\\u02ccp\\u025bl\\u0251\\u02d0r\\u02c8\\u0261o\\u028ani.\\u0259m/)[5] is a genus of flowering plants that includes about 280 species of perennials, succulents, and shrubs,[4] commonly called geraniums, pelargoniums, or storksbills. Geranium is also the botanical name and common name of a separate genus of related plants, also known as cranesbills. Both genera belong to the family Geraniaceae, and Carl Linnaeus originally included all the species in one genus, Geranium; they were later separated into two genera by Charles Louis L'H\\u00e9ritier de Brutelle in 1789.",
     "link": "https://en.wikipedia.org/wiki/Pelargonium",
+    "images": [
+      {
+        "description": "Hooded-leaf Pelargonium",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pelargonium_cucullatum_Contour_Path_Rhodes_Mem.JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pelargonium_cucullatum_Contour_Path_Rhodes_Mem.JPG/960px-Pelargonium_cucullatum_Contour_Path_Rhodes_Mem.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:Pelargonium_cucullatum_Contour_Path_Rhodes_Mem.JPG"
+      },
+      {
+        "description": "Pelargonium zonale (L.) L'Her. (Geraniaceae), common name Horseshoe geranium. Botanical Gardens Ljubljana, Slovenia. Stacked image.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pelargonium_zonale_%28Geraniaceae%29.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pelargonium_zonale_%28Geraniaceae%29.jpg/960px-Pelargonium_zonale_%28Geraniaceae%29.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Pelargonium_zonale_(Geraniaceae).jpg"
+      },
+      {
+        "description": "Zonal Pelargonium, 'Rocky Mountain Orange'",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Pelargonium_%27Rocky_Mountain_Orange%272.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pelargonium_%27Rocky_Mountain_Orange%272.jpg/960px-Pelargonium_%27Rocky_Mountain_Orange%272.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Pelargonium_%27Rocky_Mountain_Orange%272.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

@@ -4,6 +4,8 @@
   "data": {
     "name": "Jasminum",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Oleaceae/Jasminum",
+    "description": "Jasmine (botanical name: Jasminum, pronounced /ˈjæsmɪnəm/ YAS-min-əm) is a genus of shrubs and vines in the olive family of Oleaceae.: 193  It contains around 200 species native to tropical and warm temperate regions of Eurasia, Africa, and Oceania.: 194  Jasmines are widely cultivated for the characteristic fragrance of their flowers.\n\nThe village of Shubra Beloula in Egypt grows most of the jasmine used by the global perfume industry.",
+    "link": "https://en.wikipedia.org/wiki/Jasmine",
     "scenario": "general.botanicExample"
   }
 }

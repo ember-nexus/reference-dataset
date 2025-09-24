@@ -6,6 +6,14 @@
     "scientificName": "G. rosmarinifolia",
     "description": "Grevillea rosmarinifolia, commonly known as rosemary grevillea,[2] is a species of flowering plant in the family Proteaceae and is endemic to south-eastern continental Australia and naturalised in other parts of the country. It is usually an erect, compact to open shrub with linear, narrowly elliptic or narrowly oblong leaves with the edges rolled under, and loose clusters of pink to red flowers.",
     "link": "https://en.wikipedia.org/wiki/Grevillea_rosmarinifolia",
+    "images": [
+      {
+        "description": "Grevillea rosmarinifolia subsp. glabella at Stocks Nursery and Botanic Gardens, Harden, NSW",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/7/76/Grevillea_rosmarinifolia_glabella.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/76/Grevillea_rosmarinifolia_glabella.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Grevillea_rosmarinifolia_glabella.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

@@ -4,6 +4,8 @@
   "data": {
     "name": "Asphodeloideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asphodelaceae/Asphodeloideae",
+    "description": "Asphodeloideae is a subfamily of the monocot family Asphodelaceae in the order Asparagales. It has previously been treated as a separate family, Asphodelaceae sensu stricto. The family Asphodelaceae has now been proposed to be a nomen conservandum, and the proposal has been recommended for ratification in 2017. In that case, Asphodelaceae will have priority over Xanthorrhoeaceae. This is reflected in the APG IV family lists.\n\nThe subfamily name is derived from the generic name of the type genus, Asphodelus. Members of this group can be found growing native in coastal Southern Africa, Central and Western Europe, the Mediterranean basin, Central Asia and Australia; one genus, Bulbinella, can additionally be found growing in New Zealand. The greatest diversity occurs in South Africa.\n\nSeveral genera, notably Aloe, Asphodelus, Gasteria, Haworthia and Kniphofia are perhaps the best known of the family due to their use among plant collectors, botanists and horticulturists. Additional genera and hybrids are also known, including Aristaloe, Gasteraloe and Gonialoe (the latter formerly included the now-rehomed Aloe variegata, or partridge-breast aloe).",
+    "link": "https://en.wikipedia.org/wiki/Asphodeloideae",
     "scenario": "general.botanicExample"
   }
 }

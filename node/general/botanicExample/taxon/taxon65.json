@@ -4,6 +4,8 @@
   "data": {
     "name": "Protea",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Protea",
+    "description": "Protea (/ˈproʊtiːə/) is a genus of South African flowering plants, also called sugarbushes (Afrikaans: suikerbos). It is the type genus of the Proteaceae family.\n\nAbout 92% of the species occur only in the Cape Floristic Region, a narrow belt of mountainous coastal land from Clanwilliam to Grahamstown, South Africa. Most protea species are found south of the Limpopo River. Protea madiensis grows in Afromontane enclaves across tropical Africa, from Guinea to Sudan, Mozambique, and Angola. Protea afra ranges from the Cape region to Uganda and Kenya, including in the chaparral zone of Mount Kenya National Park. The extraordinary richness and diversity of species characteristic of the Cape flora are thought to be caused in part by the diverse landscape, where populations can become isolated from each other and in time develop into separate species.",
+    "link": "https://en.wikipedia.org/wiki/Protea",
     "scenario": "general.botanicExample"
   }
 }

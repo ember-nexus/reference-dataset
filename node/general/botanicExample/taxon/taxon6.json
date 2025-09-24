@@ -4,6 +4,8 @@
   "data": {
     "name": "Apiales",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Apiales",
+    "description": "The Apiales are an order of flowering plants, included in the asterid group of dicotyledons. Well-known members of Apiales include carrots, celery, coriander, parsley, parsnips, poison hemlock, ginseng, ivies, and pittosporums.\n\nApiales consist of seven families, with the type family being the celery, carrot or parsley family, Apiaceae.",
+    "link": "https://en.wikipedia.org/wiki/Apiales",
     "scenario": "general.botanicExample"
   }
 }

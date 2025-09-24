@@ -4,6 +4,8 @@
   "data": {
     "name": "Dahlia",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Dahlia",
+    "description": "Dahlia (UK: /ˈdeɪliə/ DAY-lee-ə, US: /ˈdæljə, ˈdɑːljə, ˈdeɪljə/ DA(H)L-yə, DAYL-yə) is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico and Central America. Dahlias are members of the Asteraceae (synonym name: Compositae) family of dicotyledonous plants, its relatives include the sunflower, daisy, chrysanthemum, and zinnia. There are 49 species of dahlia, with flowers in almost every hue (except blue), with hybrids commonly grown as garden plants.\n\nDahlias were known only to the Aztecs and other southern North American peoples until the Spanish conquest, after which the plants were brought to Europe. The tubers of some varieties are of medicinal and dietary value to humans because, in common with species of Inula and many other flowering plants, they use inulin, a polymer of the fruit sugar fructose, instead of starch as a storage polysaccharide.",
+    "link": "https://en.wikipedia.org/wiki/Dahlia",
     "scenario": "general.botanicExample"
   }
 }

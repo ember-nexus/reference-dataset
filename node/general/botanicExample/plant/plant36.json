@@ -6,6 +6,26 @@
     "scientificName": "T. grandiflorum",
     "description": "Trillium grandiflorum, the white trillium,[3] large-flowered trillium, great white trillium,[4] white wake-robin or French: trille blanc, is a species of flowering plant in the family Melanthiaceae. A monocotyledonous, herbaceous perennial, the plant is native to eastern North America, from northern Quebec to the southern parts of the United States through the Appalachian Mountains into northernmost Georgia and west to Minnesota. There are also several isolated populations in Nova Scotia, Maine, southern Illinois, and Iowa.[5]",
     "link": "https://en.wikipedia.org/wiki/Trillium_grandiflorum",
+    "images": [
+      {
+        "description": "White trillium (Trillium grandiflorum) blooming in Backus Woods.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Trillium_grandiflorum_at_Backus_Woods.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Trillium_grandiflorum_at_Backus_Woods.jpg/960px-Trillium_grandiflorum_at_Backus_Woods.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Trillium_grandiflorum_at_Backus_Woods.jpg"
+      },
+      {
+        "description": "Pink form of Trillium grandiflorum",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Trillium_grandiflorum_pink1.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Trillium_grandiflorum_pink1.jpg/960px-Trillium_grandiflorum_pink1.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Trillium_grandiflorum_pink1.jpg"
+      },
+      {
+        "description": "Photograph of the flower of the White Trilliumen (Trillium grandiflorum en ). Photo taken at the Mt. Cuba Center where it was identified.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/0/0c/White_Trillium_Trillium_grandiflorum_Flower_2613px.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/White_Trillium_Trillium_grandiflorum_Flower_2613px.jpg/960px-White_Trillium_Trillium_grandiflorum_Flower_2613px.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:White_Trillium_Trillium_grandiflorum_Flower_2613px.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

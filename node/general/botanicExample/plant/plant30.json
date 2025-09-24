@@ -6,6 +6,14 @@
     "scientificName": "A. capensis",
     "description": "Anchusa capensis, is a species of flowering plant in the family Boraginaceae, native to Namibia, South Africa and Lesotho.[1][2] The genus Anchusa is from the Greek word anchousa, which makes reference to its use as a dye base for cosmetic paint obtained from the roots of another plant in the genus Anchusa tinctoria. The species capensis translates to \\u2018from the Cape\\u2019 referring to South Africa[3]\n\nA. capensis typically reaches about 60 cm (24 in) tall, and grows best in full sun.[4] In summer, red buds open to reveal small, bright cobalt blue flowers with five petals and five white scales protecting the stigma and anthers.[5]\n\nIn the US, it grows well in zones 8\\u201311.[6] Cultivars include 'Dawn', with white, pink, mauve and blue flowers, 'Blue Angel', with dark blue flowers, and 'Blue Bird', taller and with indigo blue flowers.[7]",
     "link": "https://en.wikipedia.org/wiki/Anchusa_capensis",
+    "images": [
+      {
+        "description": "Anchusa capensis in the San Francisco Botanical Garden",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Anchusa_capensis_kz1.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anchusa_capensis_kz1.jpg/500px-Anchusa_capensis_kz1.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Anchusa_capensis_kz1.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

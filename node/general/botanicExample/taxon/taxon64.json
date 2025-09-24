@@ -4,6 +4,8 @@
   "data": {
     "name": "Grevillea",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Grevillea",
+    "description": "Grevillea (/ɡrɪˈvɪliə/), commonly known as spider flowers, is a genus of about 360 species of evergreen flowering plants in the family Proteaceae. Plants in the genus Grevillea are shrubs, rarely trees, with the leaves arranged alternately along the branches, the flowers zygomorphic, arranged in racemes at the ends of branchlets, and the fruit a follicle that splits down one side only, releasing one or two seeds.",
+    "link": "https://en.wikipedia.org/wiki/Grevillea",
     "scenario": "general.botanicExample"
   }
 }

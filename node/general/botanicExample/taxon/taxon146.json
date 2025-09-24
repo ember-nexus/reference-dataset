@@ -4,6 +4,8 @@
   "data": {
     "name": "Colchicaceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Colchicaceae",
+    "description": "Colchicaceae is a family of flowering plants that includes 15 genera with a total of about 285 known species according to Christenhusz and Byng in 2016.",
+    "link": "https://en.wikipedia.org/wiki/Colchicaceae",
     "scenario": "general.botanicExample"
   }
 }

@@ -6,6 +6,20 @@
     "scientificName": "H. annuus",
     "description": "The common sunflower (Helianthus annuus) is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds, which are often eaten as a snack food. They are also used in the production of cooking oil, as food for livestock, as bird food, and as plantings in domestic gardens for aesthetics. Wild plants are known for their multiple flower heads, whereas the domestic sunflower often possesses a single large flower head atop an unbranched stem.",
     "link": "https://en.wikipedia.org/wiki/Common_sunflower",
+    "images": [
+      {
+        "description": "Sunflower (Sunfola variety) against a blue sky. Taken in Victoria, Australia.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Sunflower_sky_backdrop.jpg"
+      },
+      {
+        "description": "Sunflowers at late afternoon. Flowerheads facing East, away from the Sun.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/a/ae/SunflowerSunset2.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SunflowerSunset2.jpg/960px-SunflowerSunset2.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:SunflowerSunset2.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

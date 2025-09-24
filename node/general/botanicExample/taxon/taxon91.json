@@ -4,6 +4,8 @@
   "data": {
     "name": "Myrtales",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales",
+    "description": "The Myrtales are an order of flowering plants in the malvid clade of the rosid group of dicotyledons. Well-known members of Myrtales include: myrtle, pōhutukawa, bay rum tree, clove, guava, acca (feijoa), allspice, eucalyptus, crape myrtles, henna tree, pomegranate, water caltrop, loosestrifes, cupheas (cigar plants), evening primroses, fuchsias, willowherbs, white mangrove, leadwood tree, African birch, Koster's curse, and velvet tree.",
+    "link": "https://en.wikipedia.org/wiki/Myrtales",
     "scenario": "general.botanicExample"
   }
 }

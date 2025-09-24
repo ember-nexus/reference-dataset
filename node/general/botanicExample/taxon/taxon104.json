@@ -4,6 +4,8 @@
   "data": {
     "name": "Rosoideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Rosales/Rosaceae/Rosoideae",
+    "description": "The rose subfamily Rosoideae consists of more than 850 species, including many shrubs, perennial herbs, and fruit plants such as strawberries and brambles. Only a few are annual herbs.\n\nThe circumscription of the Rosoideae is still not wholly certain; recent genetic research has resulted in several changes at the genus level and the removal from Rosoideae of some genera (notably Cercocarpus, Cowania, Dryas and Purshia) previously included in the subfamily.",
+    "link": "https://en.wikipedia.org/wiki/Rosoideae",
     "scenario": "general.botanicExample"
   }
 }

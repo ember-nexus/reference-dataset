@@ -4,6 +4,8 @@
   "data": {
     "name": "Fuchsia",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Myrtales/Onagraceae/Fuchsia",
+    "description": "Fuchsia (/ˈfjuːʃə/ ⓘ FEW-shə) is a genus of flowering plants that consists mostly of shrubs or small trees.\n\nAlmost 110 species of Fuchsia are recognized; the vast majority are native to South America, but a few occur north through Central America to Mexico, and also several from New Zealand to Tahiti. One species, F. magellanica, extends as far as the southern tip of South America, occurring on Tierra del Fuego in the cool temperate zone, but the majority are tropical or subtropical.",
+    "link": "https://en.wikipedia.org/wiki/Fuchsia",
     "scenario": "general.botanicExample"
   }
 }

@@ -4,6 +4,8 @@
   "data": {
     "name": "Malvoideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Malvoideae",
+    "description": "Malvoideae is a botanical name at the rank of subfamily, which includes in the minimum the genus Malva. It was first used by Burnett in 1835, but was not much used until recently, where, within the framework of the APG System, which unites the families Malvaceae, Bombacaceae, Sterculiaceae and Tiliaceae of the Cronquist system, the aggregate family Malvaceae is divided into 9 subfamilies, including Malvoideae. The Malvoideae of Kubitzki and Bayer includes 4 tribes:\n\n    Malveae (Abutilon, Alcea, Malva, Sidalcea etc.)\n    Gossypieae (Gossypium, the cottons etc.)\n    Hibisceae (Hibiscus etc.)\n    Kydieae\n    - and two unplaced genera:-\n        Jumelleanthus\n        Howittia\n\nThe genus Alyogyne was once included in the genus Hibiscus but is not included there anymore. It is not placed in the Hibisceae either and some resources, such as the GRIN include it in the Gossypieae. The GRIN also excludes Thepparatia from the Gossypieae.\n\nBaum et al. have a wider concept (cladistically, all those plants more closely related to Malva sylvestris than to Bombax ceiba) of Malvoideae, which includes additionally the tribe Matisieae (three genera of Neotropical trees) and the genera Lagunaria, Camptostemon, Pentaplaris and Uladendron.",
+    "link": "https://en.wikipedia.org/wiki/Malvoideae",
     "scenario": "general.botanicExample"
   }
 }

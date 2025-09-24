@@ -4,6 +4,8 @@
   "data": {
     "name": "Telopea",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Proteaceae/Telopea",
+    "description": "The waratah (genus Telopea) is an Australian-endemic genus of five species of large shrubs or small trees, native to the southeastern parts of Australia (New South Wales, Victoria, and Tasmania). The best-known species in this genus is Telopea speciosissima, which has bright red flowers and is the New South Wales (NSW) state emblem. The waratah is a member of the family Proteaceae, flowering plants distributed in the Southern Hemisphere. The key diagnostic feature of Proteaceae is the inflorescence, which is often very large, brightly coloured and showy, consisting of many small flowers densely packed into a compact head or spike. Species of waratah boast such inflorescences ranging from 6–15 cm in diameter with a basal ring of coloured bracts. The leaves are spirally arranged, 10–20 cm long and 2–3 cm broad with entire or serrated margins. The name waratah comes from the Eora Aboriginal people, the traditional owners of the Sydney region.",
+    "link": "https://en.wikipedia.org/wiki/Waratah",
     "scenario": "general.botanicExample"
   }
 }

@@ -4,6 +4,8 @@
   "data": {
     "name": "Hibisceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Malvoideae/Hibisceae",
+    "description": "Hibisceae is a tribe of flowering plants in the mallow family Malvaceae, subfamily Malvoideae.",
+    "link": "https://en.wikipedia.org/wiki/Hibisceae",
     "scenario": "general.botanicExample"
   }
 }

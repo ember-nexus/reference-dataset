@@ -6,6 +6,20 @@
     "scientificName": "Callistemon",
     "description": "Callistemon /\\u02cck\\u00e6l\\u026a\\u02c8sti\\u02d0m\\u0259n/[2] is a genus of shrubs in the family Myrtaceae, first described as a genus in 1814.[3] The entire genus is endemic to Australia but widely cultivated in many other regions and naturalised in scattered locations.[4] Their status as a separate taxon is in doubt, some authorities accepting that the difference between callistemons and melaleucas is not sufficient for them to be grouped in a separate genus.",
     "link": "https://en.wikipedia.org/wiki/Callistemon",
+    "images": [
+      {
+        "description": "Callistemon viminalis",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/9/97/Callistemon.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Callistemon.jpg/500px-Callistemon.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Callistemon.jpg"
+      },
+      {
+        "description": "red bottle brush",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Red_bottle_brush.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Red_bottle_brush.jpg/500px-Red_bottle_brush.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Red_bottle_brush.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

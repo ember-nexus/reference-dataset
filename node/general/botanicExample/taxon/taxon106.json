@@ -4,6 +4,8 @@
   "data": {
     "name": "Magnoliids",
     "path": "/Plantae/Tracheophytes/Angiosperms/Magnoliids",
+    "description": "Magnoliids, Magnoliidae or Magnolianae are a clade of flowering plants. With more than 10,000 species, including magnolias, nutmeg, bay laurel, cinnamon, avocado, black pepper, tulip tree and many others, it is the third-largest group of angiosperms after the eudicots and monocots. The group is characterized by trimerous flowers, pollen with one pore, and usually branching-veined leaves.\n\nSome members of the subclass are among the earliest angiosperms and share anatomical similarities with gymnosperms like stamens that resemble the male cone scales of conifers and carpels found on the long flowering axis. According to molecular clock calculations, the lineage that led to magnoliids split from other plants about 135 million years ago or 160-165 million years ago.",
+    "link": "https://en.wikipedia.org/wiki/Magnoliids",
     "scenario": "general.botanicExample"
   }
 }

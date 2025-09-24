@@ -6,6 +6,20 @@
     "scientificName": "A. obesum",
     "description": "Adenium obesum, more commonly known as a desert rose, is a poisonous species of flowering plant belonging to the tribe Nerieae of the subfamily Apocynoideae of the dogbane family, Apocynaceae.[3] It is native to the Sahel regions south of the Sahara (from Mauritania and Senegal to Sudan), tropical and subtropical eastern and southern Africa, as well as the Arabian Peninsula. Other names for the flower include Sabi star, kudu, mock azalea, and impala lily. Adenium obesum is a popular houseplant and bonsai in temperate regions.",
     "link": "https://en.wikipedia.org/wiki/Adenium_obesum",
+    "images": [
+      {
+        "description": "Adenium obesum (desert rose), macro of a flower, side view showing calyx, corolla and styles. Focus stack of 7 images. Uthandi, Chennai",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg/960px-Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Adenium_Obesum_Flower_Side_Macro_Mar22_D72_23052-58_ZS_P.jpg"
+      },
+      {
+        "description": "Ra Chi Nee Pan Dok's mother plant",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RCN_Mother.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RCN_Mother.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:RCN_Mother.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

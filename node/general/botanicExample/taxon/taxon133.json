@@ -4,6 +4,8 @@
   "data": {
     "name": "Haemodoraceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Commelinales/Haemodoraceae",
+    "description": "Haemodoraceae is a family of perennial herbaceous angiosperms (flowering plants) containing 15 genera and 102 known species, sometimes known as the \"bloodroots\", found throughout the Southern Hemisphere, from Australia and New Guinea to South Africa, as well as the Americas (from extreme southeastern USA through tropical South America).\n\nPerhaps the best-known (and most popular in cultivation) genera from the family are the unusual Anigozanthos and Macropidia, both commonly called \"kangaroo-paw\" or \"kangaroo's paw\" due to their fuzzy flowers. These genera are hugely popular in both private gardens and public landscaping projects in Mediterranean climate regions, such as in Chile, northwestern Mexico (Baja California), Southern California (and the Bay Area) and Western Australia, among other locations; the kangaroo-paws are valued for their hardiness, adaptability and low irrigation requirements, once established.",
+    "link": "https://en.wikipedia.org/wiki/Haemodoraceae",
     "scenario": "general.botanicExample"
   }
 }

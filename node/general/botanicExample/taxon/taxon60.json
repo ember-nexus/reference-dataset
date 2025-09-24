@@ -4,6 +4,8 @@
   "data": {
     "name": "Nelumbo",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales/Nelumbonaceae/Nelumbo",
+    "description": "Nelumbo /nɪˈlʌmboʊ/ is a genus of aquatic plants with large, showy flowers. Members are commonly called lotus, though the name is also applied to various other plants and plant groups, including the unrelated genus Lotus. Members outwardly resemble those in the family Nymphaeaceae (\"water lilies\"), but Nelumbo is actually very distant from that family.\n\nNelumbo is an ancient genus, with dozens of species known from fossil remains since the Early Cretaceous. However, there are only two known living species of lotus. One is the better-known Nelumbo nucifera, which is native to East Asia, South Asia, Southeast Asia, and probably Australia and is commonly cultivated for consumption and use in traditional Chinese medicine. The other lotus is Nelumbo lutea, which is native to North America and the Caribbean. Horticultural hybrids have been produced between these two allopatric species.",
+    "link": "https://en.wikipedia.org/wiki/Nelumbo",
     "scenario": "general.botanicExample"
   }
 }

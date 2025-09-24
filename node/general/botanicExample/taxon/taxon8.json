@@ -4,6 +4,8 @@
   "data": {
     "name": "Actinotus",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Apiales/Apiaceae/Actinotus",
+    "description": "Actinotus is a genus of flowering plants in the family Apiaceae, subfamily Mackinlayoideae, with about 18 species. It is native to Australasia. Its best known member is the flannel flower, a common sight in Sydney bushland in the spring. The generic name, meaning \"furnished with rays\" is derived from the Greek stem aktin-/ακτιν- \"ray\" or \"sunbeam\".\n\nMost species are endemic to Australia with one from New Zealand. Other notable species are A. schwarzii from the Macdonnell Ranges in Central Australia, which closely resembles A. helianthi in appearance, and the rare pink-flowering A. forsythii from the Blue Mountains.\n\nThe genus was established by the French botanist Jacques Labillardière with his description of A. helianthi on page 67 of the first volume of his Novae Hollandiae Plantarum Specimen. However the habitat statement is anomalous and according to historian Edward Duyker Labillardière could not have collected the type specimen personally and might have received it from Jean-Baptiste Leschenault de La Tour botanist on the expedition of Nicolas Baudin or another early French visitor to New South Wales.\n\nIts closest relative is Apiopetalum from New Caledonia.",
+    "link": "https://en.wikipedia.org/wiki/Actinotus",
     "scenario": "general.botanicExample"
   }
 }

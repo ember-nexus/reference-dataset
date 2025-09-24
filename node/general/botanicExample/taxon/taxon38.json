@@ -4,6 +4,8 @@
   "data": {
     "name": "Adenium",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Gentianales/Apocynaceae/Adenium",
+    "description": "Adenium is a genus of flowering plants in the family Apocynaceae first described as a genus in 1819. It is native to Africa and the Arabian Peninsula.",
+    "link": "https://en.wikipedia.org/wiki/Adenium",
     "scenario": "general.botanicExample"
   }
 }

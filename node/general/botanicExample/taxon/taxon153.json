@@ -4,6 +4,8 @@
   "data": {
     "name": "Trillium",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Melanthiaceae/Trillium",
+    "description": "Trillium (trillium, wakerobin, toadshade, tri flower, birthroot, birthwort, and sometimes \"wood lily\") is a genus of about fifty flowering plant species in the family Melanthiaceae. Trillium species are native to temperate regions of North America and Asia, with the greatest diversity of species found in the southern Appalachian Mountains in the southeastern United States.",
+    "link": "https://en.wikipedia.org/wiki/Trillium",
     "scenario": "general.botanicExample"
   }
 }

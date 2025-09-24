@@ -6,6 +6,20 @@
     "scientificName": "R. hirta",
     "description": "Rudbeckia hirta, commonly called black-eyed Susan and yellow coneflower, is a North American flowering plant in the family Asteraceae. It grows to 1 metre (3+1\\u20442 ft) tall with daisy-like yellow flower heads. There are numerous cultivars. It is toxic when ingested by cats, but was used medicinally by Native Americans. It is the state flower of Maryland.",
     "link": "https://en.wikipedia.org/wiki/Rudbeckia_hirta",
+    "images": [
+      {
+        "description": "Rudbeckia hirta in Wrocław University Botanical Garden",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rudbeckia_hirta_kz03.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rudbeckia_hirta_kz03.jpg/960px-Rudbeckia_hirta_kz03.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Rudbeckia_hirta_kz03.jpg"
+      },
+      {
+        "description": "black eyed susan dyke road",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/0/07/Black_eyed_susan_dyke_road_%2820013843578%29.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Black_eyed_susan_dyke_road_%2820013843578%29.jpg/960px-Black_eyed_susan_dyke_road_%2820013843578%29.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Black_eyed_susan_dyke_road_(20013843578).jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

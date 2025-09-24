@@ -4,6 +4,8 @@
   "data": {
     "name": "Lobelia",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Campanulaceae/Lobelia",
+    "description": "Lobelia (/loʊˈbiːliə, lə-/) is a genus of flowering plants in the family Campanulaceae comprising 415 species, with a subcosmopolitan distribution primarily in tropical to warm temperate regions of the world, a few species extending into cooler temperate regions. They are known generally as lobelias.",
+    "link": "https://en.wikipedia.org/wiki/Lobelia",
     "scenario": "general.botanicExample"
   }
 }

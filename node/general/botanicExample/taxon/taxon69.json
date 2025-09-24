@@ -4,6 +4,8 @@
   "data": {
     "name": "Papaver",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Ranunculales/Papaveraceae/Papaver",
+    "description": "Papaver /pəˈpeɪvər/ is a genus of 70–100 species of frost-tolerant annuals, biennials, and perennials native to temperate and cold regions of Eurasia, Africa and North America. It is the type genus of the poppy family, Papaveraceae.",
+    "link": "https://en.wikipedia.org/wiki/Papaver",
     "scenario": "general.botanicExample"
   }
 }

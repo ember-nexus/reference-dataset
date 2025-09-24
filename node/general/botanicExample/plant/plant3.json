@@ -6,6 +6,14 @@
     "scientificName": "B. perennis",
     "description": "Bellis perennis (/\\u02c8b\\u025bl\\u0259s p\\u0259\\u02c8r\\u025bn\\u0259s/),[2][3] the daisy, is a European species of the family Asteraceae, often considered the archetypal species of the name daisy. To distinguish this species from other plants known as daisies, it is sometimes qualified or known as common daisy, lawn daisy or English daisy.",
     "link": "https://en.wikipedia.org/wiki/Bellis_perennis",
+    "images": [
+      {
+        "description": "Bellis perennis, Asteraceae, Common Daisy, Lawn Daisy, habitus; Karlsruhe, Germany. The fresh blooming plants are used in homeopathy as remedy: Bellis perennis (Bell-p.)",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bellis_perennis_001.JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bellis_perennis_001.JPG/960px-Bellis_perennis_001.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:Bellis_perennis_001.JPG"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

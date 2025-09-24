@@ -4,6 +4,8 @@
   "data": {
     "name": "Gesneriaceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Lamiales/Gesneriaceae",
+    "description": "Gesneriaceae, the gesneriad family, is a family of flowering plants consisting of about 152 genera and ca. 3,540 species in the tropics and subtropics of the Old World (almost all Didymocarpoideae) and the New World (most Gesnerioideae), with a very small number extending to temperate areas. Many species have colorful and showy flowers and are cultivated as ornamental plants.",
+    "link": "https://en.wikipedia.org/wiki/Gesneriaceae",
     "scenario": "general.botanicExample"
   }
 }

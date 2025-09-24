@@ -4,6 +4,8 @@
   "data": {
     "name": "Brugmansia",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Solanaceae/Brugmansia",
+    "description": "Brugmansia is a genus of seven species of flowering plants in the nightshade family Solanaceae. They are woody trees or shrubs, with pendulous flowers, and have no spines on their fruit. Their large, fragrant flowers give them their common name of angel's trumpets, adjacent to the nickname devil's trumpets of the closely related genus Datura.\n\nBrugmansia species are among the most toxic of ornamental plants, containing tropane alkaloids of the type also responsible for the toxicity and deliriant effects of both jimsonweed and the infamous deadly nightshade. All seven species are known only in cultivation or as escapees from cultivation, and no wild plants have ever been confirmed. They are therefore listed as Extinct in the Wild by the IUCN Red List, although they are popular ornamental plants and still exist wild outside their native range as introduced species. It is suspected that their extinction in the wild is due to the extinction of some animal which previously dispersed the seeds, with human cultivation having ensured the genus's continued survival.",
+    "link": "https://en.wikipedia.org/wiki/Brugmansia",
     "scenario": "general.botanicExample"
   }
 }

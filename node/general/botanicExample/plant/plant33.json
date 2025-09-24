@@ -6,6 +6,20 @@
     "scientificName": "A. canadensis",
     "description": "Aquilegia canadensis, the Canadian or Canada columbine, eastern red columbine, or wild columbine, is a species of flowering plant in the buttercup family Ranunculaceae. It is an herbaceous perennial native to woodland and rocky slopes in eastern North America, prized for its red and yellow flowers. It readily hybridizes with other species in the genus Aquilegia.",
     "link": "https://en.wikipedia.org/wiki/Aquilegia_canadensis",
+    "images": [
+      {
+        "description": "Wild columbine (Aquilegia canadensis) in Talcott Mountain State Park",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wild_Columbine.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wild_Columbine.jpg/960px-Wild_Columbine.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Wild_Columbine.jpg"
+      },
+      {
+        "description": "Wild Columbine (Aquilegia canadensis) in Normal, IL. Shows flower and seed pod.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aquilegia_canadensis_Redmarkviolinist.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Aquilegia_canadensis_Redmarkviolinist.jpg/500px-Aquilegia_canadensis_Redmarkviolinist.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Aquilegia_canadensis_Redmarkviolinist.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

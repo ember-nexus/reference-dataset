@@ -4,6 +4,8 @@
   "data": {
     "name": "Bougainvillea",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Caryophyllales/Nyctaginaceae/Bougainvillea",
+    "description": "Bougainvillea (/ˌbuːɡənˈvɪli.ə/ BOO-gən-VIL-ee-ə, US also /ˌboʊ-/ BOH-) is a genus of thorny ornamental vines, bushes, and trees belonging to the family, Nyctaginaceae. They are native to Mexico, Brazil, Bolivia, Paraguay, Peru, and Argentina. There are between 4 and 22 species in the genus. The inflorescence consists of large colourful sepal-like bracts which surround three simple waxy flowers, gaining popularity for the plant as an ornamental. The plant is named after explorer Louis Antoine de Bougainville (1729–1811), after it was documented on one of his expeditions.",
+    "link": "https://en.wikipedia.org/wiki/Bougainvillea",
     "scenario": "general.botanicExample"
   }
 }

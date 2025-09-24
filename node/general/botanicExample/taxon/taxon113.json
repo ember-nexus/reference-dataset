@@ -4,6 +4,8 @@
   "data": {
     "name": "Monocots",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots",
+    "description": "Monocotyledons (/ˌmɒnəˌkɒtəˈliːdənz/), commonly referred to as monocots, (Lilianae sensu Chase & Reveal) are flowering plants whose seeds contain only one embryonic leaf, or cotyledon. A monocot taxon has been in use for several decades, but with various ranks and under several different names. The APG IV system recognises its monophyly but does not assign it to a taxonomic rank, and instead uses the term \"monocots\" to refer to the group.\n\nMonocotyledons are contrasted with the dicotyledons, which have two cotyledons. Unlike the monocots however, the dicots are not monophyletic and the two cotyledons are instead the ancestral characteristic of all flowering plants. Botanists now classify dicots into the eudicots (\"true dicots\") and several basal lineages from which the monocots emerged.\n\nThe monocots are extremely important economically, culturally, and ecologically, and make up a majority of plant biomass used in agriculture. Common crops such as dates, onions, garlic, rice, wheat, maize, and sugarcane are all monocots. The grasses alone cover over 40% of Earth's land area[e] and contribute a significant portion of the human diet. Other monocots, like orchids, tulips, daffodils, and lilies are common houseplants and have been the subjects of several celebrations, holidays, and artworks for thousands of years.",
+    "link": "https://en.wikipedia.org/wiki/Monocotyledon",
     "scenario": "general.botanicExample"
   }
 }

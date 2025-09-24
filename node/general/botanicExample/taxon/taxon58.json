@@ -4,6 +4,8 @@
   "data": {
     "name": "Proteales",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Proteales",
+    "description": "Proteales is an order of flowering plants consisting of three (or four) families. The Proteales have been recognized by almost all taxonomists.\n\nThe representatives of the Proteales can be very different from each other due to their very early divergence. They possess seeds with little or no endosperm. The ovules are often atropic.\n\nThe oldest fossils of Proteales are of the nelumbonaceous genus Notocyamus from the Barremian stage of the Early Cretaceous of Brazil, 126–121 Ma (million years ago). According to molecular clock calculations, the lineage that led to Proteales split from other plants about 128 Ma or 125 Ma.",
+    "link": "https://en.wikipedia.org/wiki/Proteales",
     "scenario": "general.botanicExample"
   }
 }

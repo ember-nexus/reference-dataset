@@ -6,6 +6,20 @@
     "scientificName": "C. japonica",
     "description": "Camellia japonica, known as common camellia,[2] or Japanese camellia, is a species of flowering plant from the genus Camellia in the tea family Theaceae. It is native to China and Japan,[3] and grows naturally in forests at altitudes of around 300\\u20131,100 metres (980\\u20133,600 ft).[4]\n\nThere are thousands of cultivars of C. japonica, with many colors and forms of flowers, mainly as garden ornamental plants. The floriculture of Camellia japonica started in China. Its widespread cultivation can be traced back to the Song Dynasty, when 15 varieties of Camellia japonica were recorded in literature. [5]",
     "link": "https://en.wikipedia.org/wiki/Camellia_japonica",
+    "images": [
+      {
+        "description": "Camellia japonica at the Norfolk Botanical Garden, Norfolk, Virginia. The blossom is not very big, only about 4 inches (10 cm) in maximum diameter. Focus stacked from 4 images.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Camellia_japonica_NBG.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Camellia_japonica_NBG.jpg/960px-Camellia_japonica_NBG.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Camellia_japonica_NBG.jpg"
+      },
+      {
+        "description": "Camellia　'Sekidotaroan'1.jpg",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Camellia_%27Sekidotaroan%271.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Camellia_%27Sekidotaroan%271.jpg/960px-Camellia_%27Sekidotaroan%271.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Camellia_%27Sekidotaroan%271.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

@@ -4,6 +4,8 @@
   "data": {
     "name": "Kniphofia",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Asphodelaceae/Asphodeloideae/Kniphofia",
+    "description": "Kniphofia (/nɪpˈhoʊfiə/, /nɪˈfoʊfiə/) is a genus of perennial flowering plants in the family Asphodelaceae, first described as a genus in 1794. All species of Kniphofia are native to Africa. Common names include tritoma, red hot poker, torch lily and poker plant.",
+    "link": "https://en.wikipedia.org/wiki/Kniphofia",
     "scenario": "general.botanicExample"
   }
 }

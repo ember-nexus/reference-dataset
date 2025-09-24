@@ -6,6 +6,14 @@
     "scientificName": "Anigozanthos",
     "description": "Anigozanthos is a genus of plant found naturally in the Southwestern Australia biogeographic region, belonging to the bloodwort family Haemodoraceae.[1][2] The 11 species and their subspecies are commonly known as kangaroo paw or catspaw, depending on their size, and the shape and colour of their flowers. A further species, previously identified as Anigozanthos fuliginosus (black kangaroo paw), was separated to a monotypic genus as Macropidia fuliginosa. All 11 species of Anigozanthos are endemic to the south west of Western Australia,[3] Noongar Boodjar.\n\nThe species are recognised by their unusual flowers, numerous hybrids and cultivars have been developed for cultivation and floristry in recent years; kangaroo paws are much in demand as house plants and as cut flowers. The red-and-green kangaroo paw is the floral emblem of Western Australia.",
     "link": "https://en.wikipedia.org/wiki/Anigozanthos",
+    "images": [
+      {
+        "description": "Bush Ochre (Anigozanthos), Australian Garden, Royal Botanic Gardens, Cranbourne, Victoria, Australia. 29 June, 2006.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bush-Pearl-in-RBG-Cranbourne.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bush-Pearl-in-RBG-Cranbourne.jpg/500px-Bush-Pearl-in-RBG-Cranbourne.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Bush-Pearl-in-RBG-Cranbourne.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

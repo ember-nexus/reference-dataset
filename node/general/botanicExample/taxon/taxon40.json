@@ -4,6 +4,8 @@
   "data": {
     "name": "Eustoma",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Gentianales/Gentianaceae/Eustoma",
+    "description": "Eustoma, commonly known as lisianthus or prairie gentian, is a small genus of plants in the gentian family. They are native to warm regions of the southern United States, Mexico, Caribbean and northern South America. This genus is typically found in grasslands and in areas of disturbed ground.",
+    "link": "https://en.wikipedia.org/wiki/Eustoma",
     "scenario": "general.botanicExample"
   }
 }

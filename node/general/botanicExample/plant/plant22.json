@@ -6,6 +6,20 @@
     "scientificName": "G. superba",
     "description": "Gloriosa superba is a species of flowering plant in the family Colchicaceae. Common names include flame lily, climbing lily, creeping lily, glory lily,[3] gloriosa lily, tiger claw,[4] and fire lily.[5]",
     "link": "https://en.wikipedia.org/wiki/Gloriosa_superba",
+    "images": [
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flame_lily.png",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flame_lily.png/500px-Flame_lily.png",
+        "link": "https://en.wikipedia.org/wiki/File:Flame_lily.png"
+      },
+      {
+        "description": "Gloriosa superba at Mabvuku, Harare, Zimbabwe",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Gloriosa_superba_1.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gloriosa_superba_1.jpg/960px-Gloriosa_superba_1.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Gloriosa_superba_1.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

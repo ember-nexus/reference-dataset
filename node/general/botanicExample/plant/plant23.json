@@ -6,6 +6,20 @@
     "scientificName": "S. reginae",
     "description": "Strelitzia reginae, commonly known as the crane flower, bird of paradise, or isigude in Nguni,[3] is a species of flowering plant native to the Cape Provinces and KwaZulu-Natal in South Africa. An evergreen perennial, it is widely cultivated for its dramatic flowers. In temperate areas it is a popular houseplant.",
     "link": "https://en.wikipedia.org/wiki/Strelitzia_reginae",
+    "images": [
+      {
+        "description": "Strelitzia reginae or Bird of Paradise",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bird_of_Paradise_flower.JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bird_of_Paradise_flower.JPG/960px-Bird_of_Paradise_flower.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:Bird_of_Paradise_flower.JPG"
+      },
+      {
+        "description": "Portugal, Madeira, Botanical garden in Funchal",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/6/68/2010-03-05_13_16_21_Portugal-Jardim_Bot%C3%A2nico_da_Madeira.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2010-03-05_13_16_21_Portugal-Jardim_Bot%C3%A2nico_da_Madeira.jpg/500px-2010-03-05_13_16_21_Portugal-Jardim_Bot%C3%A2nico_da_Madeira.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:2010-03-05_13_16_21_Portugal-Jardim_Bot%C3%A2nico_da_Madeira.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

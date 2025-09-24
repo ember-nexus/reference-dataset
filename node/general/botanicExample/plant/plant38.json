@@ -6,6 +6,20 @@
     "scientificName": "L. cardinalis",
     "description": "Lobelia cardinalis, the cardinal flower (syn. L. fulgens), is a species of flowering plant in the bellflower family Campanulaceae native to the Americas, from southeastern Canada south through the eastern and southwestern United States, Mexico and Central America to northern Colombia.[4]",
     "link": "https://en.wikipedia.org/wiki/Lobelia_cardinalis",
+    "images": [
+      {
+        "description": "Cardinal flower (Lobelia cardinalis) on bank of Ichetucknee River, in Ichetucknee Springs State Park, Columbia Co., Florida USA",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/d/d7/06-08-16_LobeliaCardinalisIR.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/06-08-16_LobeliaCardinalisIR.jpg/960px-06-08-16_LobeliaCardinalisIR.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:06-08-16_LobeliaCardinalisIR.jpg"
+      },
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lobelia_cardinalis_-_Cardinal_Flower.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lobelia_cardinalis_-_Cardinal_Flower.jpg/500px-Lobelia_cardinalis_-_Cardinal_Flower.jpg",
+        "link": "https://commons.wikimedia.org/wiki/File:Lobelia_cardinalis_-_Cardinal_Flower.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

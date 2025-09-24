@@ -4,6 +4,8 @@
   "data": {
     "name": "Guzmania",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Bromeliaceae/Guzmania",
+    "description": "Guzmania (tufted airplant) is a genus of over 120 species of flowering plants in the botanical family Bromeliaceae, subfamily Tillandsioideae. They are mainly stemless, evergreen, epiphytic perennials native to Brazil, southern Mexico, Central America, and northern and western South America. They are found at altitudes of up to 3,500 m (11,483 ft) in the Andean rainforests.\n\nThe genus is named after Spanish-Ecuadorian pharmacist and naturalist, Anastasio Guzmán [es].\n\nSeveral species of this genus are cultivated as indoor and outdoor garden plants. The best known is Guzmania lingulata (scarlet star) which bears orange and red bracts.\n\nThe plant dies after it has produced its flowers in summer, but new plants can easily be propagated from the offsets which appear as the parent plant dies. They are epiphytes and can do well if tied on to pieces of bark with roots bound into sphagnum moss.\n\nGuzmanias require warm temperatures and relatively high humidity. The ascomycete fungus Cochliobolus sativus and other pathogens can cause fatal root rot in plants of this genus if the roots get too wet and cold.",
+    "link": "https://en.wikipedia.org/wiki/Guzmania",
     "scenario": "general.botanicExample"
   }
 }

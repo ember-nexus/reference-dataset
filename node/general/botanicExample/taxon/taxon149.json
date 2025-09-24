@@ -4,6 +4,8 @@
   "data": {
     "name": "Lilioideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Liliaceae/Lilioideae",
+    "description": "The Lilioideae are a subfamily of monocotyledonous perennial, herbaceous mainly bulbous flowering plants in the lily family, Liliaceae. They are found predominantly in the temperate and colder regions of the Northern Hemisphere, particularly East Asia and North America. The subfamily includes two tribes. They are of economic importance, particularly the lilies and tulips.",
+    "link": "https://en.wikipedia.org/wiki/Lilioideae",
     "scenario": "general.botanicExample"
   }
 }

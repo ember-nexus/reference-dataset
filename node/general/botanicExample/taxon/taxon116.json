@@ -4,6 +4,8 @@
   "data": {
     "name": "Amaryllidoideae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Asparagales/Amaryllidaceae/Amaryllidoideae",
+    "description": "Amaryllidoideae (Amaryllidaceae s.s., amaryllids) is a subfamily of monocot flowering plants in the family Amaryllidaceae, order Asparagales. The most recent APG classification, APG III, takes a broad view of the Amaryllidaceae, which then has three subfamilies, one of which is Amaryllidoideae (the old family Amaryllidaceae), and the others are Allioideae (the old family Alliaceae) and Agapanthoideae (the old family Agapanthaceae). The subfamily consists of about seventy genera, with over eight hundred species, and a worldwide distribution.",
+    "link": "https://en.wikipedia.org/wiki/Amaryllidoideae",
     "scenario": "general.botanicExample"
   }
 }

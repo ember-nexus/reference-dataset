@@ -6,6 +6,14 @@
     "scientificName": "P. rhoeas",
     "description": "Papaver rhoeas, with common names including common poppy,[3] corn poppy, corn rose, field poppy,[4] Flanders poppy, red poppy, and Odai, is an annual herbaceous species of flowering plant in the poppy family Papaveraceae. It is native to north Africa and temperate Eurasia and is introduced into temperate areas on all other continents except Antarctica.",
     "link": "https://en.wikipedia.org/wiki/Papaver_rhoeas",
+    "images": [
+      {
+        "description": "A poster showing three different stages of a Common Poppy flower (Papaver rhoeas): bud, flower and fruit (capsule).",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Poster_papaver_3a.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Poster_papaver_3a.jpg/960px-Poster_papaver_3a.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Poster_papaver_3a.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

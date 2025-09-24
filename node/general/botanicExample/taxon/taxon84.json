@@ -4,6 +4,8 @@
   "data": {
     "name": "Passiflora",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malpighiales/Passifloraceae/Passiflora",
+    "description": "Passiflora, known also as the passion flowers or passion vines, is a genus of about 550 species of flowering plants, the type genus of the family Passifloraceae.\n\nPassiflora species are widely cultivated for their striking flowers, flavorful fruits, traditional medicinal uses, and roles in dietary supplements and ayahuasca analogs, with several ornamental hybrids earning Royal Horticultural Society awards.",
+    "link": "https://en.wikipedia.org/wiki/Passiflora",
     "scenario": "general.botanicExample"
   }
 }

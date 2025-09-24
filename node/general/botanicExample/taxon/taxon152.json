@@ -4,6 +4,8 @@
   "data": {
     "name": "Melanthiaceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Melanthiaceae",
+    "description": "Melanthiaceae, also called the bunchflower family, is a family of flowering herbaceous perennial plants native to the Northern Hemisphere. Along with many other lilioid monocots, early authors considered members of this family to belong to the family Liliaceae, in part because both their sepals and petals closely resemble each other and are often large and showy like those of lilies, while some more recent taxonomists have placed them in a family Trilliaceae. The most authoritative modern treatment, however, the APG III system of 2009 (unchanged from the 2003 APG II system and the 1998 APG system), places the family in the order Liliales, in the clade monocots. Circumscribed in this way, the family includes up to 17 genera.\n\nFamiliar members of the family include the genera Paris and Trillium.",
+    "link": "https://en.wikipedia.org/wiki/Melanthiaceae",
     "scenario": "general.botanicExample"
   }
 }

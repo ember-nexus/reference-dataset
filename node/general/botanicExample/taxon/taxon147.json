@@ -4,6 +4,8 @@
   "data": {
     "name": "Gloriosa",
     "path": "/Plantae/Tracheophytes/Angiosperms/Monocots/Liliales/Colchicaceae/Gloriosa",
+    "description": "Gloriosa is a genus of 12 species in the plant family Colchicaceae, and includes the formerly recognised genus Littonia. They are native in tropical and southern Africa to Asia, and naturalised in Australia and the Pacific as well as being widely cultivated. The most common English names are flame lily, fire lily, gloriosa lily, glory lily, superb lily, climbing lily, and creeping lily.\nThe leaf tips are modified to form tendrils\n\nThey are tender, tuberous rooted deciduous perennials, adapted to monsoon rainfall with a dormant dry season. All parts of the plant contain colchicine and related alkaloids and are therefore dangerously toxic if ingested, and contact with the stems and leaves can cause skin irritation. Various preparations of the plant are used in traditional medicines for a variety of complaints in both Africa and India. Plants have leaf tip tendrils.",
+    "link": "https://en.wikipedia.org/wiki/Gloriosa_(plant)",
     "scenario": "general.botanicExample"
   }
 }

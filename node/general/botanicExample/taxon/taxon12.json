@@ -4,6 +4,8 @@
   "data": {
     "name": "Centaurea",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Asterales/Asteraceae/Centaurea",
+    "description": "Centaurea (/ˌsɛntɔːˈriːə/) is a genus of over 700 species of herbaceous thistle-like flowering plants in the family Asteraceae. Members of the genus are found only north of the equator, mostly in the Eastern Hemisphere; the Middle East and surrounding regions are particularly species-rich.",
+    "link": "https://en.wikipedia.org/wiki/Centaurea",
     "scenario": "general.botanicExample"
   }
 }

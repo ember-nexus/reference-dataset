@@ -4,6 +4,8 @@
   "data": {
     "name": "Hibiscus",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Malvoideae/Hibisceae/Hibiscus",
+    "description": "Hibiscus is a genus of flowering plants in the mallow family, Malvaceae. The genus is quite large, comprising several hundred species that are native to warm temperate, subtropical and tropical regions throughout the world. Member species are renowned for their large, showy flowers and those species are commonly known simply as \"hibiscus\", or less widely known as rose mallow. The genus includes both annual and perennial herbaceous plants, as well as woody shrubs and small trees.\n\nSeveral species are widely cultivated as ornamental plants, notably Hibiscus syriacus and Hibiscus × rosa-sinensis.",
+    "link": "https://en.wikipedia.org/wiki/Hibiscus",
     "scenario": "general.botanicExample"
   }
 }

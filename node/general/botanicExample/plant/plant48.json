@@ -6,6 +6,20 @@
     "scientificName": "B. suaveolens",
     "description": "Brugmansia suaveolens, Brazil's white angel trumpet, also known as angel's tears and snowy angel's trumpet,[1] is a species of flowering plant in the nightshade family Solanaceae, native to south eastern Brazil, but thought to be extinct in the wild. Like several other species of Brugmansia, it exists as an introduced species in areas outside its native range. It is a tender shrub or small tree with large semi-evergreen leaves and fragrant yellow or white trumpet-shaped flowers.",
     "link": "https://en.wikipedia.org/wiki/Brugmansia_suaveolens",
+    "images": [
+      {
+        "description": "An example of Brugmansia suaveolens in the Palm house in the gardens of Torre Abbey which is located in the town of Torquay in the county of Devon, England. The Cary family installed a palm house when the abbey was a private house. Torquay council had the present aluminium structure built in 1969. It has been restored, and restocked with help from Kew Gardens.",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/e/e9/-2019-04-23_The_Palm_House%2C_Torre_Abbey%2C_Torquay%2C_Devon_%287%29.JPG",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/-2019-04-23_The_Palm_House%2C_Torre_Abbey%2C_Torquay%2C_Devon_%287%29.JPG/960px--2019-04-23_The_Palm_House%2C_Torre_Abbey%2C_Torquay%2C_Devon_%287%29.JPG",
+        "link": "https://en.wikipedia.org/wiki/File:-2019-04-23_The_Palm_House,_Torre_Abbey,_Torquay,_Devon_(7).JPG"
+      },
+      {
+        "description": "Brugmansia suaveolens",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/1/18/Brugmansia_29.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brugmansia_29.jpg/500px-Brugmansia_29.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Brugmansia_29.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

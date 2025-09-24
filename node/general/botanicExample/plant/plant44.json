@@ -6,6 +6,14 @@
     "scientificName": "G. lingulata",
     "description": "Guzmania lingulata, the droophead tufted airplant or scarlet star, is a species of flowering plant in the family Bromeliaceae, subfamily Tillandsioideae. This evergreen epiphytic perennial[2] is native to rainforest habitats in Central America, northern and central South America and southern Mexico.[1] The Latin word lingulata means \"tongue-shaped\".[3] The foliage grows in a star-shaped basal rosette culminating in an orange and red bracted inflorescence. It is among the most commonly cultivated bromeliad types, with cultivars producing flowers in shades of maroon, red, orange, yellow or pink.",
     "link": "https://en.wikipedia.org/wiki/Guzmania_lingulata",
+    "images": [
+      {
+        "description": "",
+        "imageLinkFull": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bromeliaceae03.jpg",
+        "imageLinkThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bromeliaceae03.jpg/500px-Bromeliaceae03.jpg",
+        "link": "https://en.wikipedia.org/wiki/File:Bromeliaceae03.jpg"
+      }
+    ],
     "scenario": "general.botanicExample"
   }
 }

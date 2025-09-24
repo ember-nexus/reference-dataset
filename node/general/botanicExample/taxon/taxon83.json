@@ -4,6 +4,8 @@
   "data": {
     "name": "Passifloraceae",
     "path": "/Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malpighiales/Passifloraceae",
+    "description": "The Passifloraceae are a family of flowering plants, containing about 750 species classified in around 27 genera.\n\nThey include trees, shrubs, lianas, and climbing plants, and are mostly found in tropical regions. The family takes its name from the passion flower genus (Passiflora) which includes the edible passion fruit (Passiflora edulis), as well as garden plants such as maypop and running pop.\n\nPassiflora vines and Dryas iulia (among other heliconian butterflies) have demonstrated evidence of coevolution, in which the plants attempted to stop their destruction from larval feeding by the butterflies, while the butterflies tried to gain better survival for their eggs.\n\nThe former Cronquist system of classification placed this family in the order Violales, but under more modern classifications systems such as that proposed by the Angiosperm Phylogeny Group, this is absorbed into the Malpighiales and the family has been expanded to include the former Malesherbiaceae and Turneraceae.",
+    "link": "https://en.wikipedia.org/wiki/Passifloraceae",
     "scenario": "general.botanicExample"
   }
 }
