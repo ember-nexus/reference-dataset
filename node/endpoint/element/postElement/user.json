@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "f994b541-23d6-4065-b992-14548f3e3345",
+  "data": {
+    "name": "User",
+    "email": "user@postElement.endpoint.localhost.dev",
+    "scenario": "endpoint.element.postElement"
+  }
+}
