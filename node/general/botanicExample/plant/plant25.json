@@ -4,7 +4,7 @@
   "data": {
     "name": "Bougainvillea",
     "scientificName": "B. glabra",
-    "description": "Bougainvillea glabra, the lesser bougainvillea or paperflower,[3] is the most common species of bougainvillea used for bonsai.[4] The epithet 'glabra' comes from Latin and means \"bald\".[5]",
+    "description": "Bougainvillea glabra, the lesser bougainvillea or paperflower, is the most common species of bougainvillea used for bonsai. The epithet 'glabra' comes from Latin and means \"bald\".",
     "link": "https://en.wikipedia.org/wiki/Bougainvillea_glabra",
     "images": [
       {
@@ -27,5 +27,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 143719,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

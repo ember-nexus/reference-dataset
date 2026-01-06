@@ -4,7 +4,7 @@
   "data": {
     "name": "Bougainvillea",
     "scientificName": "B. spectabilis",
-    "description": "Bougainvillea spectabilis, also known as great bougainvillea,[1] is a species of flowering plant. It is native to Brazil, Bolivia, Peru, and Argentina's Chubut Province.[2][3] It is widely grown as an ornamental plant.[3]",
+    "description": "Bougainvillea spectabilis, also known as great bougainvillea, is a species of flowering plant. It is native to Brazil, Bolivia, Peru, and Argentina's Chubut Province. It is widely grown as an ornamental plant.",
     "link": "https://en.wikipedia.org/wiki/Bougainvillea_spectabilis",
     "images": [
       {
@@ -21,5 +21,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 78367,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

@@ -4,7 +4,7 @@
   "data": {
     "name": "Daffodil",
     "scientificName": "N. pseudonarcissus",
-    "description": "Narcissus pseudonarcissus, commonly named the wild daffodil or Lent lily (Welsh: Cennin Pedr), is a perennial flowering plant.[1][2][3][4][5][6]\n\nThis species has pale yellow tepals, with a darker central trumpet. The long, narrow leaves are slightly greyish green in colour and rise from the base of the stem. The plant grows from a bulb. The flowers produce seeds which, when germinated, take five to seven years to produce a flowering plant. (Sexual seed reproduction mixes the traits of both parent flowers, so if garden hybrid cultivars are planted close to wild populations of Narcissus pseudonarcissus, there is a danger that the new seedlings, having hybrid vigour, could out-compete the wild plants.)[7]",
+    "description": "Narcissus pseudonarcissus, commonly named the wild daffodil or Lent lily (Welsh: Cennin Pedr), is a perennial flowering plant.\n\nThis species has pale yellow tepals, with a darker central trumpet. The long, narrow leaves are slightly greyish green in colour and rise from the base of the stem. The plant grows from a bulb. The flowers produce seeds which, when germinated, take five to seven years to produce a flowering plant. (Sexual seed reproduction mixes the traits of both parent flowers, so if garden hybrid cultivars are planted close to wild populations of Narcissus pseudonarcissus, there is a danger that the new seedlings, having hybrid vigour, could out-compete the wild plants.)",
     "link": "https://en.wikipedia.org/wiki/Narcissus_pseudonarcissus",
     "images": [
       {
@@ -15,5 +15,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 62307,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

@@ -4,7 +4,7 @@
   "data": {
     "name": "Coneflower",
     "scientificName": "E. purpurea",
-    "description": "Echinacea purpurea, the eastern purple coneflower,[4] purple coneflower, hedgehog coneflower, or Echinacea, is a North American species of flowering plant in the family Asteraceae.[5] It is native to parts of eastern North America and present to some extent in the wild in much of the eastern, southeastern and midwestern United States, as well as in the Canadian Province of Ontario. It is most common in the Ozarks, the Mississippi Valley, and the Ohio Valley. Its habitats include dry open woods, prairies, and barrens.",
+    "description": "Echinacea purpurea, the eastern purple coneflower, purple coneflower, hedgehog coneflower, or Echinacea, is a North American species of flowering plant in the family Asteraceae. It is native to parts of eastern North America and present to some extent in the wild in much of the eastern, southeastern and midwestern United States, as well as in the Canadian Province of Ontario. It is most common in the Ozarks, the Mississippi Valley, and the Ohio Valley. Its habitats include dry open woods, prairies, and barrens.",
     "link": "https://en.wikipedia.org/wiki/Echinacea_purpurea",
     "images": [
       {
@@ -15,5 +15,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 81722,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }
