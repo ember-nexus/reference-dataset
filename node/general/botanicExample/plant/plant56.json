@@ -4,7 +4,7 @@
   "data": {
     "name": "Sturt\\u2019s Desert Pea",
     "scientificName": "S. formosa",
-    "description": "Swainsona formosa, commonly known as Sturt's desert pea or Sturt pea,[3] is a species of flowering plant in the family Fabaceae and is native to all continental states and the Northern Territory of Australia, with the exception of Victoria. It is a prostrate annual or short lived perennial herb with imparipinnate leaves with about 15 elliptic to egg-shaped leaflets with the narrower end towards the base, and racemes of usually red flowers in racemes of 2 to 6.",
+    "description": "Swainsona formosa, commonly known as Sturt's desert pea or Sturt pea, is a species of flowering plant in the family Fabaceae and is native to all continental states and the Northern Territory of Australia, with the exception of Victoria. It is a prostrate annual or short lived perennial herb with imparipinnate leaves with about 15 elliptic to egg-shaped leaflets with the narrower end towards the base, and racemes of usually red flowers in racemes of 2 to 6.",
     "link": "https://en.wikipedia.org/wiki/Swainsona_formosa",
     "images": [
       {
@@ -21,5 +21,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 98146,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

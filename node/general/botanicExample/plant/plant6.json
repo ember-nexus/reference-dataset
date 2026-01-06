@@ -4,7 +4,7 @@
   "data": {
     "name": "Poppy",
     "scientificName": "P. rhoeas",
-    "description": "Papaver rhoeas, with common names including common poppy,[3] corn poppy, corn rose, field poppy,[4] Flanders poppy, red poppy, and Odai, is an annual herbaceous species of flowering plant in the poppy family Papaveraceae. It is native to north Africa and temperate Eurasia and is introduced into temperate areas on all other continents except Antarctica.",
+    "description": "Papaver rhoeas, with common names including common poppy, corn poppy, corn rose, field poppy, Flanders poppy, red poppy, and Odai, is an annual herbaceous species of flowering plant in the poppy family Papaveraceae. It is native to north Africa and temperate Eurasia and is introduced into temperate areas on all other continents except Antarctica.",
     "link": "https://en.wikipedia.org/wiki/Papaver_rhoeas",
     "images": [
       {
@@ -15,5 +15,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 125585,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

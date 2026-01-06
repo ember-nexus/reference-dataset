@@ -4,7 +4,7 @@
   "data": {
     "name": "Desert Rose",
     "scientificName": "A. obesum",
-    "description": "Adenium obesum, more commonly known as a desert rose, is a poisonous species of flowering plant belonging to the tribe Nerieae of the subfamily Apocynoideae of the dogbane family, Apocynaceae.[3] It is native to the Sahel regions south of the Sahara (from Mauritania and Senegal to Sudan), tropical and subtropical eastern and southern Africa, as well as the Arabian Peninsula. Other names for the flower include Sabi star, kudu, mock azalea, and impala lily. Adenium obesum is a popular houseplant and bonsai in temperate regions.",
+    "description": "Adenium obesum, more commonly known as a desert rose, is a poisonous species of flowering plant belonging to the tribe Nerieae of the subfamily Apocynoideae of the dogbane family, Apocynaceae. It is native to the Sahel regions south of the Sahara (from Mauritania and Senegal to Sudan), tropical and subtropical eastern and southern Africa, as well as the Arabian Peninsula. Other names for the flower include Sabi star, kudu, mock azalea, and impala lily. Adenium obesum is a popular houseplant and bonsai in temperate regions.",
     "link": "https://en.wikipedia.org/wiki/Adenium_obesum",
     "images": [
       {
@@ -21,5 +21,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 58116,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

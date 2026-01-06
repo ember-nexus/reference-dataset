@@ -15,5 +15,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 107423,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

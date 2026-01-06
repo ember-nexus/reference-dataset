@@ -4,7 +4,7 @@
   "data": {
     "name": "Acacia",
     "scientificName": "A. dealbata",
-    "description": "Acacia dealbata, commonly known as silver wattle, blue wattle or mimosa,[2] is a species of flowering plant in the legume family, Fabaceae and is endemic to south-eastern mainland Australia. It is a bushy shrub or spreading tree with smooth bark, bluish grey or silvery and glaucous bipinnate leaves, spherical heads of yellow to bright yellow flowers, and straight to slightly curved pods. The Wiradjuri people of New South Wales use the name giigandul for the species.[3]",
+    "description": "Acacia dealbata, commonly known as silver wattle, blue wattle or mimosa, is a species of flowering plant in the legume family, Fabaceae and is endemic to south-eastern mainland Australia. It is a bushy shrub or spreading tree with smooth bark, bluish grey or silvery and glaucous bipinnate leaves, spherical heads of yellow to bright yellow flowers, and straight to slightly curved pods. The Wiradjuri people of New South Wales use the name giigandul for the species.",
     "link": "https://en.wikipedia.org/wiki/Acacia_dealbata",
     "images": [
       {
@@ -15,5 +15,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 133952,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

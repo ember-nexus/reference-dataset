@@ -4,7 +4,7 @@
   "data": {
     "name": "Prairie Gentian",
     "scientificName": "E. russellianum",
-    "description": "Eustoma russellianum is a species of flowering plant in the gentian family. One of its previous binomial names was Eustoma grandiflorum.[1] Common names include showy prairie gentian, prairie gentian, Texas bluebells, Texas bluebell, bluebell,[2] and Lisianthus.\n\nThere is a cultivar, 'Bolero Deep Blue'.[3]",
+    "description": "Eustoma russellianum is a species of flowering plant in the gentian family. One of its previous binomial names was Eustoma grandiflorum. Common names include showy prairie gentian, prairie gentian, Texas bluebells, Texas bluebell, bluebell, and Lisianthus.\n\nThere is a cultivar, 'Bolero Deep Blue'.",
     "link": "https://en.wikipedia.org/wiki/Eustoma_russellianum",
     "images": [
       {
@@ -15,5 +15,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 104134,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }

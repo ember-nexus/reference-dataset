@@ -4,7 +4,7 @@
   "data": {
     "name": "African Violet",
     "scientificName": "S. sect. Saintpaulia",
-    "description": "Streptocarpus sect. Saintpaulia is a section within Streptocarpus subgenus Streptocarpella[1] consisting of about ten species of herbaceous perennial flowering plants in the family Gesneriaceae, native to Tanzania and adjacent southeastern Kenya in eastern tropical Africa. The section was previously treated as a separate genus, Saintpaulia, but molecular phylogenetic studies showed that it was nested within the genus Streptocarpus.\n\nSpecies and cultivars are commonly called African violets (although they are not closely related to true violets) or saintpaulias. They are commonly sold as house plants.",
+    "description": "Streptocarpus sect. Saintpaulia is a section within Streptocarpus subgenus Streptocarpella consisting of about ten species of herbaceous perennial flowering plants in the family Gesneriaceae, native to Tanzania and adjacent southeastern Kenya in eastern tropical Africa. The section was previously treated as a separate genus, Saintpaulia, but molecular phylogenetic studies showed that it was nested within the genus Streptocarpus.\n\nSpecies and cultivars are commonly called African violets (although they are not closely related to true violets) or saintpaulias. They are commonly sold as house plants.",
     "link": "https://en.wikipedia.org/wiki/Streptocarpus_sect._Saintpaulia",
     "images": [
       {
@@ -21,5 +21,10 @@
       }
     ],
     "scenario": "general.botanicExample"
+  },
+  "file": {
+    "size": 128977,
+    "extension": "jpg",
+    "mimetype": "image/jpeg"
   }
 }
