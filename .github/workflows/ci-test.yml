@@ -5,13 +5,21 @@ on:
 
 jobs:
 
-  json-lint:
+  json-lint-nodes:
     runs-on: ubuntu-latest
-    name: 'JSON lint'
+    name: 'JSON lint nodes'
     steps:
       - uses: actions/checkout@v3
       - run: docker pull cytopia/jsonlint
-      - run: docker run --rm -t -v $(pwd):/data cytopia/jsonlint -t '  ' '*.json'
+      - run: docker run --rm -t -v $(pwd):/data cytopia/jsonlint -t '  ' 'node/*.json'
+
+  json-lint-relations:
+    runs-on: ubuntu-latest
+    name: 'JSON lint relations'
+    steps:
+      - uses: actions/checkout@v3
+      - run: docker pull cytopia/jsonlint
+      - run: docker run --rm -t -v $(pwd):/data cytopia/jsonlint -t '  ' 'relation/*.json'
 
   markdown-lint:
     runs-on: ubuntu-latest
