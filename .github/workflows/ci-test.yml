@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: docker pull cytopia/jsonlint
-      - run: docker run --rm -t -v $(pwd):/data cytopia/jsonlint -t '  ' 'node/*.json'
+      - run: docker run --rm -t -v $(pwd)/node:/data cytopia/jsonlint -t '  ' '*.json'
 
   json-lint-relations:
     runs-on: ubuntu-latest
@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: docker pull cytopia/jsonlint
-      - run: docker run --rm -t -v $(pwd):/data cytopia/jsonlint -t '  ' 'relation/*.json'
+      - run: docker run --rm -t -v $(pwd)/relation:/data cytopia/jsonlint -t '  ' '*.json'
 
   markdown-lint:
     runs-on: ubuntu-latest
