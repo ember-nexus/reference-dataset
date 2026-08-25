@@ -1,0 +1,12 @@
+{
+  "type": "User",
+  "id": "59e2ab4e-2e0d-4136-aa1b-fbf01af4d997",
+  "data": {
+    "name": "File Permission User B",
+    "email": "user-b@filePermission.security.localhost.dev",
+    "scenario": "security.filePermission",
+    "_passwordHash": "$argon2i$v=19$m=65536,t=4,p=1$OGRleGJocUtjTTllb1NvZQ$KLxJ86zcPuhV3KyyxfVcyHQkP0FTyv3uoalB77okwhI",
+    "password": "1234",
+    "note": "User contains password only due to testing purposes."
+  }
+}

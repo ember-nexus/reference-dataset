@@ -1,0 +1,9 @@
+{
+  "type": "CREATED",
+  "id": "1f6927f7-d7a1-4b85-9683-bfcf06f7d074",
+  "start": "8b9079bf-9293-4c49-bac2-d5a78522e5a4",
+  "end": "592693f7-b1be-454e-b9f0-ed0416e7df48",
+  "data": {
+    "scenario": "security.filePermission"
+  }
+}
