@@ -4,5 +4,10 @@
   "data": {
     "name": "Data",
     "scenario": "general.anonymousUser"
+  },
+  "file": {
+    "contentLength": 63933,
+    "extension": "jpg",
+    "mimeType": "image/jpeg"
   }
 }

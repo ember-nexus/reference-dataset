@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "535bc04d-a5be-4f6e-a91c-6187957b039e",
+  "data": {
+    "token": "secret-token:3JMIdZMTqEF27mZHDO9AoA",
+    "hash": "2ccdb651e324690ffcdad903a7f5f2be2fbbe3309b44177542c0195fb35507da",
+    "scenario": "security.filePermission",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}

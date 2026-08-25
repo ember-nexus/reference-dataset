@@ -4,5 +4,10 @@
   "data": {
     "name": "Data 3",
     "scenario": "security.edgeCase.owningGroupsDoesNotGrantRecursiveRights"
+  },
+  "file": {
+    "contentLength": 63933,
+    "extension": "jpg",
+    "mimeType": "image/jpeg"
   }
 }
