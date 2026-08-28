@@ -19,6 +19,7 @@
   "file": {
     "size": 93472,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimetype": "image/jpeg",
+    "hash-sha3-256": "deb7898303ff8fe4a562fb54caccf790b7cc88389f4ff089e3c26c0438b938cd"
   }
 }
