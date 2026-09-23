@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Single_lavender_flower02.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 243881,
+    "contentLength": 243881,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "8800bbad57c750c2f08508e16ed4d86ee02b6f003a880deb24f445a21c16919d"
+    }
   }
 }

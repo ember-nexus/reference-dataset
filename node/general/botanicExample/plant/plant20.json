@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Tagetes_x_erecta1.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 93472,
+    "contentLength": 93472,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "0f89e8fa602a38f885a0fd3de7b4e5775203cfb58b113e2e5ebf564103646ba8"
+    }
   }
 }

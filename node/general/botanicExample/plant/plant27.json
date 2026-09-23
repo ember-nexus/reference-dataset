@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Pelargonium_%27Rocky_Mountain_Orange%272.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 118751,
+    "contentLength": 118751,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "cad1caafd5cece2fd680e86d755ee0c69c2900b1d6b9dd503a6a9136eb3c8e0b"
+    }
   }
 }

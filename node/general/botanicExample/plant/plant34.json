@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Fireweed_Epilobium_angustifolium_on_rock_sky.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 62442,
+    "contentLength": 62442,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "fec9eaf4c2b5382e9e53ec5fc404e7f69cc19cbde74f97e0a205631ee19d6f88"
+    }
   }
 }

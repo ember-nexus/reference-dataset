@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:B_integrifolia_integrifolia1.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 93264,
+    "contentLength": 93264,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "b2375db712bca6dc6acdc0498ffb894bb6cc2c52d434b62627f1d69e42ace3e6"
+    }
   }
 }

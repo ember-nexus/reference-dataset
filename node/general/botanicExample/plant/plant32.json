@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Echinacea_purpurea_Grandview_Prairie.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 81722,
+    "contentLength": 81722,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "d0ea5a0e98a389292786279ab8559421c42c884bb71d2a0826dbb0c67f981cb4"
+    }
   }
 }

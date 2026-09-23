@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Lilium_candidum_1.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 115168,
+    "contentLength": 115168,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "ee066b93ae72c719f863a428f03c86ecd28e52818528eacf4d4e32acb4b4b37c"
+    }
   }
 }

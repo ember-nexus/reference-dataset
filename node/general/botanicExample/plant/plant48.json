@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Brugmansia_29.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 129325,
+    "contentLength": 129325,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "4ecd505509eeed1627bab4a08b9e2a225a6ce9f1571e77c814c929160b792381"
+    }
   }
 }

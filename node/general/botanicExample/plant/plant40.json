@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Eustoma_grandiflorum_purple_02.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 104134,
+    "contentLength": 104134,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "9bbf4efc14d13cb8c268901d0d6395a8745664312a7961d673695072bdb709fb"
+    }
   }
 }

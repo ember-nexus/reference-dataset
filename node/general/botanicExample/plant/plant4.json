@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:SunflowerSunset2.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 72354,
+    "contentLength": 72354,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "1ea8ae92fa8fac7c3a0fac04e95448aa9b11c4e4d94a25413664262eab8ed7eb"
+    }
   }
 }

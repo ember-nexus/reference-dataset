@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:%E8%8F%8A%E8%8A%B1_20190929085348_03.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 73518,
+    "contentLength": 73518,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "988676c8f8dee88577fe5c4d11dc4585ab13f6b876ae6127b3a0e82e493875b4"
+    }
   }
 }

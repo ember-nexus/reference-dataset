@@ -3,11 +3,15 @@
   "id": "592693f7-b1be-454e-b9f0-ed0416e7df48",
   "data": {
     "name": "File Permission Data",
-    "scenario": "security.filePermission"
+    "scenario": "security.filePermission",
+    "hasFile": true
   },
   "file": {
     "contentLength": 63933,
     "extension": "jpg",
-    "mimeType": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "8b4b1fdff978613bb02109d5c23a0adc919c740deeed11ac851658587921d282"
+    }
   }
 }

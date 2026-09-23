@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:2010-03-05_13_16_21_Portugal-Jardim_Bot%C3%A2nico_da_Madeira.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 63663,
+    "contentLength": 63663,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "b2a4e02335603478ee1c5e9d551708e3d2f41cfc1e27059bf891409ca4e771df"
+    }
   }
 }

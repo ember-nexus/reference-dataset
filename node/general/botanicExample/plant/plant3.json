@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Bellis_perennis_001.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 208022,
+    "contentLength": 208022,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "d3ae9678857f45d6c59c89334c22b06bc5ba81a4a16296de0ffbd5150a53fb2e"
+    }
   }
 }

@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Lobster_claws_flower_at_peak_season_at_the_campus_of_Ramakrishna_Mission_Shikshanamandira.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 62576,
+    "contentLength": 62576,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "fff74c22c9de2e613876f0aaedfa9727b2f2f82be58027b43e2f565c144e363d"
+    }
   }
 }

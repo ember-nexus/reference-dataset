@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Borboletas_em_Mini-D%C3%A1lias.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 107423,
+    "contentLength": 107423,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "8c95bde4627dd59a3ba415e3c29fa3b2f7a63667bf98970b6a6bb4fdfe256f4c"
+    }
   }
 }

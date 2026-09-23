@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Aquilegia_canadensis_Redmarkviolinist.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 51355,
+    "contentLength": 51355,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "25772ade78beadc7fc55053016c88b17ede751fc001518b0a25428af523f8e64"
+    }
   }
 }

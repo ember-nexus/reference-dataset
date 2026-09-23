@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Acacia_pycnantha_Golden_Wattle.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 174312,
+    "contentLength": 174312,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "ecc25cd6bb81dc4df2c277114e01e3894801bddfcbb13134c403ee467db47102"
+    }
   }
 }

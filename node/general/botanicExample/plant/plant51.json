@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Acacia_dealbata-1.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 133952,
+    "contentLength": 133952,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "c33c0c115ef2182e02533fd8fc4868f58ffaaf5ba212e4dcf9ec7c71020f2aba"
+    }
   }
 }

@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Virginia_Bluebells_at_Rocky_River.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 82651,
+    "contentLength": 82651,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "527fa0ca5006ae3c888c06c3e208db64aa0214b31ce9f26a1ccd5fa7cdf91c3b"
+    }
   }
 }

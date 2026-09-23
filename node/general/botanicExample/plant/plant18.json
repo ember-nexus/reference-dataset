@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Yulan_1.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 50389,
+    "contentLength": 50389,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "c615404e051e1e2e6c1d107cb7c043fd0db9a71eb9671be35533e9aac5e72e82"
+    }
   }
 }

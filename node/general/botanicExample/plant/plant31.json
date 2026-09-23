@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Black_eyed_susan_dyke_road_(20013843578).jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 70672,
+    "contentLength": 70672,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "93b186670b1e12722c734d570a014e404bb95c08c74284ec0f7393003713b0c2"
+    }
   }
 }

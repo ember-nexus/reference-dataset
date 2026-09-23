@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Leontopodium_alpinum_070707.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 148118,
+    "contentLength": 148118,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "42969635749ade7f4e076500b7266afe7782b64120ae8b588d484ed8b89a2177"
+    }
   }
 }

@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Kniphofia_uvaria_close.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 123686,
+    "contentLength": 123686,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "a0f461e0383bc5b4518a43e1ac76060612c7e87bf420f9a6bbbe5231012108fe"
+    }
   }
 }

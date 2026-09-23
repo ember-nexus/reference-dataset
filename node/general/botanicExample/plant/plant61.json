@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Hibiscus_heterophyllus_Chatswood_West.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 91123,
+    "contentLength": 91123,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "9adcacd32ddda75b23007df4be9d74d85f1e768ae1a991891703e3d1bee64006"
+    }
   }
 }

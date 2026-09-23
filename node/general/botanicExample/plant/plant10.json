@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Bachelor%27s_button,_Basket_flower,_Boutonniere_flower,_Cornflower_-_3.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 88765,
+    "contentLength": 88765,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "c8ff4f7ef5afa6903c09b84e1824a1e296cfeae09f21a154536e562e9b7950c9"
+    }
   }
 }

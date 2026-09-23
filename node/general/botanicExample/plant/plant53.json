@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Bush-Pearl-in-RBG-Cranbourne.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 133185,
+    "contentLength": 133185,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "a5bc64f577b8715d3f8c33f17bf7a7d87dbd00001fb341de53dc52279147f04f"
+    }
   }
 }

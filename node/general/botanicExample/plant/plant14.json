@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Camellia_%27Sekidotaroan%271.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 110220,
+    "contentLength": 110220,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "d1e0a713efd11d2772c1c25f4f9d738d84ea74fdf06ecd8060f8fa67f84cee73"
+    }
   }
 }

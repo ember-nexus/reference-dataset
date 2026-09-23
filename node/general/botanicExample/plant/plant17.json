@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Kibitujinja5164.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 67882,
+    "contentLength": 67882,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "f328139475d08a33fca04cd266e8d4c83d0b9186eddd36bbdc941e0d82e2c32f"
+    }
   }
 }

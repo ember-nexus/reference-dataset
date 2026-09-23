@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:A.I.B.T_Sturt_Peas.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 98146,
+    "contentLength": 98146,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "23c083fd8583e0c241fa72f8dca1af7523b531625317fd209cdd0b3102d724a4"
+    }
   }
 }

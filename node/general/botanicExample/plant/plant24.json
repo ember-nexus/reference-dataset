@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Aloe_vera_flower_2.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 34329,
+    "contentLength": 34329,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "fa247797c564d72d4d3cc4f0ebdcd1928e6d4a646a90248b4340b637f02b127a"
+    }
   }
 }

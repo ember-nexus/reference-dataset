@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Anchusa_capensis_kz1.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 75801,
+    "contentLength": 75801,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "853580a14affe615f6fecbd2c16e8f6805ba53867669b3a220209a7b8d002cf1"
+    }
   }
 }
