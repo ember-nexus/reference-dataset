@@ -1,0 +1,2 @@
+File attached to a relation.
+Used by the security.filePermission scenario of the Ember Nexus reference dataset.

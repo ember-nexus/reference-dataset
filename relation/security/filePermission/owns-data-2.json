@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "78d20abe-4533-4f8b-b32f-5ee3e0499ca8",
+  "start": "8b9079bf-9293-4c49-bac2-d5a78522e5a4",
+  "end": "686a1c50-6313-46f7-9c5a-e73b0fc632cc",
+  "data": {
+    "scenario": "security.filePermission"
+  }
+}

@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: docker pull cytopia/jsonlint
-      - run: docker run --rm -t -v $(pwd):/data cytopia/jsonlint -t '  ' '*.json'
+      - run: ./lint-json.sh
 
   markdown-lint:
     runs-on: ubuntu-latest

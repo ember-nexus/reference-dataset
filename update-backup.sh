@@ -23,20 +23,33 @@ echo "Processing backup..."
 
 extract_ids "./node" "node_ids.txt"
 extract_ids "./relation" "relation_ids.txt"
-extract_ids "./file" "file_ids.txt"
+# files are named "<id>.<extension>" and are not JSON documents
+find "./file" -type f ! -name ".gitignore" -exec basename {} \; | sed 's/\..*$//' | sort > "file_ids.txt"
 
-cat node_ids.txt relation_ids.txt file_ids.txt > all_ids.txt
+# file ids are the ids of the elements they belong to, so they are excluded from the duplicate check
+cat node_ids.txt relation_ids.txt | grep -v '^$' | sort > all_ids.txt
 
-duplicates=$(uniq -cd all_ids.txt)
+duplicates=$(uniq -d all_ids.txt)
 
 if [[ -n "$duplicates" ]]; then
-    echo "Error: Duplicate entries found within nodes, relations and files."
+    echo "Error: Duplicate entries found within nodes and relations."
     echo "Duplicate IDs:"
     echo $duplicates
     exit 1
 fi
 
 echo "No duplicate ids found."
+
+orphaned_files=$(comm -23 file_ids.txt all_ids.txt)
+
+if [[ -n "$orphaned_files" ]]; then
+    echo "Error: Files found without a corresponding node or relation."
+    echo "Orphaned file IDs:"
+    echo $orphaned_files
+    exit 1
+fi
+
+echo "No orphaned files found."
 echo ""
 
 node_count=$(cat node_ids.txt | grep -v ^$ | wc -l)
