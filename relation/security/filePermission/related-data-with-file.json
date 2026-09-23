@@ -1,0 +1,19 @@
+{
+  "type": "RELATED",
+  "id": "5ed54a8f-b4d5-4e95-a7f3-d23c026c8afe",
+  "start": "592693f7-b1be-454e-b9f0-ed0416e7df48",
+  "end": "686a1c50-6313-46f7-9c5a-e73b0fc632cc",
+  "data": {
+    "name": "File Permission Relation With File",
+    "scenario": "security.filePermission",
+    "hasFile": true
+  },
+  "file": {
+    "contentLength": 112,
+    "extension": "txt",
+    "mimeType": "text/plain",
+    "hash": {
+      "sha256": "158e397d22044e49ce72c8bb95210ca688939c04edc48530a8592523fc8545a2"
+    }
+  }
+}

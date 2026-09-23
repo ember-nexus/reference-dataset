@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "686a1c50-6313-46f7-9c5a-e73b0fc632cc",
+  "data": {
+    "name": "File Permission Data 2",
+    "scenario": "security.filePermission"
+  }
+}
