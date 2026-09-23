@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Beniyutaka2.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 180349,
+    "contentLength": 180349,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "8e17673e73143eb4226dd1bad590e843b214189571e763648530dbeb563103ca"
+    }
   }
 }

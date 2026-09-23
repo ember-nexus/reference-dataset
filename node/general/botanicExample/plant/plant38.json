@@ -20,11 +20,15 @@
         "link": "https://commons.wikimedia.org/wiki/File:Lobelia_cardinalis_-_Cardinal_Flower.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 218292,
+    "contentLength": 218292,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "7530a73d11a05e9237a3ad1b8a923291754d27c563b21b962783ad2e73777f64"
+    }
   }
 }

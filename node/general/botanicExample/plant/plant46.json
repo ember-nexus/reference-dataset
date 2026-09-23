@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Cattleya_mossiae_(dew_in_Venezuela).JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 87264,
+    "contentLength": 87264,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "e32c991ad3b3ca3959b17ede6f794c55227cf5027fc142fae7fb865abe022aff"
+    }
   }
 }

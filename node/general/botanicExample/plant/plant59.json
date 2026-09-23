@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Flannel_Flowers.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 145230,
+    "contentLength": 145230,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "fadeda56c137fdbc98533d167146881876416c6a6fb93637b363f95b5de546c0"
+    }
   }
 }

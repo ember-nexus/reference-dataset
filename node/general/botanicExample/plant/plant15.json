@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Cymbidium_goeringii_%27Setsuzan%27.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 66852,
+    "contentLength": 66852,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "59ad3ba98041c09164b7a807947cc2a96a9499a2fbe0852bb1bc5234729f9d6d"
+    }
   }
 }

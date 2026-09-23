@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Passiflora_edulis_forma_flavicarpa.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 92402,
+    "contentLength": 92402,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "5eec47c2f3aa3814bdc41949214f684c7e5d8e806b491f863495bd53292e9777"
+    }
   }
 }

@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Poster_papaver_3a.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 125585,
+    "contentLength": 125585,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "0e468bf4e2b26f8e04914eb4dda88622c7c196b4a7a71e82bb857068a6e0b70a"
+    }
   }
 }

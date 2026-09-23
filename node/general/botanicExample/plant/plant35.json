@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Solidago_canadensis_flower.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 80287,
+    "contentLength": 80287,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "8f5963a311bed314f3fd4a3d5b180848526ae417d83a0fd34cdfea8583467f1b"
+    }
   }
 }

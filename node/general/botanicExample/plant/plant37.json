@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Juka_ogrodowa.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 188491,
+    "contentLength": 188491,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "e7a27e9da9fe356163d133ead4c2da666f7696742519f343f5dfdf18497066b9"
+    }
   }
 }

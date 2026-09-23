@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Tulipa_orphanidea_060506.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 105488,
+    "contentLength": 105488,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "c4c242897c43a74e9e4a8b5bf89e6b2cb1cbd99f8d621f33eea175cbf6dfab97"
+    }
   }
 }

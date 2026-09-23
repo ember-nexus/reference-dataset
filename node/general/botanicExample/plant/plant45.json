@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Canna_edulis,_Glasgow_Botanic_Gardens.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 52791,
+    "contentLength": 52791,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "288e401d9e562e806c04c85531db95fc19a2691ece06779b12079bdd069ecb24"
+    }
   }
 }

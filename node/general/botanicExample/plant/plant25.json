@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Bougainvillea_glabra_at_Kadavoor.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 143719,
+    "contentLength": 143719,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "9785a3a5433897b108539362523194fccc275fa84236bfd95da1f6a2d130d525"
+    }
   }
 }

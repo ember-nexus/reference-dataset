@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Jacaranda_mimosifolia_5334.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 174162,
+    "contentLength": 174162,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "dc87ed191952b8a4bfec69ff9af4103c93d52f81e43c343bc8be1a2ddb61aa20"
+    }
   }
 }

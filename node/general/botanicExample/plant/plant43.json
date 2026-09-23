@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Fuchsia_de_Magellan_.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 58967,
+    "contentLength": 58967,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "892309c9ad25310f4f272b2e77e09b5e9a2bf1d4b3bdcb7c9ea6021c972739ca"
+    }
   }
 }

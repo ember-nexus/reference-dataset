@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Bougainvill%C3%A9e_Generalife_Espagne.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 78367,
+    "contentLength": 78367,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "fc0ade1587239b19d16f7df0a40e6887aedda80316f10809b134cf96b49fbaf4"
+    }
   }
 }

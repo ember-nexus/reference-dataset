@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Grevillea_rosmarinifolia_glabella.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 84441,
+    "contentLength": 84441,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "488aa6a8d34a9927c057eacc28d8917f462af819f011bca44d533d4204b56d6b"
+    }
   }
 }

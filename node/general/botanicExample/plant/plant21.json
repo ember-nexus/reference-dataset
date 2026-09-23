@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:King_Protea_flower_towards_end_of_flowering.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 91585,
+    "contentLength": 91585,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "dff8d11a624a402e61ba208d8002f5ebab29ed7cf531f5dd83e41438444df9ff"
+    }
   }
 }

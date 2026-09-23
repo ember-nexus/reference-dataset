@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Hibiscus_rosa-sinensis_%27Rainbow_Sherbet%27_flower_in_private_Austrian_garden_on_2014-09-20.png"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 71309,
+    "contentLength": 71309,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "1b7c19dcbbfa8af029d91323b13e35e153d5bb799bf3f1d50e059354b98a3c61"
+    }
   }
 }

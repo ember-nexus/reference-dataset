@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Gloriosa_superba_1.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 90681,
+    "contentLength": 90681,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "72e3e3770db795b2f04f0b5bb0be43e74df70de4faa0bf83a706bbde29e4ea0b"
+    }
   }
 }

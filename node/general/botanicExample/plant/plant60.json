@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Corymbia_ficifolia_in_Berkeley_California.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 102098,
+    "contentLength": 102098,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "dbd69e49d315abad39a57c90fee358301f7217b4ef5597286d9b16ae09d4a3c2"
+    }
   }
 }

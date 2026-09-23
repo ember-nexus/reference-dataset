@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Rosa_Precious_platinum.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 138937,
+    "contentLength": 138937,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "7124bba0a86dcc10e1b5c78ef968b92e1fe681c16d0f2ec9f35b0e8448c1a4c0"
+    }
   }
 }

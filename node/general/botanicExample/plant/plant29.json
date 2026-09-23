@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:2007-04-20Saintpaulia_ionantha03.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 128977,
+    "contentLength": 128977,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "d3e05a199cc6bba407eb6f91604c5a1cc1945a82fdf07f42a3f24d3834902406"
+    }
   }
 }

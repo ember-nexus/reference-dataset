@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Red_bottle_brush.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 99523,
+    "contentLength": 99523,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "177b274d350a6985d1906b352e5c075fab9a414704849eb5ed98f9ce463b1769"
+    }
   }
 }

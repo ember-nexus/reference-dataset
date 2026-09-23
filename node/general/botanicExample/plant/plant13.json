@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Jasminum_sambac_%27Grand_Duke_of_Tuscany%27.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 27888,
+    "contentLength": 27888,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "96e35f27fa6c148d68ba326b80f3172f4de2e08ad35127bd8e3e4fb006fb5176"
+    }
   }
 }

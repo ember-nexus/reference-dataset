@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Bromeliaceae03.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 82201,
+    "contentLength": 82201,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "d13ab134d7d1b9933d4369c9aeeae07827fdfb3cd6f2ae6c4b549375412ef097"
+    }
   }
 }

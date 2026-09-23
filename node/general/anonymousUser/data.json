@@ -3,11 +3,15 @@
   "id": "9edb178e-1b4a-4518-a9d3-0fa97e6d1007",
   "data": {
     "name": "Data",
-    "scenario": "general.anonymousUser"
+    "scenario": "general.anonymousUser",
+    "hasFile": true
   },
   "file": {
     "contentLength": 63933,
     "extension": "jpg",
-    "mimeType": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "8b4b1fdff978613bb02109d5c23a0adc919c740deeed11ac851658587921d282"
+    }
   }
 }

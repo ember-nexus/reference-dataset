@@ -3,11 +3,15 @@
   "id": "56acb0c6-aaed-451f-b277-bceac61d7632",
   "data": {
     "name": "Data",
-    "scenario": "security.singleGroup.immediateNodeOwnership"
+    "scenario": "security.singleGroup.immediateNodeOwnership",
+    "hasFile": true
   },
   "file": {
     "contentLength": 63933,
     "extension": "jpg",
-    "mimeType": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "8b4b1fdff978613bb02109d5c23a0adc919c740deeed11ac851658587921d282"
+    }
   }
 }

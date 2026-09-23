@@ -14,11 +14,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Narcissus_pseudonarcissus_flower_300303.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 62307,
+    "contentLength": 62307,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "ecda5f79c0714acbe609146166abbf3872ba51f459debd5e20c8b61bb932ed37"
+    }
   }
 }

@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Nelumbo_nucifera1romainguy.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 63295,
+    "contentLength": 63295,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "a46657ef9ece1a7e0939ee5edcc4358f23a3b8b7871c6eba4ad2ce0f30cf4e9f"
+    }
   }
 }

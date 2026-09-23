@@ -20,11 +20,15 @@
         "link": "https://en.wikipedia.org/wiki/File:Telopea_speciosissima_RNP.JPG"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 72759,
+    "contentLength": 72759,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "0926def0aa909d3e889aa5ba0a01df37772ea79f87a67d0565f4d4c6ed1a60fe"
+    }
   }
 }

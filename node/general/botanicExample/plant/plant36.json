@@ -26,11 +26,15 @@
         "link": "https://en.wikipedia.org/wiki/File:White_Trillium_Trillium_grandiflorum_Flower_2613px.jpg"
       }
     ],
-    "scenario": "general.botanicExample"
+    "scenario": "general.botanicExample",
+    "hasFile": true
   },
   "file": {
-    "size": 52082,
+    "contentLength": 52082,
     "extension": "jpg",
-    "mimetype": "image/jpeg"
+    "mimeType": "image/jpeg",
+    "hash": {
+      "sha256": "a235debeb572b5ab0cd3a84dfcf869dd558042dead656097fa5d414f2fee2b31"
+    }
   }
 }
