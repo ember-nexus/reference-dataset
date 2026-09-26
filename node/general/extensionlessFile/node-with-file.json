@@ -1,0 +1,17 @@
+{
+  "type": "Data",
+  "id": "404db674-cc9a-4c76-9ecb-c804ce41f499",
+  "data": {
+    "name": "Makefile",
+    "scenario": "general.extensionlessFile",
+    "hasFile": true
+  },
+  "file": {
+    "contentLength": 31,
+    "extension": "",
+    "mimeType": "text/plain",
+    "hash": {
+      "sha256": "d07bd9ca4796b6bd189b0054a6c8c839ddcd6ab55e6c9f11f4202221130affc3"
+    }
+  }
+}

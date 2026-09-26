@@ -1,0 +1,19 @@
+{
+  "type": "RELATED",
+  "id": "8cc130fd-fa1b-482d-9bea-adb3e4a36d34",
+  "start": "404db674-cc9a-4c76-9ecb-c804ce41f499",
+  "end": "44c513f8-d997-4fe9-bfa9-46b605daafd8",
+  "data": {
+    "name": "Extension-less relation file",
+    "scenario": "general.extensionlessFile",
+    "hasFile": true
+  },
+  "file": {
+    "contentLength": 64,
+    "extension": "",
+    "mimeType": "text/plain",
+    "hash": {
+      "sha256": "a98bfca894d1ae5db17355cda74df2cfcf779dd648248d00573b2a116926c19b"
+    }
+  }
+}
