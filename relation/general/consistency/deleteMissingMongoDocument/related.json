@@ -1,0 +1,10 @@
+{
+  "type": "RELATED",
+  "id": "24fe920f-314d-4f08-ae76-e3d7bcca3aae",
+  "start": "f585343e-b19a-48d0-8385-442be6dadfa4",
+  "end": "13072229-06cf-4f41-aaa4-b97ba58d9924",
+  "data": {
+    "name": "Delete Relation Without MongoDB Document",
+    "scenario": "general.consistency.deleteMissingMongoDocument"
+  }
+}

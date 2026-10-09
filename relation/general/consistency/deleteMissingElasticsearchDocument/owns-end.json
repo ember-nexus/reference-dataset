@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "c24288b3-b6dd-4fb2-893f-ab5164bcdd7d",
+  "start": "7baba8b7-a6bb-4184-9a9a-925a4d2736b0",
+  "end": "0e9e36d4-cf81-417c-bd8b-3d5e237cd7e7",
+  "data": {
+    "scenario": "general.consistency.deleteMissingElasticsearchDocument"
+  }
+}

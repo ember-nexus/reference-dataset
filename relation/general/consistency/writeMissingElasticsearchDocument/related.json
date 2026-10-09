@@ -1,0 +1,10 @@
+{
+  "type": "RELATED",
+  "id": "05bd9faf-beb9-4e11-bed5-956d05f830ca",
+  "start": "73f0f34f-5581-47ba-8a8a-1c8b9ed7ae75",
+  "end": "817ade2a-44ec-4df3-8893-d77a9879f766",
+  "data": {
+    "name": "Write Relation Without Elasticsearch Document",
+    "scenario": "general.consistency.writeMissingElasticsearchDocument"
+  }
+}

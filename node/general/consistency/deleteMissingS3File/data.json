@@ -1,0 +1,17 @@
+{
+  "type": "Data",
+  "id": "fed71d17-0ea6-416f-a3d8-f053b1a41217",
+  "data": {
+    "name": "Delete Target Without S3 File",
+    "scenario": "general.consistency.deleteMissingS3File",
+    "hasFile": true
+  },
+  "file": {
+    "contentLength": 42,
+    "extension": "txt",
+    "mimeType": "text/plain",
+    "hash": {
+      "sha256": "0000000000000000000000000000000000000000000000000000000000dead"
+    }
+  }
+}

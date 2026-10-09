@@ -1,0 +1,19 @@
+{
+  "type": "RELATED",
+  "id": "80ba487c-8f57-4ebd-aae7-5ccb1aaf7572",
+  "start": "0904ca1c-0ee9-4a68-b1bf-a1001f57abc2",
+  "end": "0b490a67-5f5d-414a-898f-2e4dc1e3e0bb",
+  "data": {
+    "name": "Delete Relation Without S3 File",
+    "scenario": "general.consistency.deleteMissingS3File",
+    "hasFile": true
+  },
+  "file": {
+    "contentLength": 42,
+    "extension": "txt",
+    "mimeType": "text/plain",
+    "hash": {
+      "sha256": "0000000000000000000000000000000000000000000000000000000000beef"
+    }
+  }
+}

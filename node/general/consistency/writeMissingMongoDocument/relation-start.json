@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "214acb58-1bfb-43c8-8d38-ba0c882e1ac5",
+  "data": {
+    "name": "Write Relation Without MongoDB Document Start",
+    "scenario": "general.consistency.writeMissingMongoDocument"
+  }
+}

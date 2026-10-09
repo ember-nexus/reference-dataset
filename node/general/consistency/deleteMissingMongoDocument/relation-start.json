@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "f585343e-b19a-48d0-8385-442be6dadfa4",
+  "data": {
+    "name": "Delete Relation Without MongoDB Document Start",
+    "scenario": "general.consistency.deleteMissingMongoDocument"
+  }
+}

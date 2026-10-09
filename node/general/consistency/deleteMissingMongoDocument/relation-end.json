@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "13072229-06cf-4f41-aaa4-b97ba58d9924",
+  "data": {
+    "name": "Delete Relation Without MongoDB Document End",
+    "scenario": "general.consistency.deleteMissingMongoDocument"
+  }
+}

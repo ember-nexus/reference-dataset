@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "effd07e6-cd38-4933-b451-ff8ff4090663",
+  "data": {
+    "name": "Delete Target Without MongoDB Document",
+    "scenario": "general.consistency.deleteMissingMongoDocument"
+  }
+}

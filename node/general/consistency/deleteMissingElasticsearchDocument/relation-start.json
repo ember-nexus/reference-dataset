@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "e631ac3c-d25b-45e8-b109-d92b1715c2ae",
+  "data": {
+    "name": "Delete Relation Without Elasticsearch Document Start",
+    "scenario": "general.consistency.deleteMissingElasticsearchDocument"
+  }
+}

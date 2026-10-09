@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "13af9a84-b879-4ef7-9e6c-7e556f3730db",
+  "data": {
+    "name": "Write Target Without Elasticsearch Document",
+    "scenario": "general.consistency.writeMissingElasticsearchDocument"
+  }
+}
