@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "1709712e-29d2-4702-a80e-51da6b745895",
+  "start": "7baba8b7-a6bb-4184-9a9a-925a4d2736b0",
+  "end": "13af9a84-b879-4ef7-9e6c-7e556f3730db",
+  "data": {
+    "scenario": "general.consistency.writeMissingElasticsearchDocument"
+  }
+}

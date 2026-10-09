@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "9059792c-168c-4d53-81c3-18c6a589e42b",
+  "start": "7baba8b7-a6bb-4184-9a9a-925a4d2736b0",
+  "end": "f585343e-b19a-48d0-8385-442be6dadfa4",
+  "data": {
+    "scenario": "general.consistency.deleteMissingMongoDocument"
+  }
+}

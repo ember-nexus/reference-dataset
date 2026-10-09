@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "e90ad77e-d49b-404c-89c4-06089822dc63",
+  "start": "7baba8b7-a6bb-4184-9a9a-925a4d2736b0",
+  "end": "0b490a67-5f5d-414a-898f-2e4dc1e3e0bb",
+  "data": {
+    "scenario": "general.consistency.deleteMissingS3File"
+  }
+}

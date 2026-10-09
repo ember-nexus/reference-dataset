@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "1b1872c4-aeb6-4eb4-8a73-bad312a076d3",
+  "data": {
+    "name": "Write Target Without MongoDB Document",
+    "scenario": "general.consistency.writeMissingMongoDocument"
+  }
+}

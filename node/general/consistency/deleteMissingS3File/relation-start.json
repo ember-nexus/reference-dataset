@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "0904ca1c-0ee9-4a68-b1bf-a1001f57abc2",
+  "data": {
+    "name": "Delete Relation Without S3 File Start",
+    "scenario": "general.consistency.deleteMissingS3File"
+  }
+}

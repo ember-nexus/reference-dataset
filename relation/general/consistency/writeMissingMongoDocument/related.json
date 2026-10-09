@@ -1,0 +1,10 @@
+{
+  "type": "RELATED",
+  "id": "61c44476-2aa7-4d13-9456-3ca58142a91f",
+  "start": "214acb58-1bfb-43c8-8d38-ba0c882e1ac5",
+  "end": "8323d696-b573-46a8-9819-89bc8fdf6b5d",
+  "data": {
+    "name": "Write Relation Without MongoDB Document",
+    "scenario": "general.consistency.writeMissingMongoDocument"
+  }
+}
