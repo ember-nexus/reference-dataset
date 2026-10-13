@@ -1,0 +1,9 @@
+{
+  "type": "IS_IN_GROUP",
+  "id": "7b373c24-9254-4f93-85ec-429273594ea7",
+  "start": "ce610e55-424f-4a92-bf53-7ec9955fb9c6",
+  "end": "67f8978f-6205-4e95-a20c-e82fa3367f6a",
+  "data": {
+    "scenario": "security.singleGroup.writeAccessOnGroupItself"
+  }
+}

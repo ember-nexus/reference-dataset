@@ -1,0 +1,8 @@
+{
+  "type": "Group",
+  "id": "67f8978f-6205-4e95-a20c-e82fa3367f6a",
+  "data": {
+    "name": "Group",
+    "scenario": "security.singleGroup.writeAccessOnGroupItself"
+  }
+}
