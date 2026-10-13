@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "ce610e55-424f-4a92-bf53-7ec9955fb9c6",
+  "data": {
+    "name": "User",
+    "email": "user@write-access-on-group-itself.localhost.dev",
+    "scenario": "security.singleGroup.writeAccessOnGroupItself"
+  }
+}
