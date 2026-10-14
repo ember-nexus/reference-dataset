@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "1c13985f-7889-4811-9469-5c65655ea1f4",
+  "data": {
+    "token": "secret-token:77G6kkMk5hiQqRSZaJyrXK",
+    "hash": "46df3799f2052acfd66ed225a2aab7e4b467e2fc043e75838ace8ec819a6d93f",
+    "scenario": "security.singleGroup.writeAccessOnGroupItself",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}
