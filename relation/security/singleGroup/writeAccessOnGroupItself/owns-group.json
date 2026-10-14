@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "c75fd262-3aaf-44c8-8212-e570b9c66753",
+  "start": "28ae95b4-e78d-47c9-abad-c1f480adc958",
+  "end": "67f8978f-6205-4e95-a20c-e82fa3367f6a",
+  "data": {
+    "scenario": "security.singleGroup.writeAccessOnGroupItself"
+  }
+}

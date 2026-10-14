@@ -1,0 +1,9 @@
+{
+  "type": "HAS_UPDATE_ACCESS",
+  "id": "9445efa6-f00f-46ae-b066-1859c88c5b60",
+  "start": "9d84e8cb-dd22-40a5-9658-34873ea734d1",
+  "end": "67f8978f-6205-4e95-a20c-e82fa3367f6a",
+  "data": {
+    "scenario": "security.singleGroup.writeAccessOnGroupItself"
+  }
+}

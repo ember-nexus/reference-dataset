@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "9d84e8cb-dd22-40a5-9658-34873ea734d1",
+  "data": {
+    "name": "User with explicit update/delete access on group",
+    "email": "user-access@write-access-on-group-itself.localhost.dev",
+    "scenario": "security.singleGroup.writeAccessOnGroupItself"
+  }
+}

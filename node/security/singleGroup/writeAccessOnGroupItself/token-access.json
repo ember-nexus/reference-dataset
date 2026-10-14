@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "8cebbd43-da50-40c3-8a46-9992e437510f",
+  "data": {
+    "token": "secret-token:oRACZjdcNS5xpdEq7LmC3H",
+    "hash": "8f1129e7a18bfb4e1b576ee760a18866cfb0808cfc61a93d71ff14a996779a27",
+    "scenario": "security.singleGroup.writeAccessOnGroupItself",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}
