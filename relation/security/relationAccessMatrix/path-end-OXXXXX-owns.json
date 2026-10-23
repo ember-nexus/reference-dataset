@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "b4d6dac5-84cb-4048-970a-5e8d667ca36a",
+  "start": "8807babf-3c3d-4f5c-a539-5753a48ac7a1",
+  "end": "16feb737-802f-4dab-b88d-803538f18103",
+  "data": {
+    "scenario": "security.relationAccessMatrix"
+  }
+}

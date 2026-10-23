@@ -1,0 +1,9 @@
+{
+  "type": "HAS_DELETE_ACCESS",
+  "id": "0a6ce439-186a-4468-94b4-423d23302e44",
+  "start": "31f816fc-165f-4788-9116-50dd5a52159f",
+  "end": "70eaca29-b0f3-4bfa-b533-57151ea3a5a2",
+  "data": {
+    "scenario": "security.relationAccessMatrix"
+  }
+}

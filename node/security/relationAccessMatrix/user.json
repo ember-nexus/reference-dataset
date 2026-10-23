@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "31f816fc-165f-4788-9116-50dd5a52159f",
+  "data": {
+    "name": "User",
+    "email": "user@relation-access-matrix.localhost.dev",
+    "scenario": "security.relationAccessMatrix"
+  }
+}

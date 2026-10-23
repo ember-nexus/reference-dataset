@@ -1,0 +1,9 @@
+{
+  "type": "HAS_UPDATE_ACCESS",
+  "id": "38df0eb9-a1f2-472b-9254-cba71cc38ee2",
+  "start": "8807babf-3c3d-4f5c-a539-5753a48ac7a1",
+  "end": "f3f8a0be-dee2-4a43-9a22-01bc0b1cee19",
+  "data": {
+    "scenario": "security.relationAccessMatrix"
+  }
+}

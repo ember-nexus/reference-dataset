@@ -1,0 +1,9 @@
+{
+  "type": "HAS_SEARCH_ACCESS",
+  "id": "67e7a1c0-c0d2-4edb-95a1-83764529f18f",
+  "start": "8807babf-3c3d-4f5c-a539-5753a48ac7a1",
+  "end": "da735a77-cdcf-4517-bfc4-78f46422adc4",
+  "data": {
+    "scenario": "security.relationAccessMatrix"
+  }
+}
