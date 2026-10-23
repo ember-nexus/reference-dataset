@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "0a222f24-0b0b-49b8-8262-3d421c05d4fb",
+  "data": {
+    "name": "direct end node XCRUDS",
+    "scenario": "security.relationAccessMatrix"
+  }
+}

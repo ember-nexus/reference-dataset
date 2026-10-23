@@ -1,0 +1,8 @@
+{
+  "type": "Data",
+  "id": "b2eb6f57-532f-4c53-8337-630352234a41",
+  "data": {
+    "name": "direct start node OCRUDS",
+    "scenario": "security.relationAccessMatrix"
+  }
+}

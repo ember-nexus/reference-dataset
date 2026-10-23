@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- Security scenarios `security.relationAccessMatrix.*`: relation access with different combinations of `OWNS` and
+  `HAS_x_ACCESS` on the start and end node, directly, through a path and through groups, closes #79.
 
 ## 0.0.36 - 2026-10-14
 
