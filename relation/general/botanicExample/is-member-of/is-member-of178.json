@@ -1,8 +1,8 @@
 {
   "type": "IS_MEMBER_OF",
-  "id": "bfa0c0f6-36af-4ef5-bc65-2d2f0701f2b4",
-  "start": "f8179dfc-5578-44de-adc0-d6b613eb7a32",
-  "end": "63bcbffb-29a3-45b5-8cc1-8c41281bcae3",
+  "id": "02IiNr0GOoKiPMMcGxKG3PI8lggLA1UsVbaZA",
+  "start": "02IiNr0GOoKiPMN3kwX8zU4CDN8SlR7WlvzLO",
+  "end": "02IiNr0GOoKiPMLtVJ5x7LAjzI5YxHlc22CsB",
   "data": {
     "scenario": "general.botanicExample"
   }

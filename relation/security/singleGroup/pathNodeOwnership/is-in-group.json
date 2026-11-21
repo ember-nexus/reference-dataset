@@ -1,8 +1,8 @@
 {
   "type": "IS_IN_GROUP",
-  "id": "e42ef8dc-520b-4f39-a88f-756109f5ab3f",
-  "start": "031d79bb-1b28-4b10-b2d6-dde9f45a2b66",
-  "end": "84db789d-a8aa-4042-86f4-6e6aa0f59558",
+  "id": "02IiNr0GOoKiPMMu33LIVLiQN0qmcD97vofkr",
+  "start": "02IiNr0GOoKiPML8S3Hz86yWCFfeSIPkR6FMe",
+  "end": "02IiNr0GOoKiPMM9dORaIjoD4U6Tc8JoNxKhm",
   "data": {
     "scenario": "security.singleGroup.pathNodeOwnership"
   }

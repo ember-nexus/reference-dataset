@@ -1,8 +1,8 @@
 {
   "type": "RELATED",
-  "id": "8cc130fd-fa1b-482d-9bea-adb3e4a36d34",
-  "start": "404db674-cc9a-4c76-9ecb-c804ce41f499",
-  "end": "44c513f8-d997-4fe9-bfa9-46b605daafd8",
+  "id": "02IiNr0GOoKiPMMDUxltnzxUycfjfbdOheKXI",
+  "start": "02IiNr0GOoKiPMLcFOsyAbejVoE9EBqhFIPxp",
+  "end": "02IiNr0GOoKiPMLeRCO3pVqvKmfJlr8kXcQwM",
   "data": {
     "name": "Extension-less relation file",
     "scenario": "general.extensionlessFile",

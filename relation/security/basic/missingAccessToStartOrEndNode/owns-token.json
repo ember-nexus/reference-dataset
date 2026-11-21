@@ -1,8 +1,8 @@
 {
   "type": "OWNS",
-  "id": "e034b9d6-0f69-4e7b-ba95-3622fff8d435",
-  "start": "4c40eb7d-7150-4e0d-983e-c4d57d5192f0",
-  "end": "147878f5-9049-4c12-a4b3-20c27f152f06",
+  "id": "02IiNr0GOoKiPMMs868x53tMNUO6SLrSz01Da",
+  "start": "02IiNr0GOoKiPMLi5bZ9mBqIdFomyOYKb76ra",
+  "end": "02IiNr0GOoKiPMLGuarydtj7y5HJXkl9FENTk",
   "data": {
     "scenario": "security.basic.missingAccessToStartOrEndNode"
   }

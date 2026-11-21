@@ -1,8 +1,8 @@
 {
   "type": "HAS_READ_ACCESS",
-  "id": "917b9656-43ed-4473-a91e-e0d201cc47aa",
-  "start": "c1bacef0-bdfc-4b13-b2fa-062bea9c0372",
-  "end": "2cacaa15-8920-43d4-b885-f53a90035aef",
+  "id": "02IiNr0GOoKiPMMFmYwmFX3MtFv98MiIAEof7",
+  "start": "02IiNr0GOoKiPMMdHIfRllzz6tOlRA5tejr9t",
+  "end": "02IiNr0GOoKiPMLSgsoe0WqlPI4wW6bBNOCg2",
   "data": {
     "scenario": "security.limitedAccess.searchAccess"
   }

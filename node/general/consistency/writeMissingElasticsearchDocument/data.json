@@ -1,6 +1,6 @@
 {
   "type": "Data",
-  "id": "13af9a84-b879-4ef7-9e6c-7e556f3730db",
+  "id": "02IiNr0GOoKiPMLGW7EDMDXlAJjoxeJAaVp1T",
   "data": {
     "name": "Write Target Without Elasticsearch Document",
     "scenario": "general.consistency.writeMissingElasticsearchDocument"

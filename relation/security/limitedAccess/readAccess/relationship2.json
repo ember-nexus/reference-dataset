@@ -1,8 +1,8 @@
 {
   "type": "RELATION",
-  "id": "66ca9fe9-d293-48cf-829a-1ba8eee2ee4e",
-  "start": "c91e6684-cc98-407d-af01-e94bc9420b9a",
-  "end": "ea60d6ea-1c30-4b8c-86f4-97a15c1a4938",
+  "id": "02IiNr0GOoKiPMLuzkkQNav7sHAaCfIHyrCZ0",
+  "start": "02IiNr0GOoKiPMMgrzP5e5mMq4g2HjMDTb2hO",
+  "end": "02IiNr0GOoKiPMMx5e7I4dUDXIK16191lY5dk",
   "data": {
     "scenario": "security.limitedAccess.readAccess"
   }

@@ -1,8 +1,8 @@
 {
   "type": "RELATION",
-  "id": "2a47ff59-0979-4452-b766-16ce68e08a7e",
-  "start": "0400ece8-a5ec-4f2b-bf96-d110bc98e857",
-  "end": "3bc1669a-016a-4f10-8bfd-984d341af1bb",
+  "id": "02IiNr0GOoKiPMLRX8yULf0XkIHsWbmjuFH1T",
+  "start": "02IiNr0GOoKiPML8uGRFnz5tK87NG6AlR3xeU",
+  "end": "02IiNr0GOoKiPMLa3RoNHgYBdEql2XXPDLPFV",
   "data": {
     "scenario": "security.basic.missingAccessToStartOrEndNode"
   }

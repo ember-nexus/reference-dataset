@@ -1,8 +1,8 @@
 {
   "type": "IS_IN_GROUP",
-  "id": "9fb0655c-3540-47b7-a712-4a88c633d10f",
-  "start": "60d78f99-4ba5-4a05-8902-4145fdb88892",
-  "end": "ed2c5d71-8921-4229-9f37-1b8fe3c3d96e",
+  "id": "02IiNr0GOoKiPMMMii5DRkSru8dG2BBtfzZPl",
+  "start": "02IiNr0GOoKiPMLs6T4oJp59dO19NcdpNp0xW",
+  "end": "02IiNr0GOoKiPMMyQl2vICPqCylk8nAvr8ojU",
   "data": {
     "scenario": "security.limitedAccess.readAccess"
   }

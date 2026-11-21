@@ -1,6 +1,6 @@
 {
   "type": "Group",
-  "id": "c3c99512-f29d-46d0-8d3f-37e89d6a079c",
+  "id": "02IiNr0GOoKiPMMeHYr0dC5W63nJhUCwz5TD2",
   "data": {
     "name": "Group 3",
     "scenario": "security.edgeCase.owningGroupsDoesNotGrantRecursiveRights"

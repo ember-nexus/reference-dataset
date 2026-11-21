@@ -1,8 +1,8 @@
 {
   "type": "RELATION",
-  "id": "0c3898d0-e0f4-4ad1-a754-347ea0865ac5",
-  "start": "4960a52c-ac17-4664-8c4c-7006205a4976",
-  "end": "cecefaa6-cc24-45c1-bfee-d3fe527c7e8d",
+  "id": "02IiNr0GOoKiPMLCtVwIb3KaGJXzfy7sqPgsq",
+  "start": "02IiNr0GOoKiPMLggnnG26OP2ZyqhYN4D5B6d",
+  "end": "02IiNr0GOoKiPMMjdhyC6ctxBeWzw4u1zHPvO",
   "data": {
     "scenario": "endpoint.element.putElement.relation",
     "name": "some relation"
