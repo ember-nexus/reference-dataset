@@ -1,8 +1,8 @@
 {
   "type": "OWNS",
-  "id": "9dafba71-a608-4117-ac2e-b79382491059",
-  "start": "0949f2a2-2c99-4e60-a000-56848687f7c4",
-  "end": "a07e03e6-6314-4a8f-baf9-c159e744f3db",
+  "id": "02IiNr0GOoKiPMMLiYLLKrvqyAT506ez9s4GP",
+  "start": "02IiNr0GOoKiPMLBSpuvv6EVh52iJpYS8LEdU",
+  "end": "02IiNr0GOoKiPMMN5SDOhO7H6BRVDnr1l43UH",
   "data": {
     "scenario": "security.multipleGroups.pathNodeOwnership"
   }

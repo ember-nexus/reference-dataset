@@ -1,8 +1,8 @@
 {
   "type": "OWNS",
-  "id": "9fae27e1-6118-485a-95de-5a59720fd1f5",
-  "start": "c2228396-e894-46ac-bbbe-004336ee0a65",
-  "end": "7aa23ea5-cc1e-4ac4-9397-08543e760bc2",
+  "id": "02IiNr0GOoKiPMMMgvNZ2QXeto0R0x2SZLhNU",
+  "start": "02IiNr0GOoKiPMMdURp6WyL0WId8SC1AEORBL",
+  "end": "02IiNr0GOoKiPMM4fkThnF4p2pgPBXJP3R2nj",
   "data": {
     "scenario": "command.token.revoke.group"
   }

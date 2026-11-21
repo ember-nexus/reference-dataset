@@ -1,8 +1,8 @@
 {
   "type": "OWNS",
-  "id": "d42455a7-ae21-4646-88ad-3eaba5142432",
-  "start": "1a0fd886-9f62-497f-8d20-bd61a40b49b7",
-  "end": "374fa7ea-4df7-475c-a6a6-b35ff7b9bae1",
+  "id": "02IiNr0GOoKiPMMmFuRgAW8oP2XPupt6cNrJJ",
+  "start": "02IiNr0GOoKiPMLJcaYYMjzRWmmzIWX6IP64A",
+  "end": "02IiNr0GOoKiPMLXrgsX6POy5ig63PDT1kKLQ",
   "data": {
     "scenario": "endpoint.element.deleteElement.node"
   }

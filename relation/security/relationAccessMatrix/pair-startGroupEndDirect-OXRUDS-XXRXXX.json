@@ -1,8 +1,8 @@
 {
   "type": "RELATION",
-  "id": "fff905f7-18de-453b-954f-cae52cde29d5",
-  "start": "75034fd9-d756-4ced-9336-03a3efa2384f",
-  "end": "9f4b51c9-169e-47fb-a7d4-90040118e915",
+  "id": "02IiNr0GOoKiPMN7aiD2qkn4t7PErkEnzY0LS",
+  "start": "02IiNr0GOoKiPMM1vvel76ZkO6cWT5823nEmM",
+  "end": "02IiNr0GOoKiPMMMVa83QgS4tnHXdbaYBf2dp",
   "data": {
     "scenario": "security.relationAccessMatrix"
   }

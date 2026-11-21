@@ -1,8 +1,8 @@
 {
   "type": "HAS_SEARCH_ACCESS",
-  "id": "5b1ba5dc-00cc-40ef-8636-1ee787fbe39c",
-  "start": "f62057de-2007-4eb8-9aee-2e7219350799",
-  "end": "0bd476e6-f235-4905-8308-05a06cd4996c",
+  "id": "02IiNr0GOoKiPMLpIteNTJZEBZ3N4towsOwex",
+  "start": "02IiNr0GOoKiPMN2oORnBc92qKE6s9v8sFANO",
+  "end": "02IiNr0GOoKiPMLCiA63zekG40bf42HJXAZCB",
   "data": {
     "scenario": "security.relationAccessMatrix"
   }

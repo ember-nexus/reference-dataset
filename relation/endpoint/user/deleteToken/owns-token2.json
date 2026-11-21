@@ -1,8 +1,8 @@
 {
   "type": "OWNS",
-  "id": "74a682b3-311e-4ec3-bf0a-54893694be4d",
-  "start": "1eb25cca-9c9e-4ec9-a9be-9044741b2b8c",
-  "end": "ed1891bf-d7a8-4e64-ba0d-ebec82ad173e",
+  "id": "02IiNr0GOoKiPMM1kdAF9mq7woYAABsys7L5i",
+  "start": "02IiNr0GOoKiPMLLu0opsnf5wGeR8ddFPJCht",
+  "end": "02IiNr0GOoKiPMMyOqJqrppkU5TJ1cxYvG7KE",
   "data": {
     "scenario": "endpoint.user.deleteToken"
   }

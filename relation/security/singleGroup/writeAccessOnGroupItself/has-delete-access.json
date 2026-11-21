@@ -1,8 +1,8 @@
 {
   "type": "HAS_DELETE_ACCESS",
-  "id": "2a4138eb-680e-4baa-a7f4-81c2ca1bb427",
-  "start": "9d84e8cb-dd22-40a5-9658-34873ea734d1",
-  "end": "67f8978f-6205-4e95-a20c-e82fa3367f6a",
+  "id": "02IiNr0GOoKiPMLRX5sWQNzatzgL6clGEiFA6",
+  "start": "02IiNr0GOoKiPMMLehPkYraK2uxS6mknzdQBx",
+  "end": "02IiNr0GOoKiPMLvZafnE4cjgxHsGZ4POSLgq",
   "data": {
     "scenario": "security.singleGroup.writeAccessOnGroupItself"
   }

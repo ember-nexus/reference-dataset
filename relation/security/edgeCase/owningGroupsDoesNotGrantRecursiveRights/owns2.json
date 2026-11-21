@@ -1,8 +1,8 @@
 {
   "type": "OWNS",
-  "id": "51c5172d-f390-49a8-a70f-fabfb1cba98f",
-  "start": "c3c99512-f29d-46d0-8d3f-37e89d6a079c",
-  "end": "23f86352-4382-4fbd-bc6b-848fa3eadae0",
+  "id": "02IiNr0GOoKiPMLklgnSrn1sqHngH8vBbgEqW",
+  "start": "02IiNr0GOoKiPMMeHYr0dC5W63nJhUCwz5TD2",
+  "end": "02IiNr0GOoKiPMLOSYvbNseT9wAmaD6nCLdhG",
   "data": {
     "scenario": "security.edgeCase.owningGroupsDoesNotGrantRecursiveRights"
   }

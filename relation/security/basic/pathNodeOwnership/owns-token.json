@@ -1,8 +1,8 @@
 {
   "type": "OWNS",
-  "id": "a96c63c4-3c84-4612-9a63-68b4884ac82f",
-  "start": "16520184-8319-4ab7-a38a-63f8ae11d715",
-  "end": "7fe52609-b241-4cf7-8f9f-83de45d0a072",
+  "id": "02IiNr0GOoKiPMMRRHNJKZkmdZpWDS0Vs7CHw",
+  "start": "02IiNr0GOoKiPMLHp9gTsylLsihEObPUC1Oc7",
+  "end": "02IiNr0GOoKiPMM7EHA1TEPQA6KMd1SeOPNjQ",
   "data": {
     "scenario": "security.basic.pathNodeOwnership"
   }
