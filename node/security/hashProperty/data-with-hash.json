@@ -1,0 +1,9 @@
+{
+  "type": "Data",
+  "id": "02IiNr0GOuahwcW5CInRgD231CrK4G7nTWoWS",
+  "data": {
+    "name": "Data with hash",
+    "hash": "data-hash-1",
+    "scenario": "security.hashProperty"
+  }
+}

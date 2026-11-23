@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "02IiNr0GOuahwcVVrTFpM9bW1oS3AyyRdhnLB",
+  "start": "02IiNr0GOuahwcWgEiWI03RNb78wcLMsVaw5i",
+  "end": "02IiNr0GOuahwcVCkRWoCCuIwNk1UQ2Wz4vQL",
+  "data": {
+    "scenario": "security.hashProperty"
+  }
+}
