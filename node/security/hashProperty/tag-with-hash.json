@@ -1,0 +1,9 @@
+{
+  "type": "Tag",
+  "id": "02IiNr0GOuahwcVCkRWoCCuIwNk1UQ2Wz4vQL",
+  "data": {
+    "name": "Tag with hash",
+    "hash": "tag-hash-1",
+    "scenario": "security.hashProperty"
+  }
+}

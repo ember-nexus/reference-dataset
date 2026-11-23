@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "02IiNr0GOuahwcWgEiWI03RNb78wcLMsVaw5i",
+  "data": {
+    "name": "User owner",
+    "email": "owner@hashProperty.security.localhost.dev",
+    "scenario": "security.hashProperty"
+  }
+}

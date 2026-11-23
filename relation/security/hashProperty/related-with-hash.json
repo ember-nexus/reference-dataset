@@ -1,0 +1,10 @@
+{
+  "type": "RELATED",
+  "id": "02IiNr0GOuahwcW9UOXAs84X2aSk2GIqTs518",
+  "start": "02IiNr0GOuahwcW5CInRgD231CrK4G7nTWoWS",
+  "end": "02IiNr0GOuahwcWezNwe87HZMLhQXFvPhvSWO",
+  "data": {
+    "hash": "relation-hash-1",
+    "scenario": "security.hashProperty"
+  }
+}
