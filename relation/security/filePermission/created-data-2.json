@@ -1,9 +1,0 @@
-{
-  "type": "CREATED",
-  "id": "02IiNr0GOoKiPMM8qFXQulcbcaizdvOZz5PtX",
-  "start": "02IiNr0GOoKiPMMCv6aelPEQHNEmWILyVID7s",
-  "end": "02IiNr0GOoKiPMLvmoJUS5jw7mEdNxIBTBkDU",
-  "data": {
-    "scenario": "security.filePermission"
-  }
-}

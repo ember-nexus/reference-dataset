@@ -1,0 +1,9 @@
+{
+  "type": "Data",
+  "id": "02IiNr0GOset2DBQmVVGsFJK1mSwruQmd7AG0",
+  "data": {
+    "name": "Element created-by-user-match",
+    "createdBy": "02IiNr0GOset2DCHtJxJ0KgGdMb0aAE4yTzJH",
+    "scenario": "security.conditionalIndex"
+  }
+}

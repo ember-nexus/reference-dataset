@@ -1,0 +1,9 @@
+{
+  "type": "Data",
+  "id": "02IiNr0GOset2DgjJtzF3A3ukyOnnNyvlqLoM",
+  "data": {
+    "name": "Hidden document",
+    "secret": "s3cr3t-value-of-the-victim",
+    "scenario": "security.searchSideChannel"
+  }
+}

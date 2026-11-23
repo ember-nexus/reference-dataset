@@ -1,0 +1,10 @@
+{
+  "type": "HAS_READ_ACCESS",
+  "id": "02IiNr0GOset2DiBJf1BvmohCD511unKqL9qt",
+  "start": "02IiNr0GOset2DCHtJxJ0KgGdMb0aAE4yTzJH",
+  "end": "02IiNr0GOset2DhZIsDAA7xJ7Abr2gImeTEor",
+  "data": {
+    "onState": "02IiNr0GOset2DATg3XK7PxaaId7DUCFyShpn",
+    "scenario": "security.conditionalIndex"
+  }
+}

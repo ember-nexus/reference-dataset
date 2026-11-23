@@ -1,0 +1,8 @@
+{
+  "type": "State",
+  "id": "02IiNr0GOset2DCDiojh8maTsA9a8EzjzRyxn",
+  "data": {
+    "name": "State B",
+    "scenario": "security.conditionalIndex"
+  }
+}

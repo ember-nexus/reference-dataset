@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "02IiNr0GOset2DiYmY9hrpUuSoKkMI3Cv71Yo",
+  "start": "02IiNr0GOset2DiKPsPhDExxLrHOFt3MA4ies",
+  "end": "02IiNr0GOset2Di2yjAJTsxQqs2cD5oQwLDHl",
+  "data": {
+    "scenario": "security.tokenExpiration"
+  }
+}

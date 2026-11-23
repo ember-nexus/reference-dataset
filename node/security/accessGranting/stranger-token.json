@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "02IiNr0GOset2CfBEGBhhNLSPP4kJPhWCtjlF",
+  "data": {
+    "token": "secret-token:msp7o1b2OPxDwr2hkmgkjx",
+    "hash": "cdba176df86ca86beef526a72277dcb95abdb187bd741c8d8f4c2ee0c05ac792",
+    "scenario": "security.accessGranting",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}

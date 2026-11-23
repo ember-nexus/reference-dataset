@@ -1,0 +1,9 @@
+{
+  "type": "HAS_STATE",
+  "id": "02IiNr0GOset2DCKxsE1jR9prEpSspik9sAAf",
+  "start": "02IiNr0GOset2DCKAt54NXN3l8neMz9rwXqh0",
+  "end": "02IiNr0GOset2DATg3XK7PxaaId7DUCFyShpn",
+  "data": {
+    "scenario": "security.conditionalIndex"
+  }
+}

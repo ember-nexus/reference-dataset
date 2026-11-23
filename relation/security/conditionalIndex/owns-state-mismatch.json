@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "02IiNr0GOset2DiHLImNEH0QCAQujuY1yqzZc",
+  "start": "02IiNr0GOset2DCKAt54NXN3l8neMz9rwXqh0",
+  "end": "02IiNr0GOset2DhodypyB3pUDtDpeqT4Mkhvx",
+  "data": {
+    "scenario": "security.conditionalIndex"
+  }
+}

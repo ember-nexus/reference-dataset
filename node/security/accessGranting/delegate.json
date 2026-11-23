@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "02IiNr0GOset2CeuJ62KrZwyOjoywRVb9Rz7z",
+  "data": {
+    "name": "User delegate",
+    "email": "delegate@accessGranting.security.localhost.dev",
+    "scenario": "security.accessGranting"
+  }
+}

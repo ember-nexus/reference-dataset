@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "02IiNr0GOset2Di8dhiX4mkdLw894kTEHhRbC",
+  "start": "02IiNr0GOset2DhcgLH2pQXv4yoHmwjUU3wJy",
+  "end": "02IiNr0GOset2DgjJtzF3A3ukyOnnNyvlqLoM",
+  "data": {
+    "scenario": "security.searchSideChannel"
+  }
+}

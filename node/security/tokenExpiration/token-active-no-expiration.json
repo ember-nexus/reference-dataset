@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "02IiNr0GOset2Di2yjAJTsxQqs2cD5oQwLDHl",
+  "data": {
+    "token": "secret-token:Yanzkp3xfO3n6Lsev6NFEx",
+    "hash": "7a7113d058f683861c718f16c93c4fe1a07580d500c9cdb90aac93eb22f35802",
+    "scenario": "security.tokenExpiration",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}
