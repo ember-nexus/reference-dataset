@@ -1,0 +1,9 @@
+{
+  "type": "HAS_UPDATE_ACCESS",
+  "id": "02IiNr0GOset2DAcveV5AiTt3bhq5sz16bYur",
+  "start": "02IiNr0GOset2CeuJ62KrZwyOjoywRVb9Rz7z",
+  "end": "02IiNr0GOset2CfWts3mseByuFM8L56chPCS8",
+  "data": {
+    "scenario": "security.accessGranting"
+  }
+}

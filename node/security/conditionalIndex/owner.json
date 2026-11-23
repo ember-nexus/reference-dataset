@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "02IiNr0GOset2DCKAt54NXN3l8neMz9rwXqh0",
+  "data": {
+    "name": "User owner",
+    "email": "owner@conditionalIndex.security.localhost.dev",
+    "scenario": "security.conditionalIndex"
+  }
+}

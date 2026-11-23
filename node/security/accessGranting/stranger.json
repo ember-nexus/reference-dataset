@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "02IiNr0GOset2CgFhRvI9IDJV2RFFe923bP87",
+  "data": {
+    "name": "User stranger",
+    "email": "stranger@accessGranting.security.localhost.dev",
+    "scenario": "security.accessGranting"
+  }
+}

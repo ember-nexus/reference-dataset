@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- Security scenarios for the API's security hardening:
+  - `security.accessGranting`: users with different access (owner, reader, delegate with read and update access,
+    stranger) to a document and a group, to test who may create access granting relations.
+  - `security.conditionalIndex`: one user with `HAS_READ_ACCESS` relations with each of the conditions `onLabel`,
+    `onParentLabel`, `onCreatedByUser` and `onState` (matching and not matching), to test conditional read access in
+    collections. Adds the node type `State` and the relation type `HAS_STATE`.
+  - `security.tokenExpiration`: active tokens without and with a future `expirationDate`.
+  - `security.searchSideChannel`: a victim user with a password hash and a hidden document, and an attacker user.
+
+### Changed
+- **BREAKING CHANGE**: Replaced the two `CREATED` relations of the `security.filePermission` scenario with the
+  `createdBy` property of the created elements, as the API no longer uses `CREATED` relations.
+- `summary.json` now contains the graph structure (`graphStructure.nodeTypes` and `graphStructure.relationTypes`).
 
 ## 0.1.0 - 2026-11-21
 ### Changed

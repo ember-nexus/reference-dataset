@@ -3,6 +3,7 @@
   "id": "02IiNr0GOoKiPMLvmoJUS5jw7mEdNxIBTBkDU",
   "data": {
     "name": "File Permission Data 2",
-    "scenario": "security.filePermission"
+    "scenario": "security.filePermission",
+    "createdBy": "02IiNr0GOoKiPMMCv6aelPEQHNEmWILyVID7s"
   }
 }

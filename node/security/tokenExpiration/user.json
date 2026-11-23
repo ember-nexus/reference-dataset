@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "02IiNr0GOset2DiKPsPhDExxLrHOFt3MA4ies",
+  "data": {
+    "name": "User user",
+    "email": "user@tokenExpiration.security.localhost.dev",
+    "scenario": "security.tokenExpiration"
+  }
+}

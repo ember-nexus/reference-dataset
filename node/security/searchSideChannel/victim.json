@@ -1,0 +1,10 @@
+{
+  "type": "User",
+  "id": "02IiNr0GOset2DhcgLH2pQXv4yoHmwjUU3wJy",
+  "data": {
+    "name": "User victim",
+    "email": "victim@searchSideChannel.security.localhost.dev",
+    "_passwordHash": "$argon2id$v=19$m=65536,t=4,p=1$LkF0cVR1SGV2cll5NTc4Tw$ZWbBGqCbiPu7erKkAmY5N7JgVXJGrvfLLxapGvAUSDk",
+    "scenario": "security.searchSideChannel"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "OWNS",
+  "id": "02IiNr0GOset2DCGJ9WSd6FStpUceKJ6ZRj9r",
+  "start": "02IiNr0GOset2CeuJ62KrZwyOjoywRVb9Rz7z",
+  "end": "02IiNr0GOset2Cg4HoWyh0sn1SZeowEyQNOeJ",
+  "data": {
+    "scenario": "security.accessGranting"
+  }
+}

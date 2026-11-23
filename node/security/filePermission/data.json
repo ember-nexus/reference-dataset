@@ -4,7 +4,8 @@
   "data": {
     "name": "File Permission Data",
     "scenario": "security.filePermission",
-    "hasFile": true
+    "hasFile": true,
+    "createdBy": "02IiNr0GOoKiPMMCv6aelPEQHNEmWILyVID7s"
   },
   "file": {
     "contentLength": 63933,

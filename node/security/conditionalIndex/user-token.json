@@ -1,0 +1,11 @@
+{
+  "type": "Token",
+  "id": "02IiNr0GOset2DAgJAc9d8fNdsPMfSM0DDXii",
+  "data": {
+    "token": "secret-token:8BXna8kGtTSwhsgU3JwwUS",
+    "hash": "b34cd0ef6a59753e9db6e7a7b5a352b5973db5cac12aebc2520f355e2d2ee69a",
+    "scenario": "security.conditionalIndex",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE"
+  }
+}

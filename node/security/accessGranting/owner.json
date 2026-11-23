@@ -1,0 +1,9 @@
+{
+  "type": "User",
+  "id": "02IiNr0GOset2CeHrvNXzVTmiFP0yFya9PHAv",
+  "data": {
+    "name": "User owner",
+    "email": "owner@accessGranting.security.localhost.dev",
+    "scenario": "security.accessGranting"
+  }
+}

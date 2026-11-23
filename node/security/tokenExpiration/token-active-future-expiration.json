@@ -1,0 +1,12 @@
+{
+  "type": "Token",
+  "id": "02IiNr0GOset2Di7MOqDNMaKCwCY0uKVDcxvl",
+  "data": {
+    "token": "secret-token:zIilRhStgm0FOLBWWFWwK7",
+    "hash": "ddd47be91daeb5e50af1f367e11ade95b1357331e763730230b944103219ebf2",
+    "scenario": "security.tokenExpiration",
+    "note": "Token contains token only due to testing purposes.",
+    "state": "ACTIVE",
+    "expirationDate": "2999-01-01T00:00:00+00:00"
+  }
+}

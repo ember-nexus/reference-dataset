@@ -1,0 +1,9 @@
+{
+  "type": "HAS_READ_ACCESS",
+  "id": "02IiNr0GOset2DCQGBCelJkDKuMiF9gYpXl73",
+  "start": "02IiNr0GOset2CeQGkTVUIDocRXXRlStI1KIP",
+  "end": "02IiNr0GOset2CfWts3mseByuFM8L56chPCS8",
+  "data": {
+    "scenario": "security.accessGranting"
+  }
+}
